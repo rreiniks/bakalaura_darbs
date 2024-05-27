@@ -1,0 +1,62 @@
+Theory of Algorithms
+The goal of the courese is to introduce the main notions of the theory of computation and their applications to the analysis of specific computational problems. Tasks: 1. Provide knowledge about theoretical models of computation, algorithmically solvable and unsolvable problems, and basic notions of computational complexity. 2. Create skills for determining the computational complexity of various problems and classifying them by their complexity. The course is taught in Latvian and English.
+3
+IS-o
+DatZB042
+
+Human - computer interaction
+The aim of the course is to introduce psychological, social and technological aspects determining human interaction with computer. Course will provide a comprehensive overview of the principles of human perception and their relations with computational systems and interface usability. Students will also have skills necessary for conducting empirical research in testing computational systems and interfaces. Course tasks: 1) Explain the area of interface research within the context and overall development of interdisciplinary research; 2) Provide the understanding about factors determining interface perception (within the context of different areas of computing science); 3) Provide a core overview of theoretic frameworks and applicable methods.
+The languages of instruction are Latvian and English.
+3
+IS-o
+DatZB071
+
+Databases II
+The goal of the course is to learn in-depth the principles of relational database systems. The task is to familiarize students with data structures and algorithms that are used in relational database implementations. At the end of the course, students are expected to be able to justify and apply different capabilities of relational databases. The course is delivered in English and Latvian.
+3
+IS-o
+DatZB045
+
+Data Warehouses
+The course is intended to give students an insight into the development of a specific type of information systems, the data warehouses. The aim of the course is to provide students with knowledge and practical skills in data warehouse design, development and effective maintenance. The tasks of the course are to look at large-scale data processing issues and the corresponding database technologies, data warehouse architecture and its development processes, dimensional modeling, and specifics of data warehouse projects , as well as to enable students to learn and apply data warehouse software to implement tasks that are corresponding to the real data warehouse projects. Languages of instruction are Latvian and English.
+6
+IS-o
+DatZB029
+
+Modeling basics
+The aim of the course is to basic knowldege of the practical use of system modeling languages and tools. The tasks of the course include getting acquainted with two main types of system modeling (object-oriented modeling and business modeling), mastering UML class diagrams, mastering business modeling, which is necessary for the needs of object-oriented modeling. In addition, they include a review of the system modeling methodology, learning how to use class diagrams in metamodels in construction, solving specific modeling tasks. Case studies are included, and system modelling methodology is discussed. Language of instruction: Latvian and English
+3
+IS-o
+DatZB049
+
+Oracle Design Tools
+The goal of this course is to provide the theoretical aspects about development of information systems (IS) with CASE (Computer Aided System Engineering) tools; Oracle SQL Developer Data Modeler and Oracle APEX are used to illustrate the theoretical aspects. The tasks of the course are to analyze the use of different models in system development (data, process, etc. models), the application of these models in different phases of IS development life cycle, as well as Oracle SQL Developer Data Modeler and Oracle APEX CASE tools support for the implementation of these models. Students will have the opportunity to learn Oracle SQL Developer Data Modeler and Oracle APEX tools: according to the theoretical aspects learned in lectures, developing a prototype of a small system in practical work. The course is implemented in Latvian and English.
+3
+IS-o
+DatZB030
+
+Operating System Concepts
+Course goal: To learn about the basic principles of modern operating systems that affect software performance and fair distribution of computing resources. Course objectives: To master the fundamental components of operating systems architecture, and practice evaluating operating system performance depending on various configuration parameters. The operating system is an essential component of any computer system. This course does not cover specific operating systems or hardware, but fundamental concepts that are applicable to any operating system. The following questions are answered: what are operating systems, what do they do, how are they designed, and how has the concept of the operating system evolved historically? The course covers the basic concepts of process and CPU planning, memory management, secondary and tertiary memory structure, protection and security, as well as computer system performance evaluation. Language of the course implementation: Latvian.
+3
+IS-o
+DatZB057
+
+Software Requirement Analysis
+The aim of the course is to provide students with knowledge about the process of information system (IS) requirements clarification, analysis and documentation. The course envisages the application of the information acquired in lectures in practical classes, simulating the relationship between the customer and the developer. Within the course, students perform the following main tasks: perform system analysis using interviewing methods and learn requirements accumulation methods, present their results in two rounds and prepare a system implementation vision document, including main requirements, technological solution, approximate development plan, additional costs and customer benefits from system implementation, etc. Language of the course - Latvian.
+3
+IS-o
+DatZB037
+
+Software Testing
+This software testing course provides students with basic concepts of testing theory and practice. The goal of the course is to explain the necessity of software testing, to demonstrate various methods, its selection and combination according to program, to obtain practical testing skills, and to understand testing process and related problems. The main attention is paid to static, structural and functional testing, and software testing process organization. The course provides the basics of software testing theory and practice. The aim of the course is to explain the importance of testing in the development of high quality software, to demonstrate the diversity of testing methods, their choice and their interaction, depending on the specific nature of the program, to acquire practical skills in testing, and to understand problems that hinder the testing process. Particular attention is paid to static, structural and functional testing and to the organization of the testing process. Study course tasks: presenting the concepts of software testing, testing processes and management, static and dynamic testing methods; providing insight into the practical application of testing methods using software specification and structure; analysing software using defectoriented and experience-based testing methods; giving an insight into the testing of software quality characteristics; comparative analysis of different software testing tools. The course is delivered in Latvian and English.
+3
+IS-o
+DatZB055
+
+Web application security
+The course is intended to provide an overview of web application security from different viewpoints - web developer, malicious attacker and penetration tester. This course covers the most common vulnerabilities according to the OWASP Top 10 list. All vulnerability categories are provided with explanations of root causes, how to identify vulnerabilities and exploit them, and additionally how to properly address these vulnerabilities while developing web applications. Every vulnerability category is provided with practical assignments which enable students to acquire penetration testing skills. Students independently study OWASP Web Security Testing Guide to complete a course project, where security testing is conducted for a selected web application. Languages of instruction are Latvian and English.
+3
+IS-o
+DatZB054
+
+

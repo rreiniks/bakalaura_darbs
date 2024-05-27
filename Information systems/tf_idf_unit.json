@@ -1,0 +1,3402 @@
+[
+    {
+        "name": "Foundations of Information Systems - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Classify component element operation impact",
+                "term_frequencies": {
+                    "components": 0.10729626272522197,
+                    "technology": 0.08111652752881755,
+                    "hardware": 0.10092073268767314,
+                    "software": 0.06768785240751082,
+                    "communication": 0.07839337953440825,
+                    "medium": 0.11551575050955858,
+                    "data": 0.04879075291478611,
+                    "people": 0.14690467304293314,
+                    "proceduresprocesses": 0.14690467304293314,
+                    "operations": 0.12710046788407756,
+                    "processing": 0.3465472515286757,
+                    "cycle": 0.10092073268767314,
+                    "input": 0.10092073268767314,
+                    "storage": 0.10092073268767314,
+                    "output": 0.10729626272522197,
+                    "control": 0.06768785240751082,
+                    "way": 0.12710046788407756,
+                    "help": 0.14690467304293314,
+                    "u": 0.14690467304293314,
+                    "deal": 0.14690467304293314,
+                    "information": 0.06595572035561267,
+                    "functions": 0.11551575050955858,
+                    "operation": 0.0874920575663664,
+                    "impact": 0.10729626272522197,
+                    "facilitating": 0.14690467304293314,
+                    "organizational": 0.0874920575663664,
+                    "change": 0.09571154535070299,
+                    "common": 0.12710046788407756,
+                    "type": 0.06953181015429856,
+                    "transaction": 0.11551575050955858,
+                    "systems": 0.21459252545044394,
+                    "enterprise": 0.10729626272522197
+                }
+            },
+            {
+                "name": "2 Interpret dimension characteristic value quality information",
+                "term_frequencies": {
+                    "dimensions": 0.5712959507225178,
+                    "information": 0.5129889360992097,
+                    "quality": 0.4492279186482833,
+                    "evaluation": 0.4172632439314188,
+                    "method": 0.3271598865740489,
+                    "virtual": 0.4942795973269683,
+                    "value": 0.2951952118571844,
+                    "chain": 0.4942795973269683
+                }
+            },
+            {
+                "name": "3 Explain role responsibility characteristic professional",
+                "term_frequencies": {
+                    "roles": 0.5053814084793188,
+                    "responsibility": 0.382777751852853,
+                    "professional": 1.9281238336884976,
+                    "characteristics": 0.5560645469928394,
+                    "ethical": 0.3994691759309183,
+                    "standard": 0.46942114942284613
+                }
+            },
+            {
+                "name": "4 Recommend technique using information knowledge business decision making strategic value",
+                "term_frequencies": {
+                    "value": 0.13283784533573298,
+                    "information": 0.28855627655580546,
+                    "methods": 0.088305641101714,
+                    "storing": 0.11121290939856787,
+                    "organizing": 0.11121290939856787,
+                    "role": 0.08374760218186512,
+                    "decision": 0.441665846874966,
+                    "making": 0.3349904087274605,
+                    "types": 0.06441785497602807,
+                    "technique": 0.06641892266786649,
+                    "stages": 0.1285415889125665,
+                    "appropriate": 0.07097696158771537,
+                    "system": 0.11542251062232219,
+                    "tool": 0.05771125531116109,
+                    "key": 0.088305641101714,
+                    "issue": 0.08374760218186512,
+                    "trend": 0.1285415889125665,
+                    "alignment": 0.11121290939856787,
+                    "business": 0.1216806677700225,
+                    "strategic": 0.18776845976913847,
+                    "planning": 0.07989383518618366,
+                    "process": 0.047089175462029446,
+                    "knowledge": 0.11121290939856787,
+                    "support": 0.07989383518618366
+                }
+            },
+            {
+                "name": "5 Analyze business case critique appropriate solution common business problem based different component element type level",
+                "term_frequencies": {
+                    "components": 0.15647371647428204,
+                    "operations": 0.18535484899761312,
+                    "information": 0.09618542551860182,
+                    "processing": 0.3369209389862125,
+                    "cycle": 0.14717606850285664,
+                    "input": 0.14717606850285664,
+                    "storage": 0.14717606850285664,
+                    "output": 0.15647371647428204,
+                    "control": 0.09871145142761995,
+                    "elements": 0.18535484899761312,
+                    "data": 0.07115318133406306,
+                    "hardware": 0.14717606850285664,
+                    "software": 0.09871145142761995,
+                    "communication": 0.11432367848767871,
+                    "process": 0.1569639182067648,
+                    "types": 0.10736309162671345,
+                    "utility": 0.21423598152094417,
+                    "solution": 0.1395793369697752,
+                    "tool": 0.09618542551860182,
+                    "different": 0.11069820444644414,
+                    "business": 0.10140055647501874,
+                    "context": 0.14717606850285664
+                }
+            },
+            {
+                "name": "6 Critique recommend Enterprise Systems given business problem process",
+                "term_frequencies": {
+                    "business": 0.1738295253857464,
+                    "process": 0.1345405013200841,
+                    "modelling": 0.3177511697101939,
+                    "optimization": 0.3177511697101939,
+                    "components": 0.2682406568130549,
+                    "enterprise": 0.5364813136261098,
+                    "system": 0.32977860177806334,
+                    "types": 0.18405101421722306,
+                    "function": 0.28878937627389645,
+                    "including": 0.2682406568130549,
+                    "erp": 0.36726168260733283,
+                    "bi": 0.36726168260733283
+                }
+            },
+            {
+                "name": "7 Identify technique transmitting securing information organization",
+                "term_frequencies": {
+                    "methods": 0.11973646251079864,
+                    "transmitting": 0.17429367988144612,
+                    "information": 0.3130101982978229,
+                    "using": 0.07825254957445572,
+                    "network": 0.17033410613260705,
+                    "including": 0.12730065069094132,
+                    "communication": 0.09300909436285726,
+                    "web": 0.25460130138188264,
+                    "20": 0.17429367988144612,
+                    "30": 0.17429367988144612,
+                    "application": 0.07825254957445572,
+                    "iot": 0.12730065069094132,
+                    "crowdsourcing": 0.17429367988144612,
+                    "key": 0.05986823125539932,
+                    "component": 0.05986823125539932,
+                    "types": 0.08734624403529231,
+                    "security": 0.09623994791554626,
+                    "threat": 0.15079716528619372,
+                    "technology": 0.04811997395777313,
+                    "solution": 0.11355607075507135,
+                    "privacy": 0.3769929132154843,
+                    "consequences": 0.08714683994072306,
+                    "violation": 0.08714683994072306,
+                    "technologies": 0.06852629267516187,
+                    "fair": 0.08714683994072306,
+                    "practice": 0.04990574540960068,
+                    "policy": 0.06365032534547066,
+                    "government": 0.08714683994072306,
+                    "regulation": 0.06365032534547066
+                }
+            },
+            {
+                "name": "8 Demonstrate ability solve basic computational design problem using development appropriate methodology software tool innovative method improving process organizational change",
+                "term_frequencies": {
+                    "methods": 0.11774085480228533,
+                    "tool": 0.1538966808297629,
+                    "using": 0.07694834041488145,
+                    "information": 0.07694834041488145,
+                    "buy": 0.17138878521675535,
+                    "versus": 0.17138878521675535,
+                    "build": 0.1482838791980905,
+                    "decision": 0.09814796597221467,
+                    "outsourcing": 0.17138878521675535,
+                    "possibility": 0.17138878521675535,
+                    "model": 0.07324081924454065,
+                    "2": 0.26953675118897,
+                    "understand": 0.2503579463588513,
+                    "computational": 0.296567758396181,
+                    "method": 0.19629593194442935,
+                    "software": 0.1579383222841919,
+                    "development": 0.1538966808297629,
+                    "methodology": 0.1482838791980905,
+                    "systems": 0.12517897317942564,
+                    "lifecycle": 0.17138878521675535,
+                    "innovation": 0.134768375594485,
+                    "design": 0.07153104276495563,
+                    "technique": 0.08855856355715531
+                }
+            }
+        ]
+    },
+    {
+        "name": "Data / Information Management - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Query relational model",
+                "term_frequencies": {
+                    "relations": 0.17729874332767795,
+                    "tuples": 0.17729874332767795,
+                    "field": 0.17729874332767795,
+                    "3": 0.13941556095981208,
+                    "apply": 0.1155139340439519,
+                    "model": 0.07576636473573171,
+                    "data": 0.05888539144887978,
+                    "using": 0.15920346292734094,
+                    "table": 0.17729874332767795,
+                    "row": 0.17729874332767795,
+                    "column": 0.17729874332767795,
+                    "key": 0.12180088427822619,
+                    "user": 0.18322461425618342,
+                    "story": 0.27883112191962417,
+                    "business": 0.08391770191036034,
+                    "requirement": 0.11019839336025332,
+                    "translate": 0.17729874332767795,
+                    "sql": 0.13941556095981208,
+                    "statement": 0.15339711641181775,
+                    "select": 0.1155139340439519,
+                    "order": 0.15339711641181775,
+                    "distinct": 0.17729874332767795,
+                    "join": 0.17729874332767795,
+                    "group": 0.15339711641181775,
+                    "subqueries": 0.17729874332767795,
+                    "union": 0.17729874332767795
+                }
+            },
+            {
+                "name": "2 Design relational database",
+                "term_frequencies": {
+                    "integrity": 0.13908774797713958,
+                    "entity": 0.13908774797713958,
+                    "referential": 0.1904319835741726,
+                    "check": 0.1904319835741726,
+                    "constraint": 0.1904319835741726,
+                    "anomalies": 0.1904319835741726,
+                    "functional": 0.13908774797713958,
+                    "dependency": 0.13908774797713958,
+                    "normalization": 0.1904319835741726,
+                    "normal": 0.1904319835741726,
+                    "form": 0.13082317200253923,
+                    "conversion": 0.1904319835741726,
+                    "bcnf": 0.1904319835741726,
+                    "conceptual": 0.3295197315513122,
+                    "logical": 0.4172632439314188,
+                    "model": 0.48827212829693767,
+                    "physical": 0.3295197315513122,
+                    "transform": 0.1904319835741726
+                }
+            },
+            {
+                "name": "3 Programming database system using function trigger",
+                "term_frequencies": {
+                    "sql": 0.8086102535669101,
+                    "procedural": 1.028332711300532,
+                    "language": 0.5888877958332881,
+                    "functions": 0.8086102535669101,
+                    "trigger": 1.028332711300532
+                }
+            },
+            {
+                "name": "4 Secure database",
+                "term_frequencies": {
+                    "views": 0.3427775704335107,
+                    "authorization": 0.2503579463588513,
+                    "4": 0.296567758396181,
+                    "analysis": 0.16684041512582673,
+                    "identify": 0.2041481343215216,
+                    "potential": 0.296567758396181,
+                    "prevent": 0.3427775704335107,
+                    "sql": 0.26953675118897,
+                    "injection": 0.296567758396181,
+                    "access": 0.23548170960457065,
+                    "control": 0.1579383222841919,
+                    "dac": 0.3427775704335107,
+                    "mac": 0.3427775704335107,
+                    "rbac": 0.3427775704335107,
+                    "abac": 0.3427775704335107
+                }
+            },
+            {
+                "name": "5 Compare tradeoff different concurrency mode",
+                "term_frequencies": {
+                    "concurrency": 0.42847196304188834,
+                    "recovery": 0.42847196304188834,
+                    "acid": 0.37070969799522624,
+                    "database": 0.2943521370057133,
+                    "transaction": 0.673841877972425,
+                    "property": 0.2943521370057133,
+                    "atomicity": 0.42847196304188834,
+                    "consistency": 0.37070969799522624,
+                    "isolation": 0.42847196304188834,
+                    "durability": 0.42847196304188834,
+                    "level": 0.3369209389862125
+                }
+            },
+            {
+                "name": "6 Develop nonrelational model",
+                "term_frequencies": {
+                    "explain": 0.3369209389862125,
+                    "need": 0.2943521370057133,
+                    "nonrelational": 0.42847196304188834,
+                    "model": 0.1831020481113516,
+                    "design": 0.35765521382477816,
+                    "build": 0.7414193959904525,
+                    "keyvalue": 0.42847196304188834,
+                    "store": 0.6258948658971282,
+                    "document": 0.2943521370057133
+                }
+            }
+        ]
+    },
+    {
+        "name": "Data / Business Analytics - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Apply principle computational thinking CT learning data science",
+                "term_frequencies": {
+                    "principles": 0.4942795973269683,
+                    "computational": 0.4942795973269683,
+                    "thinking": 0.3924695160076177,
+                    "decomposition": 0.4942795973269683,
+                    "abstraction": 0.4172632439314188,
+                    "pattern": 0.3924695160076177,
+                    "recognition": 0.5712959507225178,
+                    "generalizationabstraction": 0.5712959507225178,
+                    "automation": 0.4942795973269683
+                }
+            },
+            {
+                "name": "2 Analyze data science problem CT framework",
+                "term_frequencies": {
+                    "data": 0.28461272533625226,
+                    "science": 0.8569439260837767,
+                    "problem": 0.5326255679078911,
+                    "framework": 0.5583173478791008,
+                    "thinking": 0.5887042740114266,
+                    "ct": 0.8569439260837767
+                }
+            },
+            {
+                "name": "3 Express business problem data problem",
+                "term_frequencies": {
+                    "business": 0.3476590507714928,
+                    "problem": 0.9130724021278132,
+                    "data": 0.24395376457393053,
+                    "characteristic": 0.6355023394203878,
+                    "analysis": 0.35751517526962867,
+                    "policy": 0.5364813136261098
+                }
+            },
+            {
+                "name": "4 Perform exploratory data analysis inception value proposition",
+                "term_frequencies": {
+                    "human": 1.8776845976913845,
+                    "vision": 1.285415889125665,
+                    "perception": 1.1121290939856787
+                }
+            },
+            {
+                "name": "5 Explain core principle behind analytics task classification clustering optimization recommendation",
+                "term_frequencies": {
+                    "types": 0.5153428398082246,
+                    "data": 0.3415352704035028,
+                    "numerical": 1.028332711300532,
+                    "v": 0.706445128813712,
+                    "categorical": 1.028332711300532
+                }
+            },
+            {
+                "name": "6 Articulate nature potential Big Data",
+                "term_frequencies": {
+                    "different": 0.37953670095923703,
+                    "type": 0.3476590507714928,
+                    "plot": 1.4690467304293313,
+                    "mapping": 0.6355023394203878,
+                    "data": 0.24395376457393053,
+                    "aesthetic": 0.7345233652146657
+                }
+            },
+            {
+                "name": "7 Demonstrate big data tool real world casestudies",
+                "term_frequencies": {
+                    "algorithmic": 0.7345233652146657,
+                    "processing": 0.5775787525477929,
+                    "data": 0.48790752914786106,
+                    "relational": 0.6355023394203878,
+                    "operation": 0.437460287831832,
+                    "set": 0.5364813136261098
+                }
+            }
+        ]
+    },
+    {
+        "name": "Data / Information Visualization - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Explain fundamental human perception vision",
+                "term_frequencies": {
+                    "using": 0.25649446804960485,
+                    "plotting": 0.5712959507225178,
+                    "library": 0.355083711938594,
+                    "ggplot": 0.5712959507225178,
+                    "plotnine": 0.5712959507225178,
+                    "basics": 0.5712959507225178,
+                    "scale": 0.5712959507225178,
+                    "geoms": 0.5712959507225178,
+                    "coordinate": 0.5712959507225178
+                }
+            },
+            {
+                "name": "2 Demonstrate effective way displaying numeric data count proportion",
+                "term_frequencies": {
+                    "hypothesis": 1.285415889125665,
+                    "generation": 1.285415889125665,
+                    "interactive": 1.285415889125665,
+                    "visualization": 1.285415889125665
+                }
+            },
+            {
+                "name": "3 information understandable efficient effective aesthetic manner purpose explaining idea analyzing data",
+                "term_frequencies": {
+                    "art": 0.6427079445628325,
+                    "narrative": 0.6427079445628325,
+                    "5": 0.6427079445628325,
+                    "analyze": 0.6427079445628325,
+                    "exploratory": 0.6427079445628325,
+                    "v": 0.44152820550856997,
+                    "explanatory": 0.6427079445628325,
+                    "exposition": 0.6427079445628325
+                }
+            },
+            {
+                "name": "4 tool R Python perform basic data manipulation filtering aggregating organizing data set",
+                "term_frequencies": {
+                    "individual": 0.3177511697101939,
+                    "component": 0.2523018317191828,
+                    "infrastructure": 0.9571154535070299,
+                    "functions": 0.28878937627389645,
+                    "plan": 0.16921963101877704,
+                    "manage": 0.28878937627389645,
+                    "organizing": 0.3177511697101939,
+                    "structure": 0.218730143915916,
+                    "process": 0.1345405013200841,
+                    "role": 0.23927886337675747,
+                    "business": 0.1738295253857464
+                }
+            },
+            {
+                "name": "5 Produce graphic using visualization tool",
+                "term_frequencies": {
+                    "layers": 0.5712959507225178,
+                    "tcpip": 0.5712959507225178,
+                    "protocol": 0.4492279186482833,
+                    "suite": 0.4942795973269683,
+                    "osi": 0.5712959507225178,
+                    "model": 0.24413606414846883,
+                    "duties": 0.5712959507225178,
+                    "layer": 0.5712959507225178,
+                    "network": 0.18610578262636693,
+                    "security": 0.15772658130603412
+                }
+            },
+            {
+                "name": "6 Develop transformation model fit explore check assumption data",
+                "term_frequencies": {
+                    "components": 0.9388422988456923,
+                    "network": 0.8374760218186512,
+                    "clientserver": 0.6427079445628325,
+                    "wired": 0.6427079445628325,
+                    "wireless": 0.5560645469928394,
+                    "protocol": 0.5053814084793188
+                }
+            },
+            {
+                "name": "7 Express story data compelling narrative",
+                "term_frequencies": {
+                    "configuration": 0.18535484899761312,
+                    "setup": 0.21423598152094417,
+                    "process": 0.0784819591033824,
+                    "network": 0.4187380109093256,
+                    "hardware": 0.14717606850285664,
+                    "software": 0.09871145142761995,
+                    "supporting": 0.18535484899761312,
+                    "device": 0.1395793369697752,
+                    "component": 0.14717606850285664,
+                    "four": 0.21423598152094417,
+                    "type": 0.10140055647501874,
+                    "computer": 0.1395793369697752,
+                    "lan": 0.21423598152094417,
+                    "wan": 0.21423598152094417,
+                    "pan": 0.21423598152094417,
+                    "man": 0.21423598152094417,
+                    "topology": 0.21423598152094417,
+                    "mesh": 0.21423598152094417,
+                    "star": 0.21423598152094417,
+                    "bus": 0.21423598152094417,
+                    "ring": 0.21423598152094417,
+                    "hybrid": 0.21423598152094417
+                }
+            }
+        ]
+    },
+    {
+        "name": "IT infrastructure - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Explain key infrastructure concept including function define critical function plan manage infrastructure",
+                "term_frequencies": {
+                    "types": 0.07362040568688923,
+                    "protocol": 1.039641754586027,
+                    "transmission": 0.14690467304293314,
+                    "control": 0.06768785240751082,
+                    "tcp": 0.14690467304293314,
+                    "internet": 0.12710046788407756,
+                    "ip": 0.14690467304293314,
+                    "user": 0.07590734019184742,
+                    "datagram": 0.14690467304293314,
+                    "udp": 0.14690467304293314,
+                    "post": 0.14690467304293314,
+                    "office": 0.14690467304293314,
+                    "pop": 0.14690467304293314,
+                    "simple": 0.14690467304293314,
+                    "mail": 0.14690467304293314,
+                    "transport": 0.14690467304293314,
+                    "smtp": 0.14690467304293314,
+                    "file": 0.12710046788407756,
+                    "transfer": 0.4407140191287995,
+                    "ftp": 0.14690467304293314,
+                    "hypertext": 0.2938093460858663,
+                    "http": 0.14690467304293314,
+                    "secure": 0.12710046788407756,
+                    "https": 0.14690467304293314
+                }
+            },
+            {
+                "name": "2 Explain principle layered network architecture",
+                "term_frequencies": {
+                    "basic": 0.24360176855645238,
+                    "form": 0.12180088427822619,
+                    "system": 0.07960173146367047,
+                    "attack": 0.17729874332767795,
+                    "access": 0.12180088427822619,
+                    "control": 0.0816922356642372,
+                    "computer": 0.1155139340439519,
+                    "network": 0.1155139340439519,
+                    "techniques": 0.27883112191962417,
+                    "make": 0.17729874332767795,
+                    "data": 0.05888539144887978,
+                    "secure": 0.3067942328236355,
+                    "strengths": 0.17729874332767795,
+                    "weakness": 0.17729874332767795,
+                    "password": 0.17729874332767795,
+                    "feature": 0.09789925736236602,
+                    "cryptography": 0.15339711641181775,
+                    "firewalls": 0.17729874332767795,
+                    "type": 0.08391770191036034,
+                    "firewall": 0.17729874332767795,
+                    "protection": 0.12949548949595754,
+                    "wireless": 0.15339711641181775,
+                    "communication": 0.09461269943807893,
+                    "advantages": 0.12180088427822619,
+                    "security": 0.09789925736236602,
+                    "policy": 0.12949548949595754
+                }
+            },
+            {
+                "name": "3 Explain component infrastructure solution clientserver network hardware including wireless wired",
+                "term_frequencies": {
+                    "infrastructure": 1.1166346957582016,
+                    "component": 0.5887042740114266,
+                    "planning": 1.0652511358157821,
+                    "continuity": 0.8569439260837767
+                }
+            },
+            {
+                "name": "4 Explain principle network software configuration",
+                "term_frequencies": {
+                    "foundations": 2.2242581879713574,
+                    "togaf": 1.0107628169586376,
+                    "itil": 1.0107628169586376
+                }
+            },
+            {
+                "name": "5 Explain network protocol configuration",
+                "term_frequencies": {
+                    "data": 0.5692254506725045,
+                    "communication": 0.9145894279014297,
+                    "cryptography": 1.482838791980905
+                }
+            },
+            {
+                "name": "6 Illustrate clear understanding security principle pertain network",
+                "term_frequencies": {
+                    "authentication": 0.6258948658971282,
+                    "authorization": 0.6258948658971282,
+                    "access": 0.5887042740114266,
+                    "control": 0.3948458057104798,
+                    "data": 0.28461272533625226,
+                    "integrity": 0.6258948658971282
+                }
+            },
+            {
+                "name": "7 Examine critique infrastructure organization",
+                "term_frequencies": {
+                    "securitybydesign": 0.5712959507225178,
+                    "data": 0.3794836337816697,
+                    "sanitization": 1.1425919014450356,
+                    "input": 0.3924695160076177,
+                    "validation": 0.3402468905358693,
+                    "security": 0.31545316261206824,
+                    "vulnerability": 0.4942795973269683
+                }
+            },
+            {
+                "name": "8 Examine critique server architecture physical cloudbased",
+                "term_frequencies": {
+                    "identification": 0.5775787525477929,
+                    "authentication": 0.5364813136261098,
+                    "access": 0.5046036634383656,
+                    "authorization": 0.5364813136261098,
+                    "audit": 0.7345233652146657,
+                    "trail": 0.7345233652146657,
+                    "logs": 0.7345233652146657
+                }
+            },
+            {
+                "name": "9 Explain concept Enterprise Architecture",
+                "term_frequencies": {
+                    "privacy": 0.6355023394203878,
+                    "tradeoff": 0.7345233652146657,
+                    "risk": 0.47855772675351493,
+                    "social": 0.5364813136261098,
+                    "context": 1.0092073268767312,
+                    "organizational": 0.437460287831832
+                }
+            }
+        ]
+    },
+    {
+        "name": "Secure Computing - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Explain purpose cryptography used data communication",
+                "term_frequencies": {
+                    "types": 0.3681020284344461,
+                    "cyberattacks": 2.203570095643997,
+                    "anatomy": 0.7345233652146657,
+                    "mitigation": 0.6355023394203878,
+                    "mechanism": 0.7345233652146657
+                }
+            },
+            {
+                "name": "2 Describe concept authentication authorization access control data integrity help enhance data security",
+                "term_frequencies": {
+                    "identify": 0.437460287831832,
+                    "prioritize": 0.7345233652146657,
+                    "risk": 0.9571154535070299,
+                    "factor": 0.7345233652146657,
+                    "management": 0.24395376457393053,
+                    "technique": 0.37953670095923703
+                }
+            },
+            {
+                "name": "3 Explain security requirement important software design",
+                "term_frequencies": {
+                    "security": 0.7097696158771536,
+                    "law": 1.1121290939856787,
+                    "regulation": 0.9388422988456923,
+                    "standard": 0.9388422988456923
+                }
+            },
+            {
+                "name": "4 Analyze concept identification authentication access authorization context protecting people device",
+                "term_frequencies": {
+                    "research": 0.6427079445628325,
+                    "method": 0.36805487239580503,
+                    "theory": 0.5560645469928394,
+                    "emerging": 0.5053814084793188,
+                    "technology": 0.3548848079385768,
+                    "type": 0.3042016694250562,
+                    "feature": 0.3548848079385768,
+                    "impact": 0.46942114942284613
+                }
+            },
+            {
+                "name": "5 Analyze importance social medium privacy security",
+                "term_frequencies": {
+                    "business": 0.4424751555273545,
+                    "requirement": 0.29052303704066784,
+                    "analysis": 0.22750965698976372,
+                    "emerging": 0.3675501152576864,
+                    "technology": 0.25809804213714677,
+                    "type": 0.22123757776367725,
+                    "evaluate": 0.4044105796311559,
+                    "method": 0.26767627083331275,
+                    "need": 0.3211114221880509,
+                    "classification": 0.46742395968206
+                }
+            },
+            {
+                "name": "6 Illustrate cyberattacks work avoid counteract malicious consequence",
+                "term_frequencies": {
+                    "recommender": 1.028332711300532,
+                    "framework": 0.669980817454921,
+                    "decision": 0.5888877958332881,
+                    "making": 0.669980817454921,
+                    "simulations": 1.028332711300532
+                }
+            },
+            {
+                "name": "7 Describe risk management technique identify prioritize risk factor information asset risk assessed",
+                "term_frequencies": {
+                    "appropriate": 0.40558263764408775,
+                    "theory": 0.6355023394203878,
+                    "related": 0.4565362010639066,
+                    "technology": 0.40558263764408775,
+                    "implementation": 0.437460287831832,
+                    "evaluation": 0.5364813136261098,
+                    "framework": 0.47855772675351493
+                }
+            },
+            {
+                "name": "8 Illustrate type security law regulation standard organization operates",
+                "term_frequencies": {
+                    "ethics": 1.285415889125665,
+                    "fundamental": 2.57083177825133,
+                    "sustainability": 1.1121290939856787
+                }
+            }
+        ]
+    },
+    {
+        "name": "Emerging Technologies - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Research identify selection current emerging technology",
+                "term_frequencies": {
+                    "organizational": 0.437460287831832,
+                    "behavior": 0.437460287831832,
+                    "business": 0.3476590507714928,
+                    "impact": 1.0729626272522197,
+                    "technology": 0.40558263764408775,
+                    "identification": 0.5775787525477929
+                }
+            },
+            {
+                "name": "2 Evaluate technology based range business requirement",
+                "term_frequencies": {
+                    "design": 0.2145931282948669,
+                    "method": 0.5888877958332881,
+                    "prototyping": 0.514166355650266,
+                    "analysis": 0.5005212453774802,
+                    "business": 0.243361335540045,
+                    "problem": 0.31957534074473465,
+                    "solution": 0.3349904087274605,
+                    "creation": 0.4448516375942715
+                }
+            },
+            {
+                "name": "3 Make recommendation usage technology",
+                "term_frequencies": {
+                    "communication": 0.3919668976720413,
+                    "team": 0.4565362010639066,
+                    "working": 0.6355023394203878,
+                    "timekeeping": 0.7345233652146657,
+                    "notetaking": 0.7345233652146657,
+                    "project": 0.37953670095923703,
+                    "management": 0.24395376457393053
+                }
+            },
+            {
+                "name": "4 Investigate technology theoretical lens",
+                "term_frequencies": {
+                    "purpose": 0.3190384845023433,
+                    "system": 0.5496310029634389,
+                    "analysis": 0.23834345017975245,
+                    "design": 0.2043744078998732,
+                    "accomplish": 0.21183411314012926,
+                    "objective": 0.2448411217382219,
+                    "need": 0.16820122114612188,
+                    "value": 0.126512233653079,
+                    "formalized": 0.2448411217382219,
+                    "stepbystep": 0.2448411217382219,
+                    "approach": 0.21183411314012926,
+                    "implementation": 0.145820095943944,
+                    "computer": 0.15951924225117164,
+                    "information": 0.10992620059268779
+                }
+            },
+            {
+                "name": "5 Evaluate technology ethical sustainability perspective",
+                "term_frequencies": {
+                    "project": 0.12357008868440277,
+                    "definition": 0.05172693460398506,
+                    "attribute": 0.05172693460398506,
+                    "systems": 0.1310012510017245,
+                    "request": 0.11957357108145722,
+                    "technical": 0.10345386920797012,
+                    "software": 0.027547381793754402,
+                    "requirement": 0.14863969336964403,
+                    "specifications": 0.05172693460398506,
+                    "feasibility": 0.17936035662218583,
+                    "costbenefit": 0.05978678554072861,
+                    "analysis": 0.058200144811334904,
+                    "economic": 0.05978678554072861,
+                    "business": 0.02829782971395872,
+                    "documentation": 0.041072391210099535,
+                    "organizational": 0.035607232730497956,
+                    "management": 0.05957010530293653,
+                    "plan": 0.13773690896877203,
+                    "responsibility": 0.035607232730497956,
+                    "assignment": 0.05172693460398506,
+                    "matrix": 0.05172693460398506,
+                    "functional": 0.0436670836672415,
+                    "nonfunctional": 0.05978678554072861,
+                    "elicitation": 0.05172693460398506,
+                    "technique": 0.03089252217110069,
+                    "root": 0.05172693460398506,
+                    "cause": 0.04701222404458779,
+                    "cases": 0.05172693460398506,
+                    "work": 0.07431984668482201,
+                    "breakdown": 0.05172693460398506,
+                    "structure": 0.035607232730497956,
+                    "schedule": 0.05172693460398506,
+                    "critical": 0.0436670836672415,
+                    "path": 0.04701222404458779,
+                    "risk": 0.03895237310784424,
+                    "role": 0.03895237310784424,
+                    "migration": 0.05978678554072861,
+                    "maintenance": 0.10345386920797012,
+                    "program": 0.04701222404458779,
+                    "infrastructure": 0.03895237310784424,
+                    "design": 0.02495268933661243,
+                    "user": 0.03089252217110069,
+                    "interfaces": 0.05172693460398506,
+                    "data": 0.039713403535291014,
+                    "model": 0.025549122992281622,
+                    "entity": 0.0436670836672415,
+                    "relationship": 0.03715992334241101,
+                    "diagram": 0.12321717363029859,
+                    "erds": 0.05978678554072861,
+                    "process": 0.02190194207536253,
+                    "modeling": 0.04701222404458779,
+                    "flow": 0.041072391210099535,
+                    "database": 0.041072391210099535,
+                    "creation": 0.05172693460398506,
+                    "testing": 0.041072391210099535,
+                    "performance": 0.03715992334241101,
+                    "security": 0.033012540273355984,
+                    "deployment": 0.0436670836672415,
+                    "terminating": 0.05978678554072861,
+                    "system": 0.0268424443307726,
+                    "change": 0.03895237310784424,
+                    "document": 0.041072391210099535
+                }
+            },
+            {
+                "name": "6 Identify impact technology society business",
+                "term_frequencies": {
+                    "system": 0.31478866533360594,
+                    "development": 0.31478866533360594,
+                    "life": 0.6066158694467338,
+                    "cycle": 0.4816671332820763,
+                    "sdlc": 0.5513251728865295,
+                    "model": 0.3994953776974945,
+                    "agile": 0.1837750576288432,
+                    "waterfall": 0.20220528981557795,
+                    "relevant": 0.20220528981557795
+                }
+            },
+            {
+                "name": "7 Practically design apply technology business problem",
+                "term_frequencies": {
+                    "team": 1.0652511358157821,
+                    "environment": 0.5583173478791008,
+                    "tool": 0.3847417020744073,
+                    "skill": 0.5583173478791008,
+                    "communication": 0.45729471395071486
+                }
+            },
+            {
+                "name": "8 Apply emerging technology teamwork scenario",
+                "term_frequencies": {
+                    "different": 0.3125596360840776,
+                    "type": 0.2863074535765235,
+                    "data": 0.20090310023735455,
+                    "diagraming": 0.30245079744133296,
+                    "model": 0.25849700909837875,
+                    "used": 0.18013070675428378,
+                    "entity": 0.44180814063326695,
+                    "relationship": 0.18798549455572625,
+                    "diagram": 0.20777797906285644,
+                    "bachman": 0.30245079744133296,
+                    "chen": 0.30245079744133296,
+                    "orm": 0.26167743387898323
+                }
+            }
+        ]
+    },
+    {
+        "name": "Systems Analysis and Design - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Explain system developed",
+                "term_frequencies": {
+                    "roles": 0.8086102535669101,
+                    "responsibility": 0.6124444029645648,
+                    "stakeholder": 0.7510738390765539,
+                    "management": 0.3415352704035028,
+                    "plan": 0.47381496685257574
+                }
+            },
+            {
+                "name": "2 Demonstrate SDLC phase activity",
+                "term_frequencies": {
+                    "historical": 0.6427079445628325,
+                    "failed": 0.6427079445628325,
+                    "project": 0.6641892266786649,
+                    "risk": 0.8374760218186512,
+                    "management": 0.21345954400218922,
+                    "plan": 0.29613435428285984
+                }
+            },
+            {
+                "name": "3 Identify SDLC Models Agile Waterfall Vshaped iterative spiral",
+                "term_frequencies": {
+                    "foundations": 2.2242581879713574,
+                    "togaf": 1.0107628169586376,
+                    "itil": 1.0107628169586376
+                }
+            },
+            {
+                "name": "4 Work effectively team environment",
+                "term_frequencies": {
+                    "select": 0.1763107414355055,
+                    "appropriate": 0.04980839409664235,
+                    "primitive": 0.3608184951931691,
+                    "data": 0.14979617122960645,
+                    "type": 0.2561698268842579,
+                    "store": 0.06588367009443453,
+                    "recall": 0.09020462379829228,
+                    "numeric": 0.27061387139487686,
+                    "stringcharacter": 0.09020462379829228,
+                    "boolean": 0.07804414694636341,
+                    "define": 0.13176734018886907,
+                    "new": 0.06588367009443453,
+                    "derivative": 0.09020462379829228,
+                    "used": 0.053723193242505685,
+                    "compose": 0.09020462379829228,
+                    "complex": 0.09020462379829228,
+                    "precision": 0.09020462379829228,
+                    "storage": 0.12393774189714245,
+                    "fractional": 0.09020462379829228,
+                    "information": 0.04049912653414813,
+                    "magnitude": 0.09020462379829228,
+                    "integral": 0.09020462379829228,
+                    "value": 0.09321954058647927,
+                    "relative": 0.09020462379829228,
+                    "available": 0.07093072399709736,
+                    "volatile": 0.06588367009443453,
+                    "memory": 0.0587702471451685,
+                    "relationship": 0.05606584925346221,
+                    "binary": 0.18040924759658455,
+                    "octal": 0.09020462379829228,
+                    "decimal": 0.09020462379829228,
+                    "hexagonal": 0.09020462379829228,
+                    "expression": 0.07804414694636341,
+                    "explain": 0.07093072399709736,
+                    "importance": 0.07804414694636341,
+                    "nature": 0.07804414694636341,
+                    "computer": 0.0587702471451685
+                }
+            },
+            {
+                "name": "5 Describe data modeling technique",
+                "term_frequencies": {
+                    "apply": 0.25768492979035423,
+                    "arithmetic": 0.1318375270898118,
+                    "operator": 0.4146719249061077,
+                    "data": 0.0437865731286542,
+                    "transformation": 0.1318375270898118,
+                    "utilize": 0.07549843536324205,
+                    "assignment": 0.11406452246006961,
+                    "set": 0.09629151783032741,
+                    "value": 0.20436591590112765,
+                    "stored": 0.39551258126943545,
+                    "variable": 0.11406452246006961,
+                    "associated": 0.11406452246006961,
+                    "volatile": 0.28887455349098223,
+                    "memory": 0.25768492979035423,
+                    "precedence": 0.1318375270898118,
+                    "impact": 0.09629151783032741,
+                    "specification": 0.10366798122652693,
+                    "validation": 0.07851851320058523,
+                    "operation": 0.07851851320058523,
+                    "unary": 0.1318375270898118,
+                    "transpositional": 0.1318375270898118,
+                    "modify": 0.22812904492013922,
+                    "languagespecific": 0.09629151783032741,
+                    "keywords": 0.11406452246006961,
+                    "availability": 0.11406452246006961
+                }
+            },
+            {
+                "name": "6 Describe role responsibility participant SDLC",
+                "term_frequencies": {
+                    "mathematical": 0.1555019718397904,
+                    "expression": 0.34219356738020884,
+                    "resolve": 0.19775629063471772,
+                    "multiple": 0.1555019718397904,
+                    "operation": 0.2355555396017557,
+                    "single": 0.1555019718397904,
+                    "value": 0.10218295795056383,
+                    "develop": 0.3110039436795808,
+                    "boolean": 0.17109678369010442,
+                    "predicate": 0.34219356738020884,
+                    "utilize": 0.11324765304486309,
+                    "relational": 0.17109678369010442,
+                    "operator": 0.3110039436795808,
+                    "compound": 0.19775629063471772,
+                    "using": 0.08878654663255553,
+                    "logical": 0.28887455349098223,
+                    "relationship": 0.1229135925941287,
+                    "computer": 0.12884246489517712,
+                    "processor": 0.19775629063471772,
+                    "architecture": 0.13585483246417537
+                }
+            },
+            {
+                "name": "7 Explain common way project fail avoid failure",
+                "term_frequencies": {
+                    "basic": 0.07849390320152355,
+                    "algebraic": 0.11425919014450357,
+                    "concept": 0.09885591946539367,
+                    "mathematical": 0.08984558372965668,
+                    "function": 0.08984558372965668,
+                    "modularity": 0.09885591946539367,
+                    "strategy": 0.07101674238771881,
+                    "organization": 0.07444231305054677,
+                    "complexity": 0.09885591946539367,
+                    "management": 0.037948363378166976,
+                    "define": 0.2503579463588513,
+                    "subroutinemethodfunction": 0.5712959507225178,
+                    "defines": 0.11425919014450357,
+                    "parameter": 0.11425919014450357,
+                    "passed": 0.11425919014450357,
+                    "argument": 0.11425919014450357,
+                    "functional": 0.08345264878628376,
+                    "return": 0.09885591946539367,
+                    "value": 0.05903904237143688,
+                    "utilize": 0.13086395462961958,
+                    "call": 0.09885591946539367,
+                    "code": 0.06804937810717387,
+                    "apply": 0.07444231305054677,
+                    "benefit": 0.09885591946539367,
+                    "wellnamed": 0.11425919014450357,
+                    "subroutinesmethodsfunctions": 0.11425919014450357,
+                    "express": 0.09885591946539367,
+                    "process": 0.04185704485513728,
+                    "outcome": 0.09885591946539367,
+                    "action": 0.08984558372965668,
+                    "behavior": 0.06804937810717387,
+                    "verb": 0.11425919014450357,
+                    "languagespecific": 0.08345264878628376,
+                    "keywords": 0.09885591946539367,
+                    "modify": 0.09885591946539367,
+                    "availability": 0.09885591946539367,
+                    "persistence": 0.08984558372965668,
+                    "visibility": 0.08984558372965668
+                }
+            },
+            {
+                "name": "8 Identify Enterprise Architecture concept related SDLC phase",
+                "term_frequencies": {
+                    "understand": 0.27817549595427915,
+                    "necessity": 0.1904319835741726,
+                    "storing": 0.08237993288782805,
+                    "accessing": 0.08237993288782805,
+                    "set": 0.06954387398856979,
+                    "related": 0.059180618656432336,
+                    "value": 0.04919920197619739,
+                    "single": 0.0748713197747139,
+                    "logical": 0.06954387398856979,
+                    "physical": 0.08237993288782805,
+                    "memory": 0.12407052175091128,
+                    "structure": 0.28353907544655776,
+                    "contiguous": 0.0952159917870863,
+                    "linear": 0.2856479753612589,
+                    "data": 0.1581181807423624,
+                    "appropriate": 0.052575527102011375,
+                    "dynamically": 0.0952159917870863,
+                    "sized": 0.0952159917870863,
+                    "noncontiguous": 0.0952159917870863,
+                    "nonlinear": 0.1904319835741726,
+                    "basic": 0.06541158600126962,
+                    "element": 0.06203526087545564,
+                    "graph": 0.08237993288782805,
+                    "mathematical": 0.0748713197747139,
+                    "principle": 0.05670781508931155,
+                    "behind": 0.0952159917870863,
+                    "hashing": 0.0952159917870863,
+                    "algorithm": 0.0748713197747139,
+                    "storage": 0.06541158600126962,
+                    "retrieval": 0.0952159917870863,
+                    "volatile": 0.06954387398856979,
+                    "identify": 0.05670781508931155,
+                    "utilize": 0.054526647762341486,
+                    "languagespecific": 0.06954387398856979,
+                    "collection": 0.0748713197747139,
+                    "library": 0.059180618656432336,
+                    "tested": 0.0952159917870863,
+                    "implementation": 0.05670781508931155
+                }
+            }
+        ]
+    },
+    {
+        "name": "Application Development and Programming - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Develop data storage strategy using primitive data type computer volatile memory",
+                "term_frequencies": {
+                    "design": 0.2861241710598225,
+                    "object": 0.19629593194442935,
+                    "class": 0.2130502271631564,
+                    "domain": 0.296567758396181,
+                    "description": 0.3427775704335107,
+                    "identify": 0.2041481343215216,
+                    "opportunity": 0.3427775704335107,
+                    "abstraction": 0.2503579463588513,
+                    "specialization": 0.296567758396181,
+                    "dependency": 0.2503579463588513,
+                    "management": 0.11384509013450092,
+                    "using": 0.1538966808297629,
+                    "inheritance": 0.26953675118897,
+                    "composition": 0.296567758396181
+                }
+            },
+            {
+                "name": "2 Apply data transformation using arithmetic assignment transpositional operator",
+                "term_frequencies": {
+                    "apply": 0.2233269391516403,
+                    "principle": 0.2041481343215216,
+                    "elicitation": 0.296567758396181,
+                    "process": 0.12557113456541186,
+                    "documentation": 0.23548170960457065,
+                    "utilize": 0.3925918638888587,
+                    "tool": 0.3077933616595258,
+                    "structural": 0.26953675118897,
+                    "aspect": 0.53907350237794,
+                    "problem": 0.4261004543263128,
+                    "behavior": 0.2041481343215216
+                }
+            },
+            {
+                "name": "3 Develop predicate expression using relational logical operator",
+                "term_frequencies": {
+                    "work": 0.2282681005319533,
+                    "known": 0.36726168260733283,
+                    "design": 0.15328080592490492,
+                    "paradigm": 0.3177511697101939,
+                    "express": 0.3177511697101939,
+                    "requirement": 0.2282681005319533,
+                    "iteratively": 0.36726168260733283,
+                    "maintain": 0.3177511697101939,
+                    "specification": 0.28878937627389645,
+                    "develop": 0.28878937627389645,
+                    "increment": 0.3177511697101939,
+                    "goal": 0.2682406568130549,
+                    "development": 0.16488930088903167,
+                    "validation": 0.218730143915916
+                }
+            },
+            {
+                "name": "4 Express algorithmic problemsolving using sequence selection repetition structure",
+                "term_frequencies": {
+                    "select": 0.47855772675351493,
+                    "apply": 0.7178365901302725,
+                    "basic": 0.2523018317191828,
+                    "design": 0.15328080592490492,
+                    "pattern": 0.5046036634383656,
+                    "architectural": 0.36726168260733283,
+                    "solid": 0.28878937627389645,
+                    "principles": 0.3177511697101939,
+                    "complexity": 0.3177511697101939,
+                    "management": 0.12197688228696527
+                }
+            },
+            {
+                "name": "5 Modularize algorithmic operating capability program using function method subroutine similar organizing structure IS2020 December 2020 127",
+                "term_frequencies": {
+                    "identify": 0.24497776118582593,
+                    "implement": 0.3004295356306215,
+                    "relevant": 0.3558813100754172,
+                    "aspect": 0.32344410142676405,
+                    "library": 0.2556602725957877,
+                    "endogenous": 0.20566654226010642,
+                    "programming": 0.32344410142676405,
+                    "language": 0.23555511833331522,
+                    "development": 0.1846760169957155,
+                    "platform": 0.32344410142676405,
+                    "exogenous": 0.20566654226010642,
+                    "utilize": 0.11777755916665761,
+                    "semantic": 0.20566654226010642,
+                    "versioning": 0.20566654226010642,
+                    "dependency": 0.15021476781531076,
+                    "specification": 0.16172205071338203
+                }
+            },
+            {
+                "name": "6 Select utilize appropriate linear nonlinear data structure maintain manage set related data nonvolatile memory",
+                "term_frequencies": {
+                    "select": 0.23927886337675747,
+                    "develop": 0.28878937627389645,
+                    "utilize": 0.21031706994046,
+                    "appropriate": 0.20279131882204388,
+                    "application": 0.16488930088903167,
+                    "programming": 0.28878937627389645,
+                    "interface": 0.28878937627389645,
+                    "maintain": 0.3177511697101939,
+                    "code": 0.437460287831832,
+                    "integrity": 0.2682406568130549,
+                    "using": 0.16488930088903167,
+                    "source": 0.2682406568130549,
+                    "management": 0.12197688228696527
+                }
+            },
+            {
+                "name": "7 Utilize ObjectOriented concept organization structuring program behavior concept management",
+                "term_frequencies": {
+                    "select": 0.2791586739395504,
+                    "appropriate": 0.23658987195905118,
+                    "unit": 0.37070969799522624,
+                    "acceptance": 0.3369209389862125,
+                    "integration": 0.2943521370057133,
+                    "testing": 0.2943521370057133,
+                    "strategy": 0.26631278395394553,
+                    "explain": 0.3369209389862125,
+                    "technical": 0.37070969799522624,
+                    "debt": 0.42847196304188834,
+                    "accrued": 0.42847196304188834,
+                    "paid": 0.42847196304188834
+                }
+            },
+            {
+                "name": "8 Conduct systematic requirement analysis determine basic fact used organize application programming effort solve problem reach goal",
+                "term_frequencies": {
+                    "utilize": 0.5353525416666255,
+                    "continuous": 0.3675501152576864,
+                    "integration": 0.3211114221880509,
+                    "deployment": 0.3413971995802517,
+                    "strategy": 0.29052303704066784,
+                    "software": 0.21537043947844353,
+                    "process": 0.1712333653164707,
+                    "paradigm": 0.4044105796311559,
+                    "adaptive": 0.46742395968206,
+                    "iterative": 0.3675501152576864
+                }
+            },
+            {
+                "name": "9 Formalize communicate requirement manner comprehensible stakeholder determine success software system",
+                "term_frequencies": {
+                    "select": 0.18610578262636693,
+                    "available": 0.22461395932414166,
+                    "software": 0.26323053714031985,
+                    "process": 0.2092852242756864,
+                    "methodology": 0.24713979866348415,
+                    "appropriate": 0.15772658130603412,
+                    "problem": 0.177541855969297,
+                    "domain": 0.24713979866348415,
+                    "context": 0.19623475800380885,
+                    "regularly": 0.2856479753612589,
+                    "review": 0.22461395932414166,
+                    "adjust": 0.2856479753612589,
+                    "model": 0.12206803207423442,
+                    "response": 0.24713979866348415,
+                    "changing": 0.24713979866348415,
+                    "condition": 0.2856479753612589
+                }
+            },
+            {
+                "name": "10 Specify software system architecture principal component dependency system visible comprehensible involved shaping material design construction",
+                "term_frequencies": {
+                    "utilize": 0.19629593194442935,
+                    "structure": 0.2041481343215216,
+                    "stakeholder": 0.2503579463588513,
+                    "interaction": 0.296567758396181,
+                    "specified": 0.3427775704335107,
+                    "selected": 0.3427775704335107,
+                    "software": 0.1579383222841919,
+                    "process": 0.12557113456541186,
+                    "model": 0.1464816384890813,
+                    "establish": 0.296567758396181,
+                    "goal": 0.2503579463588513,
+                    "acceptance": 0.26953675118897,
+                    "criterion": 0.2233269391516403,
+                    "product": 0.26953675118897,
+                    "increment": 0.296567758396181
+                }
+            },
+            {
+                "name": "11 Identify lateral component library designed developed system depend",
+                "term_frequencies": {
+                    "model": 0.22729909420719513,
+                    "property": 0.24360176855645238,
+                    "entity": 0.38848646848787266,
+                    "using": 0.23880519439101142,
+                    "data": 0.11777078289775957,
+                    "type": 0.16783540382072068,
+                    "variable": 0.3067942328236355,
+                    "class": 0.4407935734410133,
+                    "definition": 0.46019134923545324,
+                    "behavior": 0.10559386258009738,
+                    "procedure": 0.17729874332767795,
+                    "distinction": 0.17729874332767795,
+                    "instance": 0.15339711641181775,
+                    "member": 0.11019839336025332
+                }
+            },
+            {
+                "name": "12 Develop programming code implementation realizes system architecture design",
+                "term_frequencies": {
+                    "object": 0.45299061217945236,
+                    "instantiation": 0.7910251625388709,
+                    "operation": 0.11777776980087785,
+                    "class": 0.1229135925941287,
+                    "basis": 0.39551258126943545,
+                    "prototype": 0.19775629063471772,
+                    "using": 0.08878654663255553,
+                    "constructor": 0.17109678369010442,
+                    "related": 0.2458271851882574,
+                    "operator": 0.1555019718397904,
+                    "implementing": 0.19775629063471772,
+                    "language": 0.11324765304486309,
+                    "feature": 0.1091953255195621,
+                    "memory": 0.12884246489517712,
+                    "management": 0.0656798596929813,
+                    "unmanaged": 0.19775629063471772,
+                    "v": 0.13585483246417537,
+                    "managed": 0.19775629063471772
+                }
+            },
+            {
+                "name": "13 Test developed programming code component ensure fidelity consistency fit",
+                "term_frequencies": {
+                    "method": 0.15497047258770738,
+                    "declaration": 0.27061387139487686,
+                    "calls": 0.27061387139487686,
+                    "reference": 0.2127921719912921,
+                    "value": 0.13982931087971892,
+                    "member": 0.16819754776038665,
+                    "visibility": 0.2127921719912921,
+                    "languagespecific": 0.19765101028330362,
+                    "access": 0.18590661284571366,
+                    "modification": 0.27061387139487686,
+                    "class": 0.3363950955207733,
+                    "packaging": 0.27061387139487686,
+                    "reuse": 0.19765101028330362,
+                    "namespaces": 0.27061387139487686,
+                    "package": 0.27061387139487686,
+                    "library": 0.16819754776038665,
+                    "accessing": 0.23413244083909024,
+                    "packaged": 0.27061387139487686
+                }
+            },
+            {
+                "name": "14 Maintain software throughout deployment utilization extant new intention requirement accommodated intended purpose function",
+                "term_frequencies": {
+                    "language": 0.14722194895832202,
+                    "feature": 0.14195392317543074,
+                    "stratify": 0.257083177825133,
+                    "organize": 0.257083177825133,
+                    "member": 0.15978767037236732,
+                    "visibility": 0.20215256339172752,
+                    "accessibility": 0.257083177825133,
+                    "class": 0.15978767037236732,
+                    "design": 0.10729656414743345,
+                    "object": 0.14722194895832202,
+                    "autonomy": 0.257083177825133,
+                    "integrity": 0.18776845976913847,
+                    "using": 0.23084502124464437,
+                    "encapsulation": 0.771249533475399,
+                    "technique": 0.13283784533573298,
+                    "refactoring": 0.22242581879713574,
+                    "decoupling": 0.257083177825133
+                }
+            },
+            {
+                "name": "15 Adopt adapt appropriate software system process methodology people resource design requirement dynamic consideration allow correctness utility",
+                "term_frequencies": {
+                    "object": 0.31547560491069,
+                    "extensibility": 0.5508925239109993,
+                    "reuse": 0.40236098521958236,
+                    "inheritance": 0.43318406441084467,
+                    "kind": 0.18363084130366641,
+                    "single": 0.14439468813694822,
+                    "multiple": 0.28878937627389645,
+                    "composition": 0.15887558485509695,
+                    "dependencies": 0.18363084130366641,
+                    "constructor": 0.15887558485509695,
+                    "dependency": 0.13412032840652746,
+                    "injection": 0.15887558485509695,
+                    "inversion": 0.18363084130366641,
+                    "control": 0.08460981550938852,
+                    "interfaces": 0.15887558485509695,
+                    "mixins": 0.18363084130366641,
+                    "alternative": 0.14439468813694822,
+                    "delegation": 0.15887558485509695,
+                    "know": 0.18363084130366641
+                }
+            },
+            {
+                "name": "16 Establish maintain appropriate dialog stakeholder ensure degree communication information transparency maintain viability software system",
+                "term_frequencies": {
+                    "language": 0.11777755916665761,
+                    "feature": 0.11356313854034458,
+                    "identify": 0.12248888059291296,
+                    "class": 0.12783013629789386,
+                    "abstract": 0.485166152140146,
+                    "source": 0.15021476781531076,
+                    "inheritance": 0.32344410142676405,
+                    "instantiability": 0.20566654226010642,
+                    "refactoring": 0.1779406550377086,
+                    "design": 0.08583725131794676,
+                    "hierarchy": 0.1779406550377086,
+                    "abstraction": 0.15021476781531076,
+                    "v": 0.14128902576274238,
+                    "interface": 0.16172205071338203,
+                    "virtual": 0.1779406550377086,
+                    "member": 0.12783013629789386,
+                    "data": 0.1366141081614011,
+                    "structuring": 0.20566654226010642,
+                    "related": 0.12783013629789386,
+                    "type": 0.09734453421601799,
+                    "reference": 0.16172205071338203
+                }
+            }
+        ]
+    },
+    {
+        "name": "Object-Oriented Paradigm - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Apply fundamental element object class",
+                "term_frequencies": {
+                    "relationship": 0.13894580032379766,
+                    "baseparent": 0.4471011788263183,
+                    "class": 0.5557832012951907,
+                    "reference": 0.17578483773193695,
+                    "derivedchild": 0.4471011788263183,
+                    "instance": 0.1934137554757702,
+                    "override": 0.22355058941315914,
+                    "behavior": 0.13314008760099236,
+                    "attribute": 0.1934137554757702,
+                    "behaviors": 0.22355058941315914,
+                    "respond": 0.22355058941315914,
+                    "uniquely": 0.22355058941315914,
+                    "commonly": 0.22355058941315914,
+                    "inherited": 0.22355058941315914,
+                    "method": 0.1280190860507148,
+                    "call": 0.1934137554757702,
+                    "separation": 0.22355058941315914,
+                    "concern": 0.1934137554757702
+                }
+            },
+            {
+                "name": "2 Utilize instantiation modality",
+                "term_frequencies": {
+                    "creational": 0.5712959507225178,
+                    "structural": 0.4492279186482833,
+                    "behavioral": 0.4942795973269683,
+                    "pattern": 0.3924695160076177,
+                    "relationship": 0.355083711938594,
+                    "modeling": 0.4492279186482833,
+                    "notation": 0.4942795973269683,
+                    "solid": 0.4492279186482833,
+                    "principle": 0.3402468905358693
+                }
+            },
+            {
+                "name": "3 Utilize intraentity communication messaging",
+                "term_frequencies": {
+                    "relationship": 0.2458271851882574,
+                    "oop": 0.39551258126943545,
+                    "implementation": 0.4711110792035114,
+                    "uml": 0.34219356738020884,
+                    "limitations": 0.39551258126943545,
+                    "language": 0.22649530608972618,
+                    "objectrelational": 0.39551258126943545,
+                    "mapping": 0.34219356738020884,
+                    "data": 0.1313597193859626,
+                    "persistence": 0.3110039436795808,
+                    "reuse": 0.28887455349098223,
+                    "libraries": 0.39551258126943545
+                }
+            },
+            {
+                "name": "4 Design encapsulation",
+                "term_frequencies": {
+                    "purpose": 0.669980817454921,
+                    "client": 1.028332711300532,
+                    "frontend": 0.4448516375942715,
+                    "server": 0.889703275188543,
+                    "backend": 0.40430512678345504,
+                    "internet": 0.4448516375942715,
+                    "interacting": 0.514166355650266
+                }
+            },
+            {
+                "name": "5 Design inheritance dependency management",
+                "term_frequencies": {
+                    "algorithms": 0.4942795973269683,
+                    "logic": 0.4172632439314188,
+                    "drive": 0.4942795973269683,
+                    "solving": 0.4942795973269683,
+                    "problem": 0.355083711938594,
+                    "using": 0.25649446804960485,
+                    "algorithm": 0.8984558372965666,
+                    "efficiency": 0.4492279186482833
+                }
+            },
+            {
+                "name": "6 Design abstraction",
+                "term_frequencies": {
+                    "documentation": 0.18590661284571366,
+                    "application": 0.2429947592048888,
+                    "advantages": 0.18590661284571366,
+                    "disadvantage": 0.18590661284571366,
+                    "documenting": 0.23413244083909024,
+                    "purpose": 0.1763107414355055,
+                    "readable": 0.23413244083909024,
+                    "source": 0.39530202056660724,
+                    "code": 0.3223391594550341,
+                    "2": 0.2127921719912921,
+                    "understand": 0.19765101028330362,
+                    "best": 0.1763107414355055,
+                    "practice": 0.15497047258770738,
+                    "writing": 0.2127921719912921,
+                    "structured": 0.23413244083909024,
+                    "program": 0.2127921719912921
+                }
+            },
+            {
+                "name": "7 Apply polymorphism",
+                "term_frequencies": {
+                    "team": 0.7263075926016697,
+                    "personality": 0.20220528981557795,
+                    "responsibility": 0.13919190976467383,
+                    "communication": 0.24943348033675355,
+                    "tool": 0.10492955511120199,
+                    "proper": 0.20220528981557795,
+                    "member": 0.14526151852033392,
+                    "version": 0.3211114221880509,
+                    "control": 0.21537043947844353,
+                    "software": 0.21537043947844353,
+                    "standalone": 0.20220528981557795,
+                    "environment": 0.15226836760339113,
+                    "development": 0.10492955511120199,
+                    "project": 0.12076167757793907
+                }
+            },
+            {
+                "name": "8 Utilize design pattern",
+                "term_frequencies": {
+                    "clientside": 0.7345233652146657,
+                    "frontend": 0.6355023394203878,
+                    "skill": 0.23927886337675747,
+                    "html": 0.36726168260733283,
+                    "css": 0.36726168260733283,
+                    "javascript": 0.3177511697101939,
+                    "document": 0.2523018317191828,
+                    "object": 0.21031706994046,
+                    "model": 0.15694461266687282,
+                    "dom": 0.7345233652146657,
+                    "used": 0.218730143915916
+                }
+            },
+            {
+                "name": "9 Utilize object class entity modeling",
+                "term_frequencies": {
+                    "serverside": 1.7138878521675533,
+                    "backend": 0.673841877972425,
+                    "language": 0.49073982986107334,
+                    "nodeexpress": 0.8569439260837767,
+                    "pythondjango": 0.8569439260837767
+                }
+            }
+        ]
+    },
+    {
+        "name": "Web Development - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Demonstrate operational understanding protocol enable Internet",
+                "term_frequencies": {
+                    "full": 0.11957357108145722,
+                    "stack": 0.23914714216291444,
+                    "development": 0.2147395546461808,
+                    "mean": 0.11957357108145722,
+                    "skills": 0.11957357108145722,
+                    "create": 0.10345386920797012,
+                    "web": 0.262002502003449,
+                    "application": 0.0536848886615452,
+                    "using": 0.0536848886615452,
+                    "front": 0.11957357108145722,
+                    "backend": 0.09402444808917558,
+                    "incorporating": 0.11957357108145722,
+                    "database": 0.16428956484039814,
+                    "functionality": 0.11957357108145722,
+                    "crud": 0.11957357108145722,
+                    "javascript": 0.10345386920797012,
+                    "object": 0.06847532509689395,
+                    "notation": 0.10345386920797012,
+                    "json": 0.20690773841594023,
+                    "website": 0.07431984668482201,
+                    "us": 0.11957357108145722,
+                    "input": 0.08214478242019907,
+                    "output": 0.087334167334483,
+                    "view": 0.35872071324437166,
+                    "engine": 0.35872071324437166,
+                    "used": 0.07121446546099591,
+                    "different": 0.06178504434220138,
+                    "restful": 0.23914714216291444,
+                    "api": 0.23914714216291444
+                }
+            },
+            {
+                "name": "2 Create analyze algorithm effectiveness efficiency",
+                "term_frequencies": {
+                    "design": 0.6131232236996197,
+                    "pattern": 1.0092073268767312,
+                    "advantages": 0.5046036634383656,
+                    "disadvantage": 0.5046036634383656,
+                    "different": 0.37953670095923703
+                }
+            },
+            {
+                "name": "3 Implement documentation practice programming",
+                "term_frequencies": {
+                    "current": 0.39551258126943545,
+                    "design": 0.33014327429979523,
+                    "layout": 0.6843871347604177,
+                    "card": 0.34219356738020884,
+                    "grid": 0.39551258126943545,
+                    "magazine": 0.39551258126943545,
+                    "advantages": 0.27170966492835075,
+                    "disadvantage": 0.27170966492835075,
+                    "different": 0.20436591590112765,
+                    "pattern": 0.27170966492835075,
+                    "website": 0.2458271851882574
+                }
+            },
+            {
+                "name": "4 Demonstrate teamwork interpersonal group skill team software development",
+                "term_frequencies": {
+                    "authorization": 0.28887455349098223,
+                    "v": 0.13585483246417537,
+                    "authentication": 0.28887455349098223,
+                    "security": 0.1091953255195621,
+                    "website": 0.3687407777823861,
+                    "encryption": 0.34219356738020884,
+                    "decryption": 0.34219356738020884,
+                    "database": 0.13585483246417537,
+                    "cipher": 0.19775629063471772,
+                    "text": 0.39551258126943545,
+                    "plain": 0.19775629063471772,
+                    "symmetric": 0.19775629063471772,
+                    "key": 0.5434193298567015,
+                    "asymmetric": 0.19775629063471772,
+                    "public": 0.19775629063471772,
+                    "private": 0.19775629063471772
+                }
+            },
+            {
+                "name": "5 Demonstrate skill clientside Frontend web application development technology including HTML CSS JavaScript JavaScript library",
+                "term_frequencies": {
+                    "process": 0.18835670184811779,
+                    "debugging": 0.889703275188543,
+                    "website": 0.6391506814894693,
+                    "application": 0.23084502124464437,
+                    "difference": 0.4448516375942715,
+                    "syntax": 0.4448516375942715,
+                    "logic": 0.37553691953827695,
+                    "error": 0.40430512678345504
+                }
+            },
+            {
+                "name": "6 Demonstrate skill serverside backend web application development technology using backend programming language NodeExpress PythonDjango",
+                "term_frequencies": {
+                    "permission": 0.23413244083909024,
+                    "publish": 0.23413244083909024,
+                    "freedom": 0.23413244083909024,
+                    "speech": 0.23413244083909024,
+                    "intellectual": 0.23413244083909024,
+                    "property": 0.18590661284571366,
+                    "ownership": 0.23413244083909024,
+                    "sign": 0.23413244083909024,
+                    "automatic": 0.23413244083909024,
+                    "copyright": 0.7023973225172707,
+                    "registering": 0.23413244083909024,
+                    "alternative": 0.2127921719912921,
+                    "registration": 0.23413244083909024,
+                    "types": 0.13561653679163804,
+                    "work": 0.16819754776038665,
+                    "type": 0.12808491344212894,
+                    "protection": 0.19765101028330362
+                }
+            },
+            {
+                "name": "7 Create functioning web application portfolio presentation including limited skill shown using frontend backend SQL current web development tool",
+                "term_frequencies": {
+                    "server": 0.5560645469928394,
+                    "host": 1.285415889125665,
+                    "file": 1.1121290939856787,
+                    "deployment": 0.46942114942284613,
+                    "website": 0.3994691759309183,
+                    "configuration": 0.5560645469928394
+                }
+            },
+            {
+                "name": "8 Explain different internet design pattern MVC MVVM ability know advantage disadvantage",
+                "term_frequencies": {
+                    "iot": 0.7510738390765539,
+                    "changing": 0.296567758396181,
+                    "mobile": 0.3785437951344819,
+                    "development": 0.1538966808297629,
+                    "smart": 0.3427775704335107,
+                    "home": 0.3427775704335107,
+                    "device": 0.2233269391516403,
+                    "design": 0.14306208552991126,
+                    "application": 0.1538966808297629,
+                    "experience": 0.2503579463588513,
+                    "component": 0.23548170960457065,
+                    "challenge": 0.3427775704335107
+                }
+            },
+            {
+                "name": "9 Analyze explain different design layout pro con",
+                "term_frequencies": {
+                    "algorithms": 0.4942795973269683,
+                    "logic": 0.4172632439314188,
+                    "drive": 0.4942795973269683,
+                    "solving": 0.4942795973269683,
+                    "problem": 0.355083711938594,
+                    "using": 0.25649446804960485,
+                    "algorithm": 0.8984558372965666,
+                    "efficiency": 0.4492279186482833
+                }
+            },
+            {
+                "name": "10 Implement security measure website",
+                "term_frequencies": {
+                    "documentation": 0.20777797906285644,
+                    "application": 0.2715823779348757,
+                    "advantages": 0.20777797906285644,
+                    "disadvantage": 0.20777797906285644,
+                    "documenting": 0.26167743387898323,
+                    "purpose": 0.1970531816043885,
+                    "readable": 0.26167743387898323,
+                    "source": 0.44180814063326695,
+                    "code": 0.36026141350856755,
+                    "best": 0.1970531816043885,
+                    "practice": 0.17320229289214353,
+                    "writing": 0.23782654516673823,
+                    "structured": 0.26167743387898323,
+                    "program": 0.23782654516673823
+                }
+            },
+            {
+                "name": "11 Debug syntactical logical error",
+                "term_frequencies": {
+                    "team": 0.7263075926016697,
+                    "personality": 0.20220528981557795,
+                    "responsibility": 0.13919190976467383,
+                    "communication": 0.24943348033675355,
+                    "tool": 0.10492955511120199,
+                    "proper": 0.20220528981557795,
+                    "member": 0.14526151852033392,
+                    "version": 0.3211114221880509,
+                    "control": 0.21537043947844353,
+                    "software": 0.21537043947844353,
+                    "standalone": 0.20220528981557795,
+                    "environment": 0.15226836760339113,
+                    "development": 0.10492955511120199,
+                    "project": 0.12076167757793907
+                }
+            },
+            {
+                "name": "12 Explain Internet Copyright law",
+                "term_frequencies": {
+                    "mobile": 0.7097696158771536,
+                    "development": 0.5771125531116109,
+                    "programming": 1.0107628169586376,
+                    "language": 0.7361097447916101
+                }
+            },
+            {
+                "name": "13 Deploy website host server",
+                "term_frequencies": {
+                    "json": 0.13083871693949162,
+                    "andor": 0.15122539872066648,
+                    "database": 0.10388898953142822,
+                    "used": 0.18013070675428378,
+                    "input": 0.10388898953142822,
+                    "output": 0.11045203515831674,
+                    "crossplatform": 0.13083871693949162,
+                    "mobile": 0.41751153875126684,
+                    "application": 0.20368678345115682,
+                    "cloudbased": 0.15122539872066648,
+                    "data": 0.05022577505933864,
+                    "driving": 0.15122539872066648,
+                    "benefits": 0.15122539872066648,
+                    "development": 0.13579118896743786,
+                    "apis": 0.30245079744133296,
+                    "google": 0.15122539872066648,
+                    "maps": 0.15122539872066648,
+                    "youtube": 0.15122539872066648,
+                    "different": 0.1562798180420388,
+                    "tool": 0.06789559448371893,
+                    "hardware": 0.10388898953142822,
+                    "issue": 0.09852659080219425,
+                    "resolution": 0.15122539872066648,
+                    "device": 0.09852659080219425
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mobile Development - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Describe Internet Things IoT enabled device mobile industry",
+                "term_frequencies": {
+                    "different": 0.37953670095923703,
+                    "mobile": 0.40558263764408775,
+                    "platform": 0.5775787525477929,
+                    "tools": 0.7345233652146657,
+                    "allow": 0.7345233652146657,
+                    "crossplatform": 0.6355023394203878,
+                    "development": 0.32977860177806334
+                }
+            },
+            {
+                "name": "2 Create analyze algorithm effectiveness efficiency",
+                "term_frequencies": {
+                    "seamless": 0.39551258126943545,
+                    "experience": 0.28887455349098223,
+                    "multiple": 0.3110039436795808,
+                    "device": 0.25768492979035423,
+                    "end": 0.34219356738020884,
+                    "user": 0.20436591590112765,
+                    "personalization": 0.39551258126943545,
+                    "app": 0.28887455349098223,
+                    "mobile": 0.2183906510391242,
+                    "application": 0.17757309326511106,
+                    "layout": 0.34219356738020884,
+                    "best": 0.25768492979035423,
+                    "practice": 0.22649530608972618
+                }
+            },
+            {
+                "name": "3 Implement documentation practice programming",
+                "term_frequencies": {
+                    "security": 0.3548848079385768,
+                    "issue": 0.2093690054546628,
+                    "app": 0.23471057471142306,
+                    "store": 0.23471057471142306,
+                    "malware": 0.32135397228141627,
+                    "iot": 0.23471057471142306,
+                    "hardware": 0.22076410275428499,
+                    "authentication": 0.23471057471142306,
+                    "encryption": 0.5560645469928394,
+                    "decryption": 0.5560645469928394,
+                    "mobile": 0.1774424039692884,
+                    "application": 0.14427813827790273,
+                    "data": 0.10672977200109461
+                }
+            },
+            {
+                "name": "4 Demonstrate teamwork interpersonal group skill team software development",
+                "term_frequencies": {
+                    "memory": 1.0049712261823813,
+                    "management": 0.1707676352017514,
+                    "garbage": 0.514166355650266,
+                    "collection": 0.40430512678345504,
+                    "allocate": 0.514166355650266,
+                    "reclaim": 0.514166355650266,
+                    "app": 0.37553691953827695,
+                    "share": 0.514166355650266
+                }
+            },
+            {
+                "name": "5 Utilize contemporary mobile application development framework",
+                "term_frequencies": {
+                    "process": 0.1712333653164707,
+                    "debugging": 0.8088211592623118,
+                    "mobile": 0.5161960842742935,
+                    "application": 0.41971822044480794,
+                    "difference": 0.4044105796311559,
+                    "syntax": 0.4044105796311559,
+                    "logic": 0.3413971995802517,
+                    "error": 0.3675501152576864
+                }
+            },
+            {
+                "name": "6 Create functioning mobile application portfolio presentation including limited skill shown using database management hardware interaction APIs cross platform development current mobile development tool",
+                "term_frequencies": {
+                    "permission": 0.23413244083909024,
+                    "publish": 0.23413244083909024,
+                    "freedom": 0.23413244083909024,
+                    "speech": 0.23413244083909024,
+                    "intellectual": 0.23413244083909024,
+                    "property": 0.18590661284571366,
+                    "ownership": 0.23413244083909024,
+                    "sign": 0.23413244083909024,
+                    "automatic": 0.23413244083909024,
+                    "copyright": 0.7023973225172707,
+                    "registering": 0.23413244083909024,
+                    "alternative": 0.2127921719912921,
+                    "registration": 0.23413244083909024,
+                    "types": 0.13561653679163804,
+                    "work": 0.16819754776038665,
+                    "type": 0.12808491344212894,
+                    "protection": 0.19765101028330362
+                }
+            },
+            {
+                "name": "7 Describe distinguish different mobile development platform",
+                "term_frequencies": {
+                    "marketing": 0.2856479753612589,
+                    "plan": 0.13161526857015993,
+                    "release": 0.24713979866348415,
+                    "date": 0.2856479753612589,
+                    "competitive": 0.24713979866348415,
+                    "analysis": 0.13903367927152227,
+                    "website": 0.177541855969297,
+                    "landing": 0.2856479753612589,
+                    "page": 0.24713979866348415,
+                    "downloading": 0.2856479753612589,
+                    "app": 0.6258948658971282,
+                    "social": 0.2086316219657094,
+                    "medium": 0.22461395932414166,
+                    "mobile": 0.15772658130603412,
+                    "store": 0.2086316219657094,
+                    "publishing": 0.2856479753612589
+                }
+            },
+            {
+                "name": "8 Demonstrate mobile user interface design user experience",
+                "term_frequencies": {
+                    "understanding": 0.13480352654371863,
+                    "user": 0.4025389252597969,
+                    "task": 0.12251670508589546,
+                    "environment": 0.10151224506892742,
+                    "gathering": 0.13480352654371863,
+                    "feedback": 0.13480352654371863,
+                    "define": 0.11379906652675058,
+                    "requirement": 0.09684101234688929,
+                    "design": 0.26011288278165684,
+                    "involve": 0.15580798656068667,
+                    "process": 0.11415557687764713,
+                    "implement": 0.11379906652675058,
+                    "iterative": 0.12251670508589546,
+                    "essential": 0.15580798656068667,
+                    "element": 0.10151224506892742,
+                    "centered": 0.15580798656068667,
+                    "human": 0.22759813305350116,
+                    "capability": 0.12251670508589546,
+                    "motivate": 0.15580798656068667,
+                    "including": 0.11379906652675058,
+                    "motor": 0.15580798656068667,
+                    "skill": 0.10151224506892742,
+                    "attention": 0.15580798656068667,
+                    "error": 0.12251670508589546
+                }
+            },
+            {
+                "name": "9 Implement cyber security measure mobile application",
+                "term_frequencies": {
+                    "direct": 0.12242056086911095,
+                    "manipulation": 0.12242056086911095,
+                    "object": 0.07010568998015333,
+                    "interest": 0.12242056086911095,
+                    "ui": 0.12242056086911095,
+                    "visible": 0.12242056086911095,
+                    "acted": 0.12242056086911095,
+                    "menu": 0.2448411217382219,
+                    "based": 0.09626312542463214,
+                    "system": 0.10992620059268779,
+                    "user": 0.18976835047961851,
+                    "work": 0.07608936684398443,
+                    "way": 0.10591705657006463,
+                    "series": 0.12242056086911095,
+                    "screen": 0.12242056086911095,
+                    "form": 0.08410061057306094,
+                    "fillin": 0.12242056086911095,
+                    "need": 0.08410061057306094,
+                    "enter": 0.12242056086911095,
+                    "necessary": 0.09626312542463214,
+                    "information": 0.054963100296343895,
+                    "order": 0.10591705657006463,
+                    "complete": 0.12242056086911095,
+                    "specific": 0.10591705657006463,
+                    "task": 0.09626312542463214,
+                    "requirement": 0.07608936684398443,
+                    "command": 0.12242056086911095,
+                    "line": 0.12242056086911095,
+                    "interaction": 0.10591705657006463,
+                    "operating": 0.10591705657006463,
+                    "natural": 0.12242056086911095,
+                    "language": 0.14021137996030666,
+                    "allowing": 0.12242056086911095,
+                    "interact": 0.12242056086911095,
+                    "computer": 0.07975962112558582,
+                    "using": 0.054963100296343895,
+                    "human": 0.0894135522710183
+                }
+            },
+            {
+                "name": "10 Explain memory allocation management",
+                "term_frequencies": {
+                    "construct": 0.1318375270898118,
+                    "navigation": 0.1318375270898118,
+                    "enabling": 0.1318375270898118,
+                    "user": 0.06812197196704255,
+                    "accomplish": 0.11406452246006961,
+                    "task": 0.10366798122652693,
+                    "create": 0.34219356738020884,
+                    "intuitive": 0.1318375270898118,
+                    "form": 0.09056988830945024,
+                    "used": 0.07851851320058523,
+                    "gathering": 0.11406452246006961,
+                    "required": 0.1318375270898118,
+                    "data": 0.0437865731286542,
+                    "working": 0.11406452246006961,
+                    "application": 0.17757309326511106,
+                    "web": 0.09629151783032741,
+                    "page": 0.11406452246006961,
+                    "template": 0.1318375270898118,
+                    "appropriate": 0.07279688367970806,
+                    "device": 0.08589497659678473,
+                    "using": 0.05919103108837035,
+                    "mobilefirst": 0.1318375270898118,
+                    "design": 0.11004775809993174,
+                    "principle": 0.07851851320058523,
+                    "identify": 0.07851851320058523,
+                    "target": 0.1318375270898118,
+                    "audience": 0.11406452246006961,
+                    "audienceappropriate": 0.1318375270898118,
+                    "critical": 0.09629151783032741,
+                    "thinking": 0.09056988830945024,
+                    "skill": 0.08589497659678473,
+                    "revise": 0.1318375270898118,
+                    "based": 0.10366798122652693,
+                    "feedback": 0.11406452246006961
+                }
+            },
+            {
+                "name": "11 Debug syntactical logical error",
+                "term_frequencies": {
+                    "study": 0.1318375270898118,
+                    "perception": 0.11406452246006961,
+                    "simplicity": 0.1318375270898118,
+                    "clarity": 0.1318375270898118,
+                    "consistency": 0.11406452246006961,
+                    "hierarchy": 0.11406452246006961,
+                    "visual": 0.1318375270898118,
+                    "temporal": 0.1318375270898118,
+                    "achieve": 0.1318375270898118,
+                    "personalized": 0.1318375270898118,
+                    "experience": 0.09629151783032741,
+                    "design": 0.11004775809993174,
+                    "align": 0.10366798122652693,
+                    "information": 0.05919103108837035,
+                    "architecture": 0.09056988830945024,
+                    "application": 0.05919103108837035,
+                    "environment": 0.08589497659678473,
+                    "support": 0.08194239506275247,
+                    "usability": 0.2636750541796236,
+                    "comprehensibility": 0.1318375270898118,
+                    "search": 0.1318375270898118,
+                    "familiarity": 0.09629151783032741,
+                    "humancomputer": 0.1318375270898118,
+                    "interface": 0.10366798122652693,
+                    "principle": 0.07851851320058523,
+                    "issue": 0.08589497659678473,
+                    "implement": 0.09629151783032741,
+                    "user": 0.1362439439340851,
+                    "testing": 0.27170966492835075,
+                    "strategy": 0.08194239506275247,
+                    "include": 0.1318375270898118,
+                    "ab": 0.1318375270898118,
+                    "flow": 0.09056988830945024,
+                    "validation": 0.07851851320058523
+                }
+            },
+            {
+                "name": "12 Explain importance Copyright law",
+                "term_frequencies": {
+                    "cooperative": 0.13896387990547732,
+                    "participatory": 0.13896387990547732,
+                    "design": 0.11599628556479293,
+                    "align": 0.10927165588742029,
+                    "designer": 0.13896387990547732,
+                    "user": 0.14360848144403565,
+                    "partnership": 0.13896387990547732,
+                    "establish": 0.12023017232277608,
+                    "ux": 0.13896387990547732,
+                    "purpose": 0.09053794830471905,
+                    "audience": 0.12023017232277608,
+                    "context": 0.09546555794779892,
+                    "history": 0.13896387990547732,
+                    "analysis": 0.06763800613209192,
+                    "tool": 0.06239054628233632,
+                    "technique": 0.07180424072201783,
+                    "personas": 0.13896387990547732,
+                    "scenarios": 0.12023017232277608,
+                    "cases": 0.12023017232277608,
+                    "stories": 0.13896387990547732,
+                    "storyboards": 0.13896387990547732,
+                    "wireframes": 0.13896387990547732,
+                    "awareness": 0.13896387990547732,
+                    "underlying": 0.13896387990547732,
+                    "philosophy": 0.12023017232277608,
+                    "action": 0.10927165588742029,
+                    "2": 0.10927165588742029,
+                    "understand": 0.10149646474007484,
+                    "orientation": 0.13896387990547732,
+                    "thinking": 0.09546555794779892,
+                    "humancentrism": 0.13896387990547732,
+                    "information": 0.06239054628233632,
+                    "architecture": 0.09546555794779892,
+                    "sociotechnical": 0.13896387990547732,
+                    "perspective": 0.12023017232277608
+                }
+            },
+            {
+                "name": "13 Market publish mobile application",
+                "term_frequencies": {
+                    "international": 0.09464928459452585,
+                    "law": 0.2839478537835775,
+                    "regulation": 0.15980294448437316,
+                    "governing": 0.43758838778746045,
+                    "collection": 0.2580671022022053,
+                    "data": 0.29066831523702363,
+                    "country": 0.10939709694686511,
+                    "specific": 0.09464928459452585,
+                    "state": 0.09464928459452585,
+                    "local": 0.10939709694686511,
+                    "collected": 0.47324642297262925,
+                    "mobile": 0.06040592475550243,
+                    "device": 0.1425491100967917,
+                    "website": 0.06799475334994354,
+                    "social": 0.07990147224218658,
+                    "medium": 0.08602236740073511,
+                    "email": 0.10939709694686511,
+                    "wearable": 0.10939709694686511,
+                    "common": 0.09464928459452585,
+                    "ethical": 0.13598950669988707,
+                    "philosophical": 0.10939709694686511,
+                    "framework": 0.07127455504839585,
+                    "basic": 0.07515373710784169,
+                    "principle": 0.06515365988984732,
+                    "decision": 0.06264763785460511,
+                    "making": 0.07127455504839585
+                }
+            }
+        ]
+    },
+    {
+        "name": "User Interface Design - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Apply principle userCentered design UCD",
+                "term_frequencies": {
+                    "data": 0.3940791581578878,
+                    "storage": 0.27170966492835075,
+                    "code": 0.4711110792035114,
+                    "ethic": 0.39551258126943545,
+                    "decision": 0.22649530608972618,
+                    "making": 0.25768492979035423,
+                    "sharing": 0.6843871347604177,
+                    "using": 0.17757309326511106,
+                    "moral": 0.39551258126943545
+                }
+            },
+            {
+                "name": "2 Apply usersystem interaction principle",
+                "term_frequencies": {
+                    "ethical": 0.29052303704066784,
+                    "philosophy": 0.4044105796311559,
+                    "computing": 0.46742395968206,
+                    "practice": 0.5353525416666255,
+                    "surrounding": 0.46742395968206,
+                    "data": 0.15524330472886488,
+                    "sharing": 0.4044105796311559,
+                    "security": 0.25809804213714677,
+                    "vocabulary": 0.46742395968206,
+                    "best": 0.30453673520678226
+                }
+            },
+            {
+                "name": "3 Design create effective usercentered user interaction application",
+                "term_frequencies": {
+                    "ethical": 0.7669808177873632,
+                    "code": 0.6124444029645648,
+                    "conduct": 1.2339992535606383,
+                    "importance": 0.1779406550377086,
+                    "critical": 0.15021476781531076,
+                    "element": 0.1339961634909842,
+                    "applying": 0.1779406550377086,
+                    "adhering": 0.20566654226010642,
+                    "breaches": 0.20566654226010642,
+                    "legal": 0.1779406550377086,
+                    "aspect": 0.16172205071338203
+                }
+            },
+            {
+                "name": "4 Identify evaluate attribute effective UX",
+                "term_frequencies": {
+                    "sustainability": 0.4044105796311559,
+                    "system": 0.41971822044480794,
+                    "adaptability": 0.46742395968206,
+                    "legal": 0.4044105796311559,
+                    "issue": 0.30453673520678226,
+                    "surround": 0.46742395968206,
+                    "reusing": 0.46742395968206,
+                    "data": 0.15524330472886488,
+                    "collected": 0.4044105796311559,
+                    "purpose": 0.30453673520678226
+                }
+            },
+            {
+                "name": "5 Evaluate influence user centered design user experience UX",
+                "term_frequencies": {
+                    "core": 0.889703275188543,
+                    "stakeholder": 1.5021476781531078,
+                    "role": 0.669980817454921,
+                    "implications": 1.028332711300532
+                }
+            }
+        ]
+    },
+    {
+        "name": "IS Ethics, Sustainability, Use and Implications for Society - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Demonstrate ethical behavior data collection",
+                "term_frequencies": {
+                    "processes": 0.2526907042396594,
+                    "support": 0.5992037638963774,
+                    "ethical": 0.5992037638963774,
+                    "behavior": 0.5741666277792795,
+                    "organization": 0.6281070163639884,
+                    "activities": 0.2526907042396594,
+                    "performance": 0.19973458796545915,
+                    "criterion": 0.2093690054546628
+                }
+            },
+            {
+                "name": "2 Identify moral issue surround storage usage data",
+                "term_frequencies": {
+                    "processes": 0.2526907042396594,
+                    "support": 0.5992037638963774,
+                    "ethical": 0.5992037638963774,
+                    "behavior": 0.5741666277792795,
+                    "individual": 0.834096820489259,
+                    "activities": 0.2526907042396594,
+                    "performance": 0.19973458796545915,
+                    "criterion": 0.2093690054546628
+                }
+            },
+            {
+                "name": "3 Examine ethical philosophy practical application",
+                "term_frequencies": {
+                    "processes": 0.2526907042396594,
+                    "support": 0.5992037638963774,
+                    "ethical": 0.5992037638963774,
+                    "behavior": 0.5741666277792795,
+                    "society": 0.9640619168442488,
+                    "activities": 0.2526907042396594,
+                    "performance": 0.19973458796545915,
+                    "criteria": 0.2780322734964197
+                }
+            },
+            {
+                "name": "4 Evaluate ethical code practice implication society",
+                "term_frequencies": {
+                    "conceptual": 0.18535484899761312,
+                    "skill": 0.4187380109093256,
+                    "ability": 0.21423598152094417,
+                    "abstract": 0.16846046949310625,
+                    "thinking": 0.14717606850285664,
+                    "turning": 0.21423598152094417,
+                    "entire": 0.21423598152094417,
+                    "concept": 0.18535484899761312,
+                    "creative": 0.21423598152094417,
+                    "solution": 0.1395793369697752,
+                    "interpersonal": 0.21423598152094417,
+                    "leading": 0.21423598152094417,
+                    "team": 0.13315639197697277,
+                    "workgroups": 0.21423598152094417,
+                    "management": 0.07115318133406306,
+                    "including": 0.15647371647428204,
+                    "planning": 0.13315639197697277,
+                    "communicating": 0.18535484899761312,
+                    "problemsolving": 0.21423598152094417,
+                    "delegating": 0.21423598152094417,
+                    "making": 0.1395793369697752,
+                    "decision": 0.12268495746526834
+                }
+            },
+            {
+                "name": "5 Identify aspect sustainability adaptive system data",
+                "term_frequencies": {
+                    "efficiency": 0.1837750576288432,
+                    "enterprise": 0.17069859979012586,
+                    "capability": 0.1837750576288432,
+                    "deliver": 0.23371197984103,
+                    "service": 0.3413971995802517,
+                    "customer": 0.20220528981557795,
+                    "using": 0.10492955511120199,
+                    "costefficient": 0.23371197984103,
+                    "method": 0.13383813541665637,
+                    "highest": 0.23371197984103,
+                    "quality": 0.1837750576288432,
+                    "effectiveness": 0.23371197984103,
+                    "best": 0.15226836760339113,
+                    "operating": 0.20220528981557795,
+                    "practice": 0.13383813541665637,
+                    "resource": 0.15226836760339113,
+                    "optimization": 0.20220528981557795,
+                    "delivering": 0.23371197984103,
+                    "organization": 0.15226836760339113,
+                    "strategic": 0.17069859979012586,
+                    "goal": 0.17069859979012586
+                }
+            },
+            {
+                "name": "6 Categorize ethical stakeholder importance Information Systems",
+                "term_frequencies": {
+                    "information": 0.17757309326511106,
+                    "management": 0.0656798596929813,
+                    "technique": 0.10218295795056383,
+                    "used": 0.11777776980087785,
+                    "add": 0.19775629063471772,
+                    "value": 0.10218295795056383,
+                    "product": 0.1555019718397904,
+                    "service": 0.14443727674549112,
+                    "utilizing": 0.17109678369010442,
+                    "appropriate": 0.2183906510391242,
+                    "organizational": 0.11777776980087785,
+                    "data": 0.0656798596929813,
+                    "policies": 0.19775629063471772,
+                    "practice": 0.11324765304486309,
+                    "resource": 0.12884246489517712,
+                    "technological": 0.19775629063471772,
+                    "solution": 0.12884246489517712,
+                    "increasing": 0.19775629063471772,
+                    "competitive": 0.17109678369010442,
+                    "advantage": 0.17109678369010442,
+                    "alignment": 0.17109678369010442,
+                    "enterprise": 0.14443727674549112,
+                    "strategic": 0.14443727674549112,
+                    "goal": 0.14443727674549112
+                }
+            },
+            {
+                "name": "7 Investigate sustainable process action performance support organization",
+                "term_frequencies": {
+                    "administrative": 0.3427775704335107,
+                    "oversight": 0.3427775704335107,
+                    "accountability": 0.296567758396181,
+                    "best": 0.2233269391516403,
+                    "practice": 0.3925918638888587,
+                    "decision": 0.19629593194442935,
+                    "right": 0.296567758396181,
+                    "decisionmaking": 0.3427775704335107,
+                    "evaluation": 0.2503579463588513,
+                    "monitoring": 0.296567758396181,
+                    "technique": 0.17711712711431063,
+                    "operation": 0.2041481343215216,
+                    "4": 0.296567758396181,
+                    "evaluate": 0.296567758396181
+                }
+            },
+            {
+                "name": "8 Investigate sustainable process action performance support individual",
+                "term_frequencies": {
+                    "systematic": 0.22355058941315914,
+                    "process": 0.0818942181948338,
+                    "creating": 0.1934137554757702,
+                    "longrange": 0.22355058941315914,
+                    "plan": 0.30900976099081023,
+                    "meet": 0.22355058941315914,
+                    "organization": 0.14564800379454804,
+                    "strategic": 0.4898307646151438,
+                    "sequence": 0.17578483773193695,
+                    "step": 0.1934137554757702,
+                    "planning": 0.2778916006475953,
+                    "designing": 0.22355058941315914,
+                    "communicating": 0.1934137554757702,
+                    "methodologies": 0.1934137554757702,
+                    "technique": 0.1155111698571591,
+                    "tool": 0.10036740054114972,
+                    "used": 0.13314008760099236,
+                    "applying": 0.1934137554757702
+                }
+            },
+            {
+                "name": "9 Investigate sustainable process action performance support society large",
+                "term_frequencies": {
+                    "regulatory": 0.14282398768062946,
+                    "standard": 0.2086316219657094,
+                    "regulation": 0.2086316219657094,
+                    "example": 0.12356989933174208,
+                    "iso": 0.14282398768062946,
+                    "international": 0.12356989933174208,
+                    "organization": 0.09305289131318346,
+                    "standardization": 0.14282398768062946,
+                    "sarbanes": 0.14282398768062946,
+                    "oxley": 0.14282398768062946,
+                    "act": 0.24713979866348415,
+                    "sox": 0.14282398768062946,
+                    "control": 0.06580763428507996,
+                    "objectives": 0.12356989933174208,
+                    "information": 0.06412361701240121,
+                    "related": 0.0887709279846485,
+                    "technologies": 0.11230697966207083,
+                    "cobit": 0.12356989933174208,
+                    "hipaa": 0.14282398768062946,
+                    "health": 0.14282398768062946,
+                    "insurance": 0.14282398768062946,
+                    "portability": 0.14282398768062946,
+                    "accountability": 0.12356989933174208,
+                    "pcidss": 0.14282398768062946,
+                    "payment": 0.14282398768062946,
+                    "card": 0.12356989933174208,
+                    "industry": 0.14282398768062946,
+                    "data": 0.09487090844541743,
+                    "security": 0.07886329065301706,
+                    "gdpr": 0.14282398768062946,
+                    "general": 0.14282398768062946,
+                    "protection": 0.1043158109828547
+                }
+            }
+        ]
+    },
+    {
+        "name": "IS Management and Strategy - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Apply professional managerial skill design manage effective organization",
+                "term_frequencies": {
+                    "potential": 0.18535484899761312,
+                    "threat": 0.18535484899761312,
+                    "vulnerability": 0.18535484899761312,
+                    "risk": 0.8374760218186512,
+                    "associated": 0.18535484899761312,
+                    "information": 0.09618542551860182,
+                    "technology": 0.11829493597952559,
+                    "system": 0.09618542551860182,
+                    "controls": 0.21423598152094417,
+                    "reducing": 0.21423598152094417,
+                    "eliminating": 0.21423598152094417,
+                    "management": 0.07115318133406306,
+                    "identifying": 0.18535484899761312,
+                    "assessing": 0.21423598152094417,
+                    "mitigation": 0.18535484899761312,
+                    "step": 0.18535484899761312,
+                    "reduce": 0.21423598152094417,
+                    "acceptable": 0.21423598152094417,
+                    "level": 0.16846046949310625
+                }
+            },
+            {
+                "name": "2 Ensure operational efficiency effectiveness service delivery organizational information",
+                "term_frequencies": {
+                    "procurement": 0.22242581879713574,
+                    "process": 0.18835670184811779,
+                    "confidentiality": 0.257083177825133,
+                    "delegation": 0.22242581879713574,
+                    "purchasing": 0.257083177825133,
+                    "authority": 0.257083177825133,
+                    "level": 0.20215256339172752,
+                    "bids": 0.257083177825133,
+                    "proposal": 0.257083177825133,
+                    "rfp": 0.257083177825133,
+                    "form": 0.176611282203428,
+                    "nondisclosure": 0.257083177825133,
+                    "agreement": 0.257083177825133,
+                    "nda": 0.257083177825133,
+                    "specifications": 0.22242581879713574,
+                    "requirement": 0.15978767037236732,
+                    "maintenance": 0.22242581879713574,
+                    "support": 0.15978767037236732,
+                    "contract": 0.22242581879713574
+                }
+            },
+            {
+                "name": "3 Manage information resource coordination line management",
+                "term_frequencies": {
+                    "talent": 0.27792775981095463,
+                    "acquisition": 0.13896387990547732,
+                    "defining": 0.13896387990547732,
+                    "identifying": 0.12023017232277608,
+                    "attracting": 0.13896387990547732,
+                    "appropriate": 0.15346370073019538,
+                    "skill": 0.1810758966094381,
+                    "disposition": 0.13896387990547732,
+                    "hire": 0.13896387990547732,
+                    "right": 0.12023017232277608,
+                    "person": 0.13896387990547732,
+                    "start": 0.13896387990547732,
+                    "workforce": 0.13896387990547732,
+                    "development": 0.12478109256467264,
+                    "training": 0.13896387990547732,
+                    "inhouse": 0.13896387990547732,
+                    "workshop": 0.12023017232277608,
+                    "external": 0.13896387990547732,
+                    "bootcamps": 0.13896387990547732,
+                    "employee": 0.27792775981095463,
+                    "education": 0.13896387990547732,
+                    "retention": 0.13896387990547732,
+                    "creating": 0.12023017232277608,
+                    "policy": 0.10149646474007484,
+                    "salary": 0.13896387990547732,
+                    "benefit": 0.12023017232277608,
+                    "providing": 0.13896387990547732,
+                    "career": 0.13896387990547732,
+                    "path": 0.10927165588742029,
+                    "matching": 0.13896387990547732,
+                    "organizational": 0.08276275715737363,
+                    "need": 0.09546555794779892
+                }
+            },
+            {
+                "name": "4 Create manage oversight mechanism organization evaluates directs monitor organizational information technology managing decision right organizational information technology decisionmaking practice",
+                "term_frequencies": {
+                    "infrastructure": 0.4187380109093256,
+                    "library": 0.3994691759309183,
+                    "itil": 0.5053814084793188,
+                    "capability": 0.5053814084793188,
+                    "maturity": 0.6427079445628325,
+                    "model": 0.27465307216702745,
+                    "integration": 0.44152820550856997,
+                    "cmmi": 0.6427079445628325
+                }
+            },
+            {
+                "name": "5 Implement strategic plan created delivery organizational information system",
+                "term_frequencies": {
+                    "control": 0.21537043947844353,
+                    "objectives": 0.4044105796311559,
+                    "information": 0.20985911022240397,
+                    "related": 0.29052303704066784,
+                    "technologies": 0.3675501152576864,
+                    "cobit": 0.4044105796311559,
+                    "open": 0.46742395968206,
+                    "group": 0.4044105796311559,
+                    "architecture": 0.3211114221880509,
+                    "framework": 0.30453673520678226,
+                    "togaf": 0.3675501152576864
+                }
+            },
+            {
+                "name": "6 Ensure organizational information system comply policy applicable law regulation",
+                "term_frequencies": {
+                    "emerging": 0.4492279186482833,
+                    "digital": 0.4492279186482833,
+                    "technology": 0.47317974391810236,
+                    "area": 0.5712959507225178,
+                    "methods": 0.3924695160076177,
+                    "learn": 0.2856479753612589,
+                    "articulate": 0.24713979866348415,
+                    "critically": 0.2856479753612589,
+                    "reflect": 0.2856479753612589,
+                    "offering": 0.2856479753612589,
+                    "particular": 0.2856479753612589,
+                    "new": 0.2086316219657094
+                }
+            },
+            {
+                "name": "7 Manage organizational risk develop risk mitigation plan",
+                "term_frequencies": {
+                    "social": 0.4172632439314188,
+                    "application": 0.5129889360992097,
+                    "technology": 0.9463594878362047,
+                    "mobile": 0.31545316261206824,
+                    "business": 0.2704014839333833,
+                    "applications": 0.4942795973269683
+                }
+            },
+            {
+                "name": "8 Create procurement policy understand negotiate contract",
+                "term_frequencies": {
+                    "conditions": 0.5712959507225178,
+                    "digital": 1.34768375594485,
+                    "innovation": 1.34768375594485,
+                    "domains": 0.5712959507225178,
+                    "applications": 0.4942795973269683
+                }
+            },
+            {
+                "name": "9 Develop plan workforce development training talent acquisition employee retention",
+                "term_frequencies": {
+                    "digital": 0.8511686879651684,
+                    "business": 0.5123396537685158,
+                    "model": 0.34693019642150835,
+                    "innovation": 0.2127921719912921,
+                    "element": 0.1763107414355055,
+                    "criteria": 0.23413244083909024,
+                    "necessary": 0.2127921719912921,
+                    "new": 0.39530202056660724,
+                    "validation": 0.16116957972751705,
+                    "criterion": 0.1763107414355055
+                }
+            },
+            {
+                "name": "10 Apply leading service management framework ITIL CMMI",
+                "term_frequencies": {
+                    "implementation": 0.765555503705706,
+                    "criterion": 0.5583173478791008,
+                    "scrum": 0.37070969799522624,
+                    "sdlc": 0.3369209389862125,
+                    "infrastructure": 0.2791586739395504,
+                    "element": 0.2791586739395504,
+                    "key": 0.2943521370057133,
+                    "continuing": 0.42847196304188834,
+                    "stopping": 0.42847196304188834
+                }
+            },
+            {
+                "name": "11 Identify commonly used governance framework COBIT TOGAF align information system organizational requirement",
+                "term_frequencies": {
+                    "ideation": 0.514166355650266,
+                    "new": 0.37553691953827695,
+                    "business": 0.243361335540045,
+                    "model": 0.21972245773362198,
+                    "resource": 0.3349904087274605,
+                    "identification": 0.40430512678345504,
+                    "project": 0.26567569067146596,
+                    "planning": 0.31957534074473465,
+                    "collaboration": 0.4448516375942715,
+                    "negotiation": 0.4448516375942715
+                }
+            }
+        ]
+    },
+    {
+        "name": "Digital Innovation - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Articulate critically reflect unique feature application emerging technology offer",
+                "term_frequencies": {
+                    "project": 0.33209461333933243,
+                    "implementation": 0.382777751852853,
+                    "evaluation": 0.46942114942284613,
+                    "criterion": 0.4187380109093256,
+                    "successful": 0.6427079445628325,
+                    "application": 0.28855627655580546,
+                    "pitch": 0.6427079445628325,
+                    "presentation": 0.6427079445628325
+                }
+            },
+            {
+                "name": "2 Demonstrate knowledge role digital business technology social mobile domain",
+                "term_frequencies": {
+                    "characteristics": 0.2780322734964197,
+                    "process": 0.1177229386550736,
+                    "action": 0.2526907042396594,
+                    "eventstasks": 0.32135397228141627,
+                    "decision": 0.18402743619790252,
+                    "point": 0.2780322734964197,
+                    "outcome": 0.2780322734964197,
+                    "value": 0.16604730666966622,
+                    "perspectives": 0.32135397228141627,
+                    "modelling": 0.2780322734964197,
+                    "control": 0.14806717714142992,
+                    "flow": 0.22076410275428499,
+                    "functional": 0.23471057471142306,
+                    "data": 0.10672977200109461,
+                    "organization": 0.2093690054546628,
+                    "perspective": 0.2780322734964197
+                }
+            },
+            {
+                "name": "3 Identify critique characteristic necessary digital innovation",
+                "term_frequencies": {
+                    "elements": 0.12356989933174208,
+                    "bpmn": 0.2856479753612589,
+                    "model": 0.06103401603711721,
+                    "branching": 0.12356989933174208,
+                    "merging": 0.12356989933174208,
+                    "exclusive": 0.14282398768062946,
+                    "decision": 0.16357994328702444,
+                    "parallel": 0.14282398768062946,
+                    "execution": 0.11230697966207083,
+                    "inclusive": 0.14282398768062946,
+                    "rework": 0.14282398768062946,
+                    "repetition": 0.14282398768062946,
+                    "information": 0.06412361701240121,
+                    "artifact": 0.14282398768062946,
+                    "resource": 0.2791586739395504,
+                    "organizational": 0.08506172263396733,
+                    "element": 0.09305289131318346,
+                    "pools": 0.14282398768062946,
+                    "lanes": 0.14282398768062946,
+                    "types": 0.07157539441780897,
+                    "process": 0.0523213060689216,
+                    "participant": 0.14282398768062946,
+                    "software": 0.06580763428507996,
+                    "system": 0.12824723402480243,
+                    "equipment": 0.14282398768062946,
+                    "example": 0.12356989933174208,
+                    "bpm": 0.12356989933174208,
+                    "tool": 0.06412361701240121,
+                    "aris": 0.14282398768062946,
+                    "visio": 0.14282398768062946,
+                    "architect": 0.14282398768062946
+                }
+            },
+            {
+                "name": "4 Identify validate opportunity develop new digital business model",
+                "term_frequencies": {
+                    "business": 0.1738295253857464,
+                    "scenarios": 0.3177511697101939,
+                    "process": 0.2690810026401682,
+                    "discovery": 0.36726168260733283,
+                    "technique": 0.18976835047961851,
+                    "evidencebased": 0.36726168260733283,
+                    "document": 0.2523018317191828,
+                    "analysis": 0.17875758763481434,
+                    "observation": 0.36726168260733283,
+                    "mining": 0.36726168260733283,
+                    "interviewbased": 0.36726168260733283,
+                    "workshop": 0.3177511697101939,
+                    "based": 0.28878937627389645
+                }
+            },
+            {
+                "name": "5 Identify evaluate key issue related implementation infrastructure issue",
+                "term_frequencies": {
+                    "process": 0.5381620052803364,
+                    "architecture": 0.2523018317191828,
+                    "portfolio": 0.36726168260733283,
+                    "types": 0.18405101421722306,
+                    "management": 0.12197688228696527,
+                    "core": 0.3177511697101939,
+                    "supporting": 0.3177511697101939,
+                    "relationships": 0.36726168260733283,
+                    "sequence": 0.28878937627389645,
+                    "decomposition": 0.3177511697101939,
+                    "specialization": 0.3177511697101939
+                }
+            },
+            {
+                "name": "6 Identify assemble required resource process partner bring digital business model fruition",
+                "term_frequencies": {
+                    "techniques": 0.3369209389862125,
+                    "collecting": 0.42847196304188834,
+                    "analyzing": 0.42847196304188834,
+                    "issue": 0.5583173478791008,
+                    "process": 0.1569639182067648,
+                    "root": 0.37070969799522624,
+                    "cause": 0.3369209389862125,
+                    "analysis": 0.2085505189072834,
+                    "pareto": 0.42847196304188834,
+                    "chart": 0.42847196304188834,
+                    "documentation": 0.2943521370057133
+                }
+            },
+            {
+                "name": "7 Practically demonstrate investigation application new innovation",
+                "term_frequencies": {
+                    "methods": 0.16820122114612188,
+                    "process": 0.08969366754672274,
+                    "improvement": 0.21183411314012926,
+                    "redesign": 0.2448411217382219,
+                    "reengineering": 0.2448411217382219,
+                    "technology": 0.13519421254802924,
+                    "solution": 0.15951924225117164,
+                    "ai": 0.2448411217382219,
+                    "iot": 0.1788271045420366,
+                    "blockchain": 0.2448411217382219,
+                    "costbenefits": 0.2448411217382219,
+                    "analysis": 0.11917172508987622,
+                    "return": 0.21183411314012926,
+                    "investment": 0.2448411217382219,
+                    "3": 0.38505250169852856,
+                    "apply": 0.3190384845023433,
+                    "change": 0.15951924225117164,
+                    "management": 0.08131792152464351,
+                    "implementation": 0.145820095943944
+                }
+            }
+        ]
+    },
+    {
+        "name": "Business Process Management - supplemental",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Explain characteristic process different perspective process model",
+                "term_frequencies": {
+                    "techniques": 0.1263453521198297,
+                    "tool": 0.14427813827790273,
+                    "support": 0.09986729398272957,
+                    "planning": 0.09986729398272957,
+                    "design": 0.0670603525921459,
+                    "analysis": 0.07820644459023128,
+                    "operation": 0.09569443796321325,
+                    "monitoring": 0.13901613674820984,
+                    "business": 0.1521008347125281,
+                    "process": 0.1765844079826104,
+                    "management": 0.053364886000547306,
+                    "system": 0.07213906913895136,
+                    "bpm": 0.13901613674820984,
+                    "suite": 0.13901613674820984,
+                    "bpel": 0.16067698614070813,
+                    "xml": 0.16067698614070813,
+                    "xpdl": 0.16067698614070813,
+                    "standard": 0.11735528735571153,
+                    "soa": 0.16067698614070813,
+                    "web": 0.11735528735571153,
+                    "service": 0.11735528735571153,
+                    "robotic": 0.16067698614070813,
+                    "automation": 0.13901613674820984,
+                    "available": 0.1263453521198297,
+                    "uipath": 0.16067698614070813,
+                    "developer": 0.1263453521198297,
+                    "performance": 0.09986729398272957,
+                    "measure": 0.16067698614070813
+                }
+            },
+            {
+                "name": "2 BPM tool design implement business process model",
+                "term_frequencies": {
+                    "project": 0.7590734019184741,
+                    "management": 0.36593064686089577,
+                    "term": 0.28878937627389645,
+                    "life": 0.3177511697101939,
+                    "cycle": 0.2523018317191828,
+                    "organizational": 0.218730143915916,
+                    "structure": 0.218730143915916,
+                    "process": 0.1345405013200841,
+                    "framework": 0.23927886337675747
+                }
+            },
+            {
+                "name": "3 Choose appropriate process discovery technique different business scenario",
+                "term_frequencies": {
+                    "project": 0.4830467103117563,
+                    "charter": 0.46742395968206,
+                    "management": 0.15524330472886488,
+                    "plan": 0.21537043947844353,
+                    "statement": 0.4044105796311559,
+                    "work": 0.29052303704066784,
+                    "sow": 0.46742395968206,
+                    "process": 0.1712333653164707,
+                    "making": 0.30453673520678226,
+                    "change": 0.30453673520678226
+                }
+            },
+            {
+                "name": "4 Design Process Architecture",
+                "term_frequencies": {
+                    "scope": 0.5712959507225178,
+                    "management": 0.3794836337816697,
+                    "plan": 0.5264610742806397,
+                    "requirements": 0.5712959507225178,
+                    "work": 0.355083711938594,
+                    "breakdown": 0.4942795973269683,
+                    "structure": 0.3402468905358693
+                }
+            },
+            {
+                "name": "5 Analyze ASIS business process using appropriate technique",
+                "term_frequencies": {
+                    "schedule": 0.4682648816781805,
+                    "management": 0.08987770273776388,
+                    "plan": 0.12468814917173045,
+                    "sequence": 0.2127921719912921,
+                    "activity": 0.27061387139487686,
+                    "network": 0.1763107414355055,
+                    "diagram": 0.18590661284571366,
+                    "critical": 0.39530202056660724,
+                    "path": 0.2127921719912921,
+                    "compression": 0.27061387139487686,
+                    "chain": 0.23413244083909024,
+                    "method": 0.15497047258770738,
+                    "different": 0.13982931087971892,
+                    "modeling": 0.2127921719912921,
+                    "technique": 0.13982931087971892,
+                    "monte": 0.27061387139487686,
+                    "carlo": 0.27061387139487686
+                }
+            },
+            {
+                "name": "6 process improvement method implement TOBE process eliminating bottleneck enhancing innovating ASIS process",
+                "term_frequencies": {
+                    "different": 0.18976835047961851,
+                    "type": 0.1738295253857464,
+                    "estimation": 0.28878937627389645,
+                    "technique": 0.18976835047961851,
+                    "three": 0.36726168260733283,
+                    "point": 0.3177511697101939,
+                    "analogous": 0.36726168260733283,
+                    "bottomup": 0.36726168260733283,
+                    "earned": 0.36726168260733283,
+                    "value": 0.18976835047961851,
+                    "management": 0.24395376457393053,
+                    "plan": 0.16921963101877704,
+                    "cost": 0.36726168260733283
+                }
+            },
+            {
+                "name": "7 Evaluate technique tool support planning design analysis operation monitoring business process",
+                "term_frequencies": {
+                    "quality": 1.1891327258336912,
+                    "tool": 0.13579118896743786,
+                    "continuous": 0.23782654516673823,
+                    "improvement": 0.26167743387898323,
+                    "management": 0.20090310023735455,
+                    "plan": 0.13935734319193405,
+                    "assurance": 0.30245079744133296,
+                    "controlling": 0.30245079744133296,
+                    "term": 0.23782654516673823,
+                    "cause": 0.23782654516673823,
+                    "effect": 0.30245079744133296,
+                    "diagram": 0.20777797906285644
+                }
+            }
+        ]
+    },
+    {
+        "name": "IS Project Management - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Explain basic project management concept term",
+                "term_frequencies": {
+                    "human": 0.4172632439314188,
+                    "resource": 0.37221156525273386,
+                    "plan": 0.26323053714031985,
+                    "roles": 0.4492279186482833,
+                    "responsibility": 0.3402468905358693,
+                    "team": 0.710167423877188,
+                    "member": 0.355083711938594,
+                    "acquiring": 0.5712959507225178
+                }
+            },
+            {
+                "name": "2 integration management tool technique process",
+                "term_frequencies": {
+                    "communications": 0.46742395968206,
+                    "plan": 0.21537043947844353,
+                    "different": 0.24152335515587814,
+                    "type": 0.22123757776367725,
+                    "communication": 0.7483004410102606,
+                    "performance": 0.29052303704066784,
+                    "reporting": 0.46742395968206,
+                    "model": 0.19974768884874725,
+                    "types": 0.23424674536737483
+                }
+            },
+            {
+                "name": "3 scope management tool technique process",
+                "term_frequencies": {
+                    "risk": 1.0049712261823813,
+                    "management": 0.1707676352017514,
+                    "plan": 0.23690748342628787,
+                    "types": 0.2576714199041123,
+                    "response": 0.4448516375942715,
+                    "strategy": 0.31957534074473465,
+                    "swot": 0.514166355650266,
+                    "analysis": 0.2502606226887401
+                }
+            },
+            {
+                "name": "4 Develop estimate time tracking using appropriate tool technique process",
+                "term_frequencies": {
+                    "different": 0.1562798180420388,
+                    "type": 0.14315372678826174,
+                    "contract": 0.5233548677579665,
+                    "procurement": 1.046709735515933,
+                    "management": 0.10045155011867728,
+                    "plan": 0.13935734319193405,
+                    "change": 0.1970531816043885,
+                    "control": 0.13935734319193405,
+                    "system": 0.13579118896743786,
+                    "performance": 0.18798549455572625,
+                    "review": 0.23782654516673823,
+                    "negotiation": 0.26167743387898323,
+                    "document": 0.20777797906285644
+                }
+            },
+            {
+                "name": "5 Develop estimate cost tracking using appropriate tool technique process",
+                "term_frequencies": {
+                    "stakeholder": 1.2517897317942563,
+                    "management": 0.18974181689083486,
+                    "plan": 0.26323053714031985,
+                    "analysis": 0.27806735854304454,
+                    "engagement": 0.5712959507225178,
+                    "assessment": 0.5712959507225178,
+                    "matrix": 0.4942795973269683
+                }
+            },
+            {
+                "name": "6 Utilize change control process maintain control quality",
+                "term_frequencies": {
+                    "project": 0.7590734019184741,
+                    "management": 0.24395376457393053,
+                    "tool": 0.32977860177806334,
+                    "ms": 0.7345233652146657,
+                    "hive": 0.7345233652146657,
+                    "wrike": 0.7345233652146657
+                }
+            },
+            {
+                "name": "7 Implement human resource management tool technique process",
+                "term_frequencies": {
+                    "agile": 1.34768375594485,
+                    "development": 0.7694834041488146,
+                    "principle": 1.020740671607608
+                }
+            },
+            {
+                "name": "8 Define implement communication management plan",
+                "term_frequencies": {
+                    "sprint": 0.6232319462427467,
+                    "execution": 0.12251670508589546,
+                    "daily": 0.15580798656068667,
+                    "standup": 0.15580798656068667,
+                    "planning": 0.19368202469377857,
+                    "product": 0.3675501152576864,
+                    "backlog": 0.15580798656068667,
+                    "grooming": 0.15580798656068667,
+                    "writing": 0.12251670508589546,
+                    "user": 0.16101557010391876,
+                    "story": 0.24503341017179092,
+                    "estimation": 0.12251670508589546,
+                    "role": 0.30453673520678226,
+                    "responsibility": 0.27838381952934765,
+                    "owner": 0.15580798656068667,
+                    "scrum": 0.13480352654371863,
+                    "master": 0.15580798656068667,
+                    "developer": 0.12251670508589546,
+                    "review": 0.12251670508589546,
+                    "retrospective": 0.15580798656068667,
+                    "release": 0.13480352654371863
+                }
+            },
+            {
+                "name": "9 Predict manage project risk tool technique process",
+                "term_frequencies": {
+                    "software": 0.3384392620375541,
+                    "development": 0.32977860177806334,
+                    "project": 0.7590734019184741,
+                    "characteristic": 0.6355023394203878,
+                    "management": 0.24395376457393053,
+                    "methodologies": 0.6355023394203878
+                }
+            },
+            {
+                "name": "10 Define explain procurement management",
+                "term_frequencies": {
+                    "phases": 0.21423598152094417,
+                    "sdlc": 0.3369209389862125,
+                    "abstract": 0.16846046949310625,
+                    "principal": 0.21423598152094417,
+                    "concern": 0.18535484899761312,
+                    "software": 0.09871145142761995,
+                    "system": 0.09618542551860182,
+                    "development": 0.09618542551860182,
+                    "appreciation": 0.42847196304188834,
+                    "implicit": 0.21423598152094417,
+                    "sequential": 0.18535484899761312,
+                    "nature": 0.18535484899761312,
+                    "cycle": 0.14717606850285664,
+                    "term": 0.16846046949310625,
+                    "predicate": 0.18535484899761312,
+                    "flow": 0.2943521370057133,
+                    "variety": 0.21423598152094417,
+                    "model": 0.0915510240556758,
+                    "describe": 0.21423598152094417,
+                    "evolution": 0.18535484899761312,
+                    "practice": 0.12268495746526834
+                }
+            },
+            {
+                "name": "11 Identify manage stakeholder phase project",
+                "term_frequencies": {
+                    "articulate": 0.27125099853309237,
+                    "implement": 0.2289859265477298,
+                    "waterfall": 0.2170007988264739,
+                    "model": 0.29474963842315144,
+                    "understanding": 0.05425019970661848,
+                    "assumption": 0.31351607051845487,
+                    "advantage": 0.27125099853309237,
+                    "disadvantage": 0.21537961244320486,
+                    "utilizing": 0.27125099853309237,
+                    "methodologically": 0.31351607051845487,
+                    "iterative": 0.1972220130651,
+                    "set": 0.04579718530954596,
+                    "sequential": 0.05425019970661848,
+                    "process": 0.0229703294936729,
+                    "familiar": 0.2508128564147639,
+                    "spiral": 0.06270321410369098,
+                    "phased": 0.06270321410369098,
+                    "abstraction": 0.04579718530954596,
+                    "rapid": 0.06270321410369098,
+                    "application": 0.02815183185910297,
+                    "developmentprototyping": 0.06270321410369098,
+                    "approach": 0.10850039941323696,
+                    "utilizes": 0.12540642820738196,
+                    "frequent": 0.12540642820738196,
+                    "empirical": 0.12540642820738196,
+                    "validation": 0.07468834182494694,
+                    "agile": 0.049305503266275,
+                    "incremental": 0.06270321410369098,
+                    "customer": 0.05425019970661848,
+                    "collaboration": 0.05425019970661848
+                }
+            },
+            {
+                "name": "12 Utilize tool technique process manage project performance",
+                "term_frequencies": {
+                    "knowledge": 0.1482838791980905,
+                    "tool": 0.1538966808297629,
+                    "track": 0.134768375594485,
+                    "manage": 0.134768375594485,
+                    "software": 0.07896916114209596,
+                    "project": 0.08855856355715531,
+                    "respect": 0.17138878521675535,
+                    "resource": 0.11166346957582016,
+                    "feature": 0.09463594878362047,
+                    "deadline": 0.17138878521675535,
+                    "conflict": 0.17138878521675535,
+                    "impediment": 0.17138878521675535,
+                    "estimation": 0.134768375594485,
+                    "validation": 0.1020740671607608,
+                    "velocity": 0.17138878521675535,
+                    "pertain": 0.17138878521675535,
+                    "3": 0.26953675118897,
+                    "appy": 0.3427775704335107,
+                    "productivity": 0.17138878521675535,
+                    "exposure": 0.1482838791980905,
+                    "least": 0.11774085480228533,
+                    "one": 0.11774085480228533,
+                    "jira": 0.1482838791980905,
+                    "azure": 0.17138878521675535,
+                    "devops": 0.17138878521675535,
+                    "teams": 0.17138878521675535,
+                    "teamcity": 0.1482838791980905
+                }
+            },
+            {
+                "name": "13 Apply agile project management principle method practice",
+                "term_frequencies": {
+                    "version": 0.13329153373843622,
+                    "control": 0.08939905034954258,
+                    "systems": 0.07085602255439187,
+                    "vcs": 0.1940250398680249,
+                    "represent": 0.09701251993401246,
+                    "graph": 0.08393427124420216,
+                    "structure": 0.057777773864581584,
+                    "change": 0.18961721248724178,
+                    "permutation": 0.09701251993401246,
+                    "state": 0.08393427124420216,
+                    "software": 0.04469952517477129,
+                    "codebase": 0.09701251993401246,
+                    "constitutes": 0.09701251993401246,
+                    "necessary": 0.07628398618555755,
+                    "instruction": 0.09701251993401246,
+                    "system": 0.08711132877156391,
+                    "realization": 0.09701251993401246,
+                    "atomic": 0.09701251993401246,
+                    "operation": 0.057777773864581584,
+                    "enable": 0.09701251993401246,
+                    "precise": 0.09701251993401246,
+                    "tracking": 0.08393427124420216,
+                    "responsibility": 0.057777773864581584,
+                    "branching": 0.08393427124420216,
+                    "merging": 0.08393427124420216,
+                    "feature": 0.10713503635881563,
+                    "evolution": 0.08393427124420216,
+                    "defect": 0.07628398618555755,
+                    "management": 0.032220308528632335,
+                    "team": 0.060297234102780116,
+                    "coordination": 0.09701251993401246,
+                    "tagging": 0.09701251993401246,
+                    "labeling": 0.09701251993401246,
+                    "align": 0.07628398618555755,
+                    "code": 0.057777773864581584,
+                    "act": 0.08393427124420216,
+                    "transaction": 0.07628398618555755,
+                    "acid": 0.08393427124420216,
+                    "property": 0.06664576686921811,
+                    "familiarity": 0.07085602255439187,
+                    "least": 0.06664576686921811,
+                    "one": 0.06664576686921811,
+                    "git": 0.09701251993401246,
+                    "svn": 0.09701251993401246,
+                    "mercurial": 0.09701251993401246,
+                    "cvs": 0.09701251993401246
+                }
+            },
+            {
+                "name": "14 Apply Scrum development process",
+                "term_frequencies": {
+                    "realtime": 0.21423598152094417,
+                    "communication": 0.11432367848767871,
+                    "linked": 0.18535484899761312,
+                    "feature": 0.11829493597952559,
+                    "management": 0.14230636266812613,
+                    "code": 0.255185167901902,
+                    "defect": 0.16846046949310625,
+                    "tracking": 0.18535484899761312,
+                    "links": 0.21423598152094417,
+                    "version": 0.14717606850285664,
+                    "control": 0.09871145142761995,
+                    "commits": 0.21423598152094417,
+                    "collaborative": 0.21423598152094417,
+                    "development": 0.09618542551860182,
+                    "exposure": 0.18535484899761312,
+                    "least": 0.14717606850285664,
+                    "one": 0.14717606850285664,
+                    "tool": 0.09618542551860182,
+                    "jira": 0.18535484899761312,
+                    "trello": 0.21423598152094417,
+                    "teamcity": 0.18535484899761312,
+                    "bandcamp": 0.21423598152094417
+                }
+            },
+            {
+                "name": "15 Select appropriate project management methodology based project characteristic",
+                "term_frequencies": {
+                    "define": 0.16327692153838125,
+                    "track": 0.17578483773193695,
+                    "userinteractive": 0.22355058941315914,
+                    "acceptance": 0.17578483773193695,
+                    "testing": 0.15357502800298087,
+                    "manage": 0.17578483773193695,
+                    "feature": 0.12343819406559192,
+                    "persona": 0.22355058941315914,
+                    "case": 0.22355058941315914,
+                    "user": 0.2310223397143182,
+                    "story": 0.17578483773193695,
+                    "related": 0.13894580032379766,
+                    "system": 0.10036740054114972,
+                    "module": 0.1934137554757702,
+                    "information": 0.10036740054114972,
+                    "flow": 0.30715005600596174,
+                    "experience": 0.16327692153838125,
+                    "provisions": 0.22355058941315914,
+                    "test": 0.22355058941315914,
+                    "validation": 0.13314008760099236,
+                    "deployment": 0.16327692153838125
+                }
+            }
+        ]
+    },
+    {
+        "name": "IS Practicum - core",
+        "discipline": "Information systems",
+        "knowledge": [
+            {
+                "name": "1 Apply SDLC",
+                "term_frequencies": {
+                    "system": 0.15739433266680297,
+                    "developer": 0.1837750576288432,
+                    "end": 0.20220528981557795,
+                    "user": 0.12076167757793907,
+                    "identify": 0.06959595488233691,
+                    "software": 0.05384260986961088,
+                    "defect": 0.1837750576288432,
+                    "track": 0.0918875288144216,
+                    "status": 0.116855989920515,
+                    "integration": 0.16055571109402544,
+                    "version": 0.08027785554701272,
+                    "control": 0.05384260986961088,
+                    "feature": 0.12904902106857338,
+                    "management": 0.03881082618221622,
+                    "linked": 0.10110264490778897,
+                    "integrative": 0.116855989920515,
+                    "pyramid": 0.116855989920515,
+                    "testing": 0.4816671332820763,
+                    "cascade": 0.116855989920515,
+                    "manual": 0.116855989920515,
+                    "unit": 0.20220528981557795,
+                    "regression": 0.23371197984103,
+                    "safeguard": 0.116855989920515,
+                    "function": 0.0918875288144216,
+                    "familiarity": 0.08534929989506293,
+                    "least": 0.08027785554701272,
+                    "one": 0.08027785554701272,
+                    "library": 0.07263075926016696,
+                    "harness": 0.116855989920515
+                }
+            },
+            {
+                "name": "2 Utilize systemssoftware development methodology",
+                "term_frequencies": {
+                    "uml": 0.5233548677579665,
+                    "structural": 0.23782654516673823,
+                    "diagram": 0.4155559581257129,
+                    "realize": 0.6049015948826659,
+                    "validate": 0.6049015948826659,
+                    "object": 0.17320229289214353,
+                    "oriented": 0.30245079744133296,
+                    "module": 0.26167743387898323,
+                    "library": 0.18798549455572625,
+                    "design": 0.25246250387631397,
+                    "behavioral": 0.26167743387898323,
+                    "logical": 0.22090407031663348
+                }
+            },
+            {
+                "name": "3 Utilize tool software process management",
+                "term_frequencies": {
+                    "design": 0.35765521382477816,
+                    "modularity": 0.7414193959904525,
+                    "reuse": 0.6258948658971282,
+                    "application": 0.3847417020744073,
+                    "solid": 0.673841877972425,
+                    "principle": 0.510370335803804
+                }
+            },
+            {
+                "name": "4 Utilize tool code resource version control",
+                "term_frequencies": {
+                    "persistence": 0.2994852790988556,
+                    "strategy": 0.11836123731286467,
+                    "rdbms": 0.1904319835741726,
+                    "role": 0.12407052175091128,
+                    "system": 0.08549815601653495,
+                    "execution": 0.2994852790988556,
+                    "data": 0.06324727229694495,
+                    "object": 0.10905329552468297,
+                    "structure": 0.1134156301786231,
+                    "house": 0.1904319835741726,
+                    "runtimeexecution": 0.1904319835741726,
+                    "resident": 0.1904319835741726,
+                    "volatile": 0.27817549595427915,
+                    "memory": 0.12407052175091128,
+                    "orm": 0.3295197315513122,
+                    "tool": 0.08549815601653495,
+                    "bridge": 0.1904319835741726,
+                    "context": 0.26164634400507847,
+                    "familiarity": 0.13908774797713958,
+                    "least": 0.13082317200253923,
+                    "one": 0.13082317200253923,
+                    "implementation": 0.1134156301786231
+                }
+            },
+            {
+                "name": "5 Utilize tool team collaboration communication",
+                "term_frequencies": {
+                    "continuous": 0.6220078873591616,
+                    "integration": 0.27170966492835075,
+                    "delivery": 0.39551258126943545,
+                    "strategy": 0.2458271851882574,
+                    "testdriven": 0.39551258126943545,
+                    "development": 0.3551461865302221,
+                    "staged": 0.39551258126943545,
+                    "environment": 0.25768492979035423,
+                    "platform": 0.3110039436795808,
+                    "infrastructure": 0.25768492979035423,
+                    "service": 0.28887455349098223
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,3504 @@
+[
+    {
+        "name": "Discrete mathematics for computing",
+        "kp": 6,
+        "type": "VSK",
+        "code": "DatZB010",
+        "similarities": [
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.09473147626676222
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.07377173071015786
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.03913116782331516
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.036521593472491044
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.0344556863454445
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.02857336825196882
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.028443162615165534
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.025061042277552695
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.020678852758651618
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.02066165817818795
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.020527098440444272
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.020147916389163155
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.013740866684111197
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.012977722888705348
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.008146569867990497
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.007493296032876878
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.005120563716977171
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.0011954937373941622
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0010893305253969717
+            ]
+        ]
+    },
+    {
+        "name": "Algebra",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB092",
+        "similarities": [
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.08802063925002938
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.06282345918122055
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.04043294467120595
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.03318544304188928
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0293030645822758
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.024562499594038598
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.021729625583867228
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.017947779059455566
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.012736776720921376
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.01091501820365565
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.006722403171176467
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.005606959903720153
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.005345473702006028
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.0042199252979673125
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.0030403692856742015
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0026709336807469695
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.002033034024654837
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.001524111120457649
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Internet, Netiquette And The Legal Regulation",
+        "kp": 3,
+        "type": "VSK",
+        "code": "SDSKB110",
+        "similarities": [
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.03101851329816927
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.028513882215921795
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.024194685850321078
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.021694374664743717
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.020595458919917722
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.02027981505604586
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.01852378971500311
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.01799415106293837
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.01038617526432198
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.007408520523856184
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.0061198746438732
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.0047761337311954845
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.004731926819713066
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.003857829337859431
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.0018588099007597065
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.0
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.0
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Calculus I",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB091",
+        "similarities": [
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.08711876349811187
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.0658035423152249
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.06122576023782558
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.053543163851939184
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.05308012597308772
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.046900911168731144
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.046769980384172474
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.03664001207358031
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.034479951887912225
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.033345673787611496
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.029352668260900636
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.028241772237574493
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.023028779509569178
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.0175592644339759
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.016599387096606247
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0067479463857044895
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0022455178489255503
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.0018657626231688184
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Analytical geometry",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB096",
+        "similarities": [
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.05278703147692393
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.04394573911491997
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.039766592143774114
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.03143431852838698
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.02019082758446201
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.01919889900869554
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.01870514683276278
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.018223800961229088
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.01560469396496514
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.014588680305900386
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.011870954856533115
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.00881561674250288
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.008631396569005544
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.004692228258739005
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0038930465173186235
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.00354166255968529
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.002615242542987059
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.0023550560805368254
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.0021603852668782464
+            ]
+        ]
+    },
+    {
+        "name": "Principles of Economics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "EkonB012",
+        "similarities": [
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.08388490306981539
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.0654000327438575
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.061488241107346124
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.053087450417798436
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.044944407962207826
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.029959858072106597
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.02869881979237342
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.024480340707250605
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.018659050964488506
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.012399141904799975
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.012385155921200963
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.011455085894276002
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.010915193539941649
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.010057441372361314
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.009017960605035045
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.008471571383035403
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0034177653380709733
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.0
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Introduction to management",
+        "kp": 6,
+        "type": "VSK",
+        "code": "VadZB019",
+        "similarities": [
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.11024652776940608
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.08703037432336092
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.08505296103437171
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.08256674060746709
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.08201674807463266
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.0708212094752392
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.04497045836518948
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.030505056704588748
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.02773369914051907
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.02734468780652102
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.024300738321022107
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.022299616290413903
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.02050915330072322
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.019457743100579624
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.014403663719631057
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.01396478965372544
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.013727116232272314
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.008647009074990181
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0050796957031978805
+            ]
+        ]
+    },
+    {
+        "name": "Probability Theory and Statistics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB094",
+        "similarities": [
+            [
+                " ",
+                "Secure Computing - core",
+                0.10918661870882042
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.06724677561985262
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.061461174643399084
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.06134459431061952
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.045372421067374054
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.044535750905168286
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.04141391587703328
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.039662742619123274
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.025766695914553186
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.02406032391642818
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.017334794068007253
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.0170554542485288
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.013475073426778578
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.013309889384720632
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.01222678005672957
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.00826027134327897
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.007945920395825066
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.006340560951951458
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.003948171756022685
+            ]
+        ]
+    },
+    {
+        "name": "Civil protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "KimiB001",
+        "similarities": [
+            [
+                " ",
+                "IS Project Management - core",
+                0.0785278465323017
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.0707628820435236
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.06801454970137005
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.06536694932184502
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.06022021323475099
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.05429325471551646
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.05298501449153034
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.04424340329466854
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.04296424400294149
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.030183172761922127
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.023875410736916014
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.023759317221214046
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.02247229824443352
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.020415661106849906
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.02034188734871705
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.01443279160337035
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.010352049287819635
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0071864757544752595
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.0037240443876661177
+            ]
+        ]
+    },
+    {
+        "name": "Environment protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "VidZB001",
+        "similarities": [
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.09868060716060384
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.06565502339165823
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.0640902729841392
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.06348074009464781
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.06084095535261641
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.046778877644886495
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.04471441783969734
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.03787499908195185
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.035487091563587106
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.034991809686806666
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.03318031193897625
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.030706990765757308
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.025044690153698843
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.0185609931657349
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.015172094899094183
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.014647586798279795
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.008533829011211708
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.006313358905225395
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0023184825037587883
+            ]
+        ]
+    },
+    {
+        "name": "Information Technology Project Management",
+        "kp": 3,
+        "type": "VSK",
+        "code": "DatZB017",
+        "similarities": [
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.2745153416566347
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.17474077353552642
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.10730585808253155
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.07770635900689192
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.055318613634900635
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.054571217033998046
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.04917034847319364
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.04260520596332181
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.03877174289252684
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.037575939891728555
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.036955751323487024
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.030568571868262888
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.026796620135538317
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.01219124249606285
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.0022850670857466845
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.002149131839982951
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0010377813872166574
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.00099795276574667
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Communication and Cognitive Sciences",
+        "kp": 3,
+        "type": "VSK",
+        "code": "KomZB103",
+        "similarities": [
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.13591326368085277
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.04167525187574143
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.03950816381662612
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.03872226175309718
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.03119098390989395
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.025618879243313866
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.025377834345770355
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.024342575925273002
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.02291227287495027
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.021388976431571057
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.018014204379498796
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.013821691995089848
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.010615980371784245
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.00900571820328221
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.008532388797484733
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.007488194355498065
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.005228352953297745
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0019272545823250953
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.0006008831665286147
+            ]
+        ]
+    },
+    {
+        "name": "Algorithms and Programming",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB009",
+        "similarities": [
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.14437193684800811
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.08305052002581058
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.06648186632076628
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.048771230273952096
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.038274896408580054
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.02261320109676781
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.018686135507203293
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.018575404612234715
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.01784314452772431
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.016161580541111564
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.01483985382737056
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.01328437743768078
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.01241200446251343
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.01126140371094295
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.011130038932662914
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.008836916304334246
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.005457212680177962
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0016516283732255737
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Computer Architecture and computer engineering fundamentals I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB066",
+        "similarities": [
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.11807266030115045
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.10821695588870663
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.0656147274053454
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.057688098823258385
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.04917751327158411
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.04345698733409569
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.04344850111566132
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.04171976098253666
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.041550238323896885
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.028029664637163415
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.026317620215783526
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.026180165810298268
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.022515129135054327
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.0216317754659241
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.01918296545327937
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.01888890982025899
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.015650910466447118
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.012065236162640259
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.005447408907882439
+            ]
+        ]
+    },
+    {
+        "name": "Computer networks I and insight into industry",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB067",
+        "similarities": [
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.3119127974429937
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.20209802009191077
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.08382506078721111
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.05338475787483895
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.031610949655449624
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.03134032025080602
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.024061905249017385
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.019803538811166744
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.01471478562797422
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.014498651386705322
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.010463050455739784
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.009674340492362208
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.009174581339696388
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.005748928832534991
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.005215593388064547
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.0050121793871248455
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.003656882529145128
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0033817645460934953
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.0025046799865613865
+            ]
+        ]
+    },
+    {
+        "name": "Operating System",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB018",
+        "similarities": [
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.07328379171501852
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.04777319945386633
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0446646736603271
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.044532160687413
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.044051660185763834
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.04376857003933821
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.04317536461932629
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.037774612278197825
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.029648959180364795
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.02593354842846791
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.022866271619125068
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.02061504667343395
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.016561410577220315
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.012805532903644634
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.011893361704054561
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.007624721861894101
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.007202393762690005
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.007133779731846196
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB001",
+        "similarities": [
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.13037953598654883
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.10898457822423052
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.05168608923791709
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.04799364806391549
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.04408226459657794
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.042794570737978536
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.03905149665582028
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.027980364883851125
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.023396336540666154
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.01360652795873513
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.012422895857116891
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.011296107878947075
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.010736168534194642
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.01018670454427931
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.009428699637504446
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.0
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Databases and Information Systems Fundamentals",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB068",
+        "similarities": [
+            [
+                " ",
+                "Data / Information Management - core",
+                0.12576717726798117
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.12341478364065121
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.1125589333355384
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.11137500821947584
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.08462460756710372
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.07392838211307873
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.06513359499089076
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.055041467665489646
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.053651921994429044
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.049625936778533546
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.04739189318232077
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.045672259479142226
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.03231328797966052
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.03158672683932906
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.022489144745709788
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.02101857464441653
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.01821466230817484
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.015315568809963293
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.00631110836255567
+            ]
+        ]
+    },
+    {
+        "name": "Software development fundamentals",
+        "kp": 7,
+        "type": "NTP",
+        "code": "DatZB007",
+        "similarities": [
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.1078267392603445
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.1029499894204585
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.09033338477380094
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.08414022669878199
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.07641258416200125
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.0743662163343675
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.05922218048694526
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.057338440735208135
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.05245615181960847
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.050753371369625426
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.04878071880317808
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.04333377008657222
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.04120744289443538
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.03567715837210206
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.03304767649815503
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.03159840872015288
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.02775998760280621
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.019814098329134333
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.006326586160677778
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies II",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB032",
+        "similarities": [
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.1505335944441365
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.14645454481683712
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.11915870772017352
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.06904864526595529
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.05930288881091967
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.046394492259597284
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.03950866641380479
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.03796369378929338
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.03509318860602587
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.01383453736047384
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.013350911167646274
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.011674553704748866
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.01163284361690979
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.008477178207157833
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.00826993887122643
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.006907970786270015
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.006306899206958385
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.006153315925262586
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.005087162452147684
+            ]
+        ]
+    },
+    {
+        "name": "Automata Theory",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB016",
+        "similarities": [
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.08014570165401017
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.04338275298505658
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.038096244320196
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.03182783424738915
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.031086144924918974
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.027878567828609264
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.027586806590175008
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.022810599075505013
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.02276939307535187
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.019264529874237584
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.014608599625621976
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.013724278988121591
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.007098549308710847
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.004985286819859705
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.003989312848591021
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.002476043300068881
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0021113328705433788
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.0020630556106725037
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Software Engineering",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB038",
+        "similarities": [
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.22280733128041474
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.1441285479904056
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.0976490089603087
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.09703035207836924
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.09565885540572047
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.08903911238602412
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.08325687892251937
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.07582412815672375
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.07428589660150064
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.0742053041801284
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.05798573401745647
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.052479051038811744
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.04278784217368288
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.042261861576332604
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.03554995232423228
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.03119744845619492
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.024419664076019525
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.005120300100534044
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.004632952067780903
+            ]
+        ]
+    },
+    {
+        "name": "Formal Grammars",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB033",
+        "similarities": [
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.038522362487364195
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.029998901509925714
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.029771677685781737
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.02866119605247714
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.026930885752705983
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.023408592684552216
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.0232280190169736
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.022118742847979225
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.02070273337759309
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.019805338315037484
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.015018703274004688
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.014109557319288889
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.007297825149265823
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.005125237558839019
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.004101303853593155
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.0025455526587298475
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0021706038024156956
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.0021209712668226873
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mathematical Logic",
+        "kp": 3,
+        "type": "NTP",
+        "code": "MateB098",
+        "similarities": [
+            [
+                " ",
+                "Data / Information Management - core",
+                0.12851519828882713
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.07449930987338767
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.062478980339370244
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.04426091833081126
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.03423019543438383
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.026512072564146463
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.02649976778586296
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.02338782117159405
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.02005449309239423
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.01900293719488659
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.01779762753918911
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.01685336645256316
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.008251785907580356
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.004808417351330961
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.004803753730189429
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.003674780638594571
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.0030216975980766497
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.0024757669225596276
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Theory of Algorithms",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB042",
+        "similarities": [
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.1250792536841391
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.0626364924792317
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.045225816738613867
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.03893441398122077
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.03212889997834391
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.026148162392906817
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.025377523152773192
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.0233533746323295
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.019972039123344984
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.018520987440432245
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.015731325078068237
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.010123724392959318
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.00935281275651432
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.007905877444523422
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.004049928538825804
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.003239357639752454
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.0018516990719391615
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.0014711320230013187
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Human - computer interaction",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB071",
+        "similarities": [
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.15433027868350316
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.11339843001953485
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.09318326760703186
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.07367809473592792
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.055323342141008425
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.051151889650045544
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.047272025368065664
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.04166240409851365
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.03855371574152902
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.03110108802507168
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.02978655628845101
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.028075795659830812
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.02173640210028639
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.016722872250319713
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.015614983093441928
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.014408726210843591
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.011278402041705549
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.007527055511046344
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.002476502421268581
+            ]
+        ]
+    },
+    {
+        "name": "Databases II",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB045",
+        "similarities": [
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.10737736319752075
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.09971808229275063
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.07167409093683003
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.05968495812350422
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.057973095599217934
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.04225227062905854
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.035965955205690056
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.03421142503041353
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.0290479054136823
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.027416408486454862
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.022111023769565114
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.02112028217193847
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.019238006550492986
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.010020488663681807
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.008649125195938995
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.008122606496819822
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.006047086549310184
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.005921019353175844
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0036582258074686915
+            ]
+        ]
+    },
+    {
+        "name": "Data Warehouses",
+        "kp": 6,
+        "type": "IS-o",
+        "code": "DatZB029",
+        "similarities": [
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.09605436688928931
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.07610587326990866
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.068238495412805
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.061979474090674065
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.05362430255372677
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.053350222459788356
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.04929364127782401
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.04881946351410483
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.048183510470866504
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.044126710703609094
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.035365862679089255
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.02805250678099619
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.024191143332827222
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.0218841783253491
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.021202142369794376
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.019641300930074986
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.017257854560390227
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.014071585519427766
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.0042983417598232215
+            ]
+        ]
+    },
+    {
+        "name": "Modeling basics",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB049",
+        "similarities": [
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.1415850159854076
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.11853484889812006
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.11012089500327718
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.09835188072060191
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.04442964114140233
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.0402565637880305
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.03705334851583324
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.02558305207574705
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.024398848200543125
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.023538938659307677
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.023135298092173635
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.014801538201791666
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.011157512616250748
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.00870914388129322
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.00625205434784413
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.005355326016839196
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.005205737332508938
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.004746881383063274
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.0006581805054028276
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Design Tools",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB030",
+        "similarities": [
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.19240284951881295
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.11377084247154892
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.10827738774875069
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.09766976178542387
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.0974393262205415
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.08810606563597868
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.07176012535047094
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.07016637714115534
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.06424420693950403
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.05409907155344531
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.052307873555526796
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.051133026657850654
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.04981824377795753
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.048071959890256415
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.036476743104577686
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.029353555727359763
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.0284662341269165
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.02014911188418276
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.004338214691481081
+            ]
+        ]
+    },
+    {
+        "name": "Operating System Concepts",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB057",
+        "similarities": [
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.10412718545658453
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.08557704234419797
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.0778734540425775
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.058949368358049606
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.05489613359948721
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.051779483540786896
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.05162774655480313
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.050945733528727145
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.05090891709047637
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.043014804664423555
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.04171320235738899
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.0309325961972804
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.02442461917199227
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.020826491743419582
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.0204807025765081
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.017515397225546972
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.01289002960834232
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.0024565928043817323
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Software Requirement Analysis",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB037",
+        "similarities": [
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.1814616066988157
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.10722106609551733
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.10223385085639769
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.08735171242738766
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.08099867382085148
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.06835883616596264
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.06241730044242704
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.052725105402044475
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.04947352501751203
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.04469736102818044
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.04351955051505763
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.04323612963438056
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.03842259457467963
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.03231048792428335
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.032035171179487745
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.021167042354076644
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.009442147615452992
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.009076112512706774
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.003222978144106795
+            ]
+        ]
+    },
+    {
+        "name": "Software Testing",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB055",
+        "similarities": [
+            [
+                " ",
+                "IS Practicum - core",
+                0.2465973782151761
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.08083193186545097
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.07888675434751648
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.07510058270219325
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.0727951950498297
+            ],
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.05677486467311079
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.055301128429183624
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.05327918954625759
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.05054229999022098
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.049112811846871614
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.048295128599639775
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.033954827785087766
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.030217994524374733
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.029883101016908692
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.018253376039624843
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.0171372451742316
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.015990025574001705
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.010809749054365821
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.0026136105160218474
+            ]
+        ]
+    },
+    {
+        "name": "Web application security",
+        "kp": 3,
+        "type": "IS-o",
+        "code": "DatZB054",
+        "similarities": [
+            [
+                " ",
+                "Foundations of Information Systems - core",
+                0.07689899680951172
+            ],
+            [
+                " ",
+                "IS Practicum - core",
+                0.07262991032767459
+            ],
+            [
+                " ",
+                "Web Development - supplemental",
+                0.06427708760577826
+            ],
+            [
+                " ",
+                "Business Process Management - supplemental",
+                0.06100551557907631
+            ],
+            [
+                " ",
+                "Mobile Development - supplemental",
+                0.056349873731440035
+            ],
+            [
+                " ",
+                "Emerging Technologies - supplemental",
+                0.05061779122297421
+            ],
+            [
+                " ",
+                "IT infrastructure - core",
+                0.04752557535665779
+            ],
+            [
+                " ",
+                "IS Management and Strategy - core",
+                0.03623622793688094
+            ],
+            [
+                " ",
+                "Digital Innovation - supplemental",
+                0.02507156002281173
+            ],
+            [
+                " ",
+                "IS Project Management - core",
+                0.023202397357876835
+            ],
+            [
+                " ",
+                "Application Development and Programming - core",
+                0.019170054359378984
+            ],
+            [
+                " ",
+                "Secure Computing - core",
+                0.015230232538764849
+            ],
+            [
+                " ",
+                "Systems Analysis and Design - core",
+                0.010069742822201808
+            ],
+            [
+                " ",
+                "Object-Oriented Paradigm - supplemental",
+                0.00824584601721898
+            ],
+            [
+                " ",
+                "IS Ethics, Sustainability, Use and Implications for Society - core",
+                0.005419792496733666
+            ],
+            [
+                " ",
+                "Data / Information Visualization - supplemental",
+                0.005281867025175592
+            ],
+            [
+                " ",
+                "Data / Information Management - core",
+                0.00517343341899632
+            ],
+            [
+                " ",
+                "User Interface Design - supplemental",
+                0.005079156237535875
+            ],
+            [
+                " ",
+                "Data / Business Analytics - supplemental",
+                0.0037994545276964515
+            ]
+        ]
+    }
+]
