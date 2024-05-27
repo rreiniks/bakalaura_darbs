@@ -1,0 +1,87 @@
+Theory of Algorithms
+The goal of the courese is to introduce the main notions of the theory of computation and their applications to the analysis of specific computational problems. Tasks: 1. Provide knowledge about theoretical models of computation, algorithmically solvable and unsolvable problems, and basic notions of computational complexity. 2. Create skills for determining the computational complexity of various problems and classifying them by their complexity. The course is taught in Latvian and English.
+3
+DZ-o
+DatZB042
+
+Data structures and algorithms
+The course covers 1) the simplest and most popular data structures: list, stack, queue, binary tree, ordered tree, graph, priority queue, heap, set, dictionary, balanced tree, hash table, etc .; 2) basic algorithms for working with these data structures or for solving specific problems, for example, sorting, searching, finding the optimum; 3) algorithm properties, design paradigms, factors influencing the speed and memory usage. The course aims to learn the most important data structures and algorithms, create programs for small algorithmic tasks, and analyze and evaluate solutions. The tasks of the course are 1) to master the most important data structures, their properties and implementation possibilities; 2) to master the most important algorithms, their properties, creation paradigms and implementation; 3) to learn to analyze the problem, find different solutions for it, evaluate the created solution; 4) to be able to create simple working programs. Students must learn both the topics offered in the lectures and independently find and acquire additional knowledge about data structures and algorithms in order to be able to create solutions to the given tasks. Students have to analyze a bigger problem, create a solution design, and program several small algorithmic tasks to obtain working programs. Solutions must be based on primary needs: safe and easy to implement, fast-working, and minimal memory usage. The course is taught in Latvian and English.
+6
+DZ-o
+DatZB044
+
+Combinatorics
+he aim of the course is to acquaint students with the most popular kinds of combinatorial problems, with combinatorial methods in problem solving, with the most important combinatorial numbers. Mostly the enumerative combinatorics problems are considered. Special attention is paid to teaching the combinatorial way of thinking, so that students would look also for combinatorial solutions of problems, not only arithmetic or algebraic. However, usage of generating functions is taught as well. The course tasks are: to grasp the scope of combinatorics, to learn the most typical counting problems (counting of samples, permutations, number partitions, finite functions), their solution methods, corresponding combinatorial numbers (variation, combination, permutation numbers, Stirling numbers of the first and second kind, Bell, Euler, number partition numbers), to learn the method of combinatorial proof, usage of generationg functions, to get insight into some problems not related with counting (Ramsey theory, transversals, latin squares). Languages of instruction are Latvian and English.
+3
+DZ-o
+MateB101
+
+Quantum Computation
+The goal of the course is to introduce students to quantum computing as a new model of computation based on quantum physics. Tasks: 1. Form knowledge about quantum information science and its possible applications. 2. Form knowledge about algorithms for quantum computers. 3. Form skills for analyzing and applying quantum algorithms. The language of instruction is Latvian.
+3
+DZ-o
+DatZB062
+
+Applied cryptograpfy
+The aim of the course is to provide critically necessary cryptographic knowledge to the specialists of the future National Data Security School. The task of the course is to master the currently used 1st generation cryptography algorithms to such an extent and level of detail that students can independently master the 2nd, 3rd and 4th generation cryptography algorithms. The course covers the following aspects of modern cryptology: - the role of cryptography and cryptanalysis in the Internet infrastructure and web software environment of data security systems; - historical information coding algorithms, their discipline and their shortcomings; - principles of construction of cryptographic algorithms widely used today, their mathematical bases and discipline of their use; - elements of a secure communication channel: symmetric block ciphers, symmetric file ciphers, one-way hash functions, data authentication functions; - asymmetric encryption algorithms, their applications for symmetric encryption key exchange, digital signature implementation, etc. The language of the course is Latvian.
+3
+DZ-o
+DatZB051
+
+Linear Algebra I
+The aim of this course is to acquaint the students with the basic material on linear algebra, to help acquire the ability to solve the corresponding numerical problems. The course tasks are: to learn the most important notions of linear algebra (linear systems of equations, linear spaces, linear dependency and independency, bases of linear spaces, transition matrices, linear operators), their numerical representations (with matrices, n-tuples), algorithms of numerical calculations. The acquired course material has wide applications in almost all fields of exact sciences including computing. The language of instruction is Latvian.
+3
+DZ-o
+MateB073
+
+Main Notions of Mathematics
+Goal: introduce the main notions of different branches of mathematics, connections among them and their applications. Tasks: 1. Form knowledge about the main notions of algebra, mathematical analysis, number theory and set theory in the context of mathematics and computer science. 2. Form knowledge about connections among these branches of mathematics. 3. Form skills in applying the main notions of these branches of mathematics. The language of instruction is Latvian.
+6
+DZ-o
+MateB102
+
+Calculus II
+The course "Calculus II" is a continuation of a "Calculus I". The purpose of the course is to help students learn to use the tools of mathematical analysis to solve various problems of a mathematical and physical nature. Tasks of the course: integral calculus, infinite series and differential and integral calculus for functions of several variables (limits, continuity, differentiation, free and constrained extrema, multiple integrals), as well as their applications. Languages of instruction are Latvian and English.
+3
+DZ-o
+MateB095
+
+Modeling basics
+The aim of the course is to basic knowldege of the practical use of system modeling languages and tools. The tasks of the course include getting acquainted with two main types of system modeling (object-oriented modeling and business modeling), mastering UML class diagrams, mastering business modeling, which is necessary for the needs of object-oriented modeling. In addition, they include a review of the system modeling methodology, learning how to use class diagrams in metamodels in construction, solving specific modeling tasks. Case studies are included, and system modelling methodology is discussed. Language of instruction: Latvian and English
+3
+DZ-o
+DatZB049
+
+Operating System Concepts
+Course goal: To learn about the basic principles of modern operating systems that affect software performance and fair distribution of computing resources. Course objectives: To master the fundamental components of operating systems architecture, and practice evaluating operating system performance depending on various configuration parameters. The operating system is an essential component of any computer system. This course does not cover specific operating systems or hardware, but fundamental concepts that are applicable to any operating system. The following questions are answered: what are operating systems, what do they do, how are they designed, and how has the concept of the operating system evolved historically? The course covers the basic concepts of process and CPU planning, memory management, secondary and tertiary memory structure, protection and security, as well as computer system performance evaluation. Language of the course implementation: Latvian.
+3
+DZ-o
+DatZB057
+
+Programming Languages
+The aim of the course is to acquaint students with the basic concepts of programming languages, the history of programming languages ​​and programming language definition methods, as well as different types of programming (programming paradigms): imperative, functional, logical, object-oriented, parallel, and their typical programming methods and tools. The tasks of the course are: - to give an idea about the basic concepts of programming languages, their development, and methods of defining programming languages: programming language syntax and semantics - to acquaint students with the fundamental types of programming (paradigms) - imperative, functional, logical, object-oriented, parallel, with the corresponding programming languages, their essential constructions, and program development methods, and - to allow to test different programming paradigms and languages ​​in action by creating simple programs. The course languages are Latvian and English (separate groups).
+3
+DZ-o
+DatZB059
+
+Syntax and Semantics of Programming Languages
+The aim of the course is to get the students acquainted with the basic methods of defining programming language syntax and semantics. The tasks of the course are: - to get the students acquainted with the possibilities to define programming language syntax - to get the students acquainted with different options for defining programming language semantics - to give the students possibility to try the learned syntax and semantics definition methods on simple examples. The course introduces the notion of formal (precise) syntax and semantics of programming languages. The programming language syntax is considered both in its concrete (as specified by BNF) and abstract (as given by abstract syntax trees) forms. The course deals with translational, operational (in structured and abstract state machine variants), as well as denotational approaches to semantics specification. The proofs of program correctness on the basis of axiomatic semantics are considered, as well. The students have the possibility to implement different semantics specification formalisms for simple languages towards working interpreters or compilers. The language of instruction is Latvian.
+3
+DZ-o
+DatZB069
+
+Computational complexity
+The goal of this course is to provide deeper knowledge about the complexity theory. Therefore, the main emphasis of the course is on problems that do not admit an effective algorithm. This is a continuation of DatZ3050, Algorithm Theory. The objectives of the course are as follows. First, to introduce various computational models and relations between them. Second, to acquire deeper understanding of NP-complete problems as the most popular class of hard problems, and get familiar with various techniques to prove NP-hardness. Third, to study space complexity and the related computational class PSPACE. Finally, to get understanding of the power of randomness and interactive proofs, and to get aquanted with the place of quantum computation in the scape of computational classes. Languages of instruction are Latvian and English.
+3
+DZ-o
+DatZB085
+
+Theory of Probability and Mathematical Statistics selected topics
+The aim of the course is to deepen students’ knowledge and practical skills in processing, and analysing statistical data. To achieve this goal, students are introduced with: 1. Multiple and non-linear regression, assumptions and usage in data analysis; 2. Methods and usage of quantitative forecasting; 3. Decision making under uncertainty' 4. Statistical data processing and data analysis with Microsoft Excel and SPSS (or R). Teaching language – Latvian.
+3
+DZ-o
+MateB099
+
+
+
+

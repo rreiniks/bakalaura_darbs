@@ -1,0 +1,6576 @@
+[
+    {
+        "name": "Discrete mathematics for computing",
+        "kp": 6,
+        "type": "VSK",
+        "code": "DatZB010",
+        "similarities": [
+            [
+                " ",
+                "Discrete Structures - core",
+                0.3291180007925517
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.09363121908727465
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.08935356106284961
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.07287709183628953
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.07097160994011645
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.06665671942268662
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.06557757655381995
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.060866592861020266
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.05917065661360063
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.04677941929138549
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.04567062352307479
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.04393544572901262
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.04151014386469547
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.03724869379106425
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.032262814786698256
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03139635034716742
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.030976778749027566
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.029693432693201845
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.028192315950434678
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.02674722832624556
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.026246433835775247
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.024548235772059394
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.020475414591593164
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.01816224893812794
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.016437057027111093
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.01568186558078331
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.014424805419725972
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.014360596611782342
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.013554855423319835
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.012637800874110846
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.008640274188725747
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.005842367599846814
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.0015695094119695114
+            ]
+        ]
+    },
+    {
+        "name": "Algebra",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB092",
+        "similarities": [
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.09548722002896384
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.04724045932048043
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.041921621506356796
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03896362869299217
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.03861537346043905
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03534258209485534
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.033806016445919136
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.03219018238991409
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.03154423816743338
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.02939756004439506
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.02767420711119419
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.026223717130113802
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.025377401628098796
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.02399164190595275
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.0227865036117307
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.021664298757857917
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.020932191916289776
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.020793139371595767
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.01907749652710889
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.012958091579257213
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.012879021605981205
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.012298520251829315
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.010887004422068513
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.010548106728227166
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.009920134797246146
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.009146760686223724
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.007852951757101637
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.005153910593019554
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.0031619450432797463
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0021810533069103123
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.0
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Internet, Netiquette And The Legal Regulation",
+        "kp": 3,
+        "type": "VSK",
+        "code": "SDSKB110",
+        "similarities": [
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.03791657028778017
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.030936152998262936
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.030695535622404447
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.02502386056088335
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.023234397586847356
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.023079663494064786
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.02178382492221963
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.02120954914445627
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.01826783680239781
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.017154468740834997
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.016748858527180773
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.014029289550503771
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.013393436109673905
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.011086191866676738
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.010224024901634696
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.009648726598773825
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.009536518955527262
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.009434346532642647
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.009297417383238396
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.00848795281844993
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.00805719058108153
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.0078056298675453824
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.007376762641173476
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.007352825238622785
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.0070082087193264
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.006153035860524324
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.005432938826635486
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.0050716037335936034
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.004615649344823963
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.003764619144762693
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.00282163612699136
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.002641961718267279
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.0023041095977148975
+            ]
+        ]
+    },
+    {
+        "name": "Calculus I",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB091",
+        "similarities": [
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.07865177995939333
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.07788215467599505
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.06811779310361746
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.05503520277225964
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.050738270657196355
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.04779866028739241
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.04607148715787056
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.0442270588529466
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.04191466869994453
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.04189272655386749
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.04100883271203483
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.04096921187770495
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.03993371252512364
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.03857020644631958
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.036908081073368675
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.03653485545851673
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.03584877322898468
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03420706621396933
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.03292531520907814
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.0328238092106333
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.02971811148094899
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.02777851191506286
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.02578312450687471
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.025404714609583618
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.024098642064474013
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.02157641114782052
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.018910590506815712
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.016044229253807957
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.008766929315424388
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.007588754133608753
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.0059728922878773925
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.004111870676571342
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Analytical geometry",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB096",
+        "similarities": [
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.12978066992403986
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.06681169037185927
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.04761737783599961
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.045777651181842675
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.043738156837627946
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.0422216830241344
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.04093512112524489
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.04074304676951635
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.04015053136845388
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.03910979704682681
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.03889632489594431
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.035597490430843405
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.03498849302550292
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.03448399353229474
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.03183985608908147
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03152801986975363
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.02774198583221835
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.027065769828441975
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.026735424609794174
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.024354019462419493
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.023452056836957707
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.02301375542364303
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.020968028812293996
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.020792204786453734
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.02037560332126966
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.017795795761818518
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.017062263892621162
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.014961117949099356
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.010038163625663597
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.008963252773253032
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.005954013362705214
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.004613453313577022
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0010904165085775545
+            ]
+        ]
+    },
+    {
+        "name": "Principles of Economics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "EkonB012",
+        "similarities": [
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.09243507241574365
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.05004106079501813
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.04826686480241504
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.0446301101080859
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.04369460037160485
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.042102570174872615
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.03528358525634148
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.03315208294790782
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.032576164487174535
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.028470305891365708
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.028084136240730855
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.024129650328707845
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.022463905181352814
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.022288069414616883
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.020835702933562954
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.020259080813645972
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.018454344698480455
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.01843131784886061
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.016588339291258594
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.015084952206050255
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.014135002616644193
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.013662387366686082
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.013559095212617608
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.013476113371530395
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.012187540867389582
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.012119716708035747
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.010712531324997216
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.010184546256203453
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.007965293687654106
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.0035413360755090903
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.003148240706403139
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.002866891106915095
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.0004433316894730592
+            ]
+        ]
+    },
+    {
+        "name": "Introduction to management",
+        "kp": 6,
+        "type": "VSK",
+        "code": "VadZB019",
+        "similarities": [
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.23639038141988117
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.11665604225861619
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.07894742840959876
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.06420037642097351
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.06288851423371934
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.04764859617184219
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.047622849673235636
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.04679944726877244
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.04282945999286478
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03986873201502065
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.03567884982142515
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.03338391044554704
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.03271985343444919
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.026971279271263127
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.026595736380344053
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.02490654236025587
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.023202498064957673
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.020849307680328735
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.020710409013592168
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.018612658530603458
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.018513299462266368
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.014030273885444514
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.013896837730583407
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.01376561227734636
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.012675338219145724
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.011268864516695593
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.010563704576719492
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.010270429782819427
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.010055241646619348
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.007484191734165381
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.005046939382130808
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.004159100920532378
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.003864104907716956
+            ]
+        ]
+    },
+    {
+        "name": "Probability Theory and Statistics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB094",
+        "similarities": [
+            [
+                " ",
+                "Discrete Structures - core",
+                0.11209877392379652
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.08044377720996322
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.08017413504209607
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.06853307820887783
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.06821120733139047
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.05846161550730971
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.056610286002324234
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.04977446091398918
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.04724551411326697
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.041743443633413924
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.033956082616861005
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.033554414951817185
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.03192665063681609
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.0301284629833861
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.02969120967981879
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.025686990910077902
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.02415557144145424
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.02357474261922674
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.02226347522299274
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.018281039281351167
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.017529563774166528
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.01702763727586153
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.016021862054205624
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.014594643760593959
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.014455930111795605
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.014204869501102956
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.012839398445597085
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.01156362371407992
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.008944509675487463
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.008856596938366445
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.007927602910273716
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.007662334122310985
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.0026063605970825347
+            ]
+        ]
+    },
+    {
+        "name": "Civil protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "KimiB001",
+        "similarities": [
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.11022356073393405
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.10407629651932591
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.09535481627420322
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.08695827067682067
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.08076888993108142
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.07755979399582057
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.07075073871071859
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.055371864850384735
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.05252853317746492
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.0524913751284316
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.04908315352800626
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.04588931142836707
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.045887742448310884
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.04233731960764006
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.04072666642861063
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.03954218546250007
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.03932224347120319
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03751703082462835
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.03456827479173913
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.03121790648647043
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.02895531074084178
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.02890469086095534
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.02805899149684097
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.02570893079901095
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.02549325191572422
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.024202737457620912
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.019026262261303883
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.01784977405750609
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.01760482924133841
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.015880107786384576
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.011220419192240955
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.010778645649359627
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.0029207356827276243
+            ]
+        ]
+    },
+    {
+        "name": "Environment protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "VidZB001",
+        "similarities": [
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.2359464154074773
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.15712381174437873
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.0819195339212648
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.07642045187652535
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.07206108808438354
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.05792427737679579
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.051698978168297584
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.04564858663378793
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.04404682803727909
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.04363037303717976
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.04132328312237649
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03957948135150029
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.03781050800272342
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.0361809401952521
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.03507051720215626
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.034828460382446184
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.029383046535579112
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.02881789456844859
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.027296509270814243
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.026876147967325372
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.02649708803335598
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.023852399726995297
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.022092223635687035
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.01936359733845723
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.01855209789947222
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.01812510993321506
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.016460601704767146
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.016355556334497617
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.014013857935799144
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.013552565669865915
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.010802070879776358
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.004519587351396443
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.003918317914599313
+            ]
+        ]
+    },
+    {
+        "name": "Information Technology Project Management",
+        "kp": 3,
+        "type": "VSK",
+        "code": "DatZB017",
+        "similarities": [
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.26640013781990973
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.14048135268416223
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.07497096179480858
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.04643827238525457
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.042943655577219984
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.038812988213083356
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.038640175116468715
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.033623941759065426
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.03340776471542721
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.02912629910411893
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.02724582601340136
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.025392582295663026
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.02443595042392636
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.02436414825715894
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.023228752043816088
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.023207048444617552
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.0225672189516419
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.02059265827394098
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.019142404009671876
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.013630544858883306
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.012960725066590814
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.012571629312237053
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.011818478894730847
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.011747804473055444
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.010547422788850272
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.009991803524659261
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.008059699936432643
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0077658244678181455
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.006265674759348579
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.005446992505783808
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.0026825026036278884
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.0005502426573064563
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Communication and Cognitive Sciences",
+        "kp": 3,
+        "type": "VSK",
+        "code": "KomZB103",
+        "similarities": [
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.13445945447811916
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.08494631771832807
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.07278351337080328
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.06300177207927463
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.03962176172729181
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.03795040077037028
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.033764620917846426
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.03282182544375477
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.028551773530238397
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.02821476714173497
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.02647812634405208
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.025680193269908003
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.025537847239288966
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.023830618650054373
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.02373102155485842
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.022375697127893765
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.022187525065529932
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.021579005075214888
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.017605302782620617
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.0166564026402117
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.015253343334463428
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.01462814137952291
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.01273247295041787
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.012278912696722785
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.011172362294565643
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.010681995808363508
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.009657340649113296
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.00907483973566012
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.008981223335411962
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0076889908646527415
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.005913228532617025
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.0026474222207199475
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.0007447963606155305
+            ]
+        ]
+    },
+    {
+        "name": "Algorithms and Programming",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB009",
+        "similarities": [
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.11598584893735382
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.09063468835950936
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.07468421875010378
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.06768301587426154
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.06622649317498829
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.06208146625296759
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.05940054413945704
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.058586502219639285
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.05122884046200233
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.04370479157851664
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.04015394879217104
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.03928522755094094
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.03542313531978709
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.034647891544529304
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.03405482086566718
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.033544300559734924
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.03149466832743714
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.029891298325826755
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.026452273722527096
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.022388051186024393
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.021975469528702704
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.01982726205754957
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.017775965589882266
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.016244593764349405
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.01564864914847885
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.011811068612198135
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.009443565287143834
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.005596895984652527
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.004927623525288776
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.004660647669771646
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.003381729600612885
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.00143399753334806
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Computer Architecture and computer engineering fundamentals I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB066",
+        "similarities": [
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.1220931638395553
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.12180719176125568
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.11012054492298515
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.09953272369442033
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.09411029880806733
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.06972991951580797
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.06593170203938219
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.06319635983740551
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.049760550973492725
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.04663030204092364
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.04461915634506276
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.04048798790614539
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.04023438379789143
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.03971863360321155
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.03461901506194859
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.0341774454540891
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.03396483062463795
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03156925467008433
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.029417652468448595
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.026163903646978973
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.023722701841498155
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.02313944537418092
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.021177690667101023
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.020827183416494408
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.01883180369763586
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.01675246376493539
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.012391806959675313
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.012146502632324616
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.011206635662033573
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.010686392584956506
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.008092210990505326
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.006683259108178837
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.0060451981132078406
+            ]
+        ]
+    },
+    {
+        "name": "Computer networks I and insight into industry",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB067",
+        "similarities": [
+            [
+                " ",
+                "Networking and Communications - core",
+                0.22689835620368526
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.18459694472849209
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.09269229115643504
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.08841800838292199
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.05298996577403809
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.05182764911861989
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.05082172701045307
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.044431988098681374
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.034715231239919236
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.0340913769096368
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.03254631428444593
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.03136375944301376
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.030947460889228395
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.030578372369389185
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.027365119742048895
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.02418835889793935
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.023529506237359096
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.022984114461701146
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.02293447284725033
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.020005728338655448
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.01935661330048801
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.01620786163660357
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.014383108470995894
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.013436865566129554
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.011112509147082625
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.010853824563293979
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.010775476175392897
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.010246504255218215
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.009487463317023189
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.009405700080302374
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.007254414906073449
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.007154356323717718
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.003299083956348572
+            ]
+        ]
+    },
+    {
+        "name": "Operating System",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB018",
+        "similarities": [
+            [
+                " ",
+                "Operating Systems - core",
+                0.20045102419503152
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.08604577527446053
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.07384213175029283
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.04684729444631518
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.045186248011159634
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.042341675659888764
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.03602567399191404
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.0334608843168124
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.029574798106145862
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.028788473347224397
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.02595101300987044
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.02539009596437847
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.024909396182472555
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.023447596985171123
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.022740310707588602
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.02193587860794762
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.02075502255889186
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.0181051822712399
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.017321764871996916
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.015913472061731822
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.015311945049682854
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.015246238761967982
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.014207393102315417
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.013540958780192108
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.01065359578892778
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.009363388091147487
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.008472727982211077
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.00479121407128838
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0028684342282705886
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.002806688370713587
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.002279383381370032
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.0003908711619625319
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB001",
+        "similarities": [
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.25151015230639184
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.131777070183804
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.07045290540199196
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.05537079108704381
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.0473678671691522
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.04258907706677166
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03537933627347028
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.03291288994282651
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.02880929495533529
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.023279782265493706
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.023193441905656986
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.01754446172160457
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.01580719177941798
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.015572848508807996
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.014123410470009952
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.013821221342897497
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.011125868972034837
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.010476724594790085
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.009994172569282686
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.00939955894857471
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.0088793801648373
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.008471473642699307
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.006638276317201339
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.006407477179941996
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.006167681766882377
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.00565019367671888
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.0050702590599423355
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.0034193636808563465
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0025403576266314416
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.0024106211172452404
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.0008445008401320338
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.00043520077675447276
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Databases and Information Systems Fundamentals",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB068",
+        "similarities": [
+            [
+                " ",
+                "Information Management - core",
+                0.4344966915186529
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.29939120005960357
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.10302980536042136
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.08726749189659515
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.06367696927323727
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.06192565480062232
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.05857508124103728
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.05666863661854138
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.05257433975598251
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.048696043558982056
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.04819460928665711
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.04582219146738151
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.044430965441052496
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.04277210521835751
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.03816677769235253
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.03804091191654812
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.03725233552218372
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.035776402597890646
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.03462811337892276
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.03177871865331946
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.031036557574910584
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.028218103092893847
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.02659064353679645
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.025144697094298413
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.022974814387122993
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.01698305601426464
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.016937309749811277
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.0168094961062201
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.014634046507695848
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.011198827124918952
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.00826544856467544
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.007949885034315327
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.006144120978050331
+            ]
+        ]
+    },
+    {
+        "name": "Software development fundamentals",
+        "kp": 7,
+        "type": "NTP",
+        "code": "DatZB007",
+        "similarities": [
+            [
+                " ",
+                "Software Engineering - core",
+                0.17611697794635345
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.1711489923568802
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.16443890134402514
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.1330532922706515
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.1300560720608416
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.09996477371340247
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.09121042220407716
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.08357608331966355
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.0773794026917607
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.0751628046153448
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.07035265006936763
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.06975324224816648
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.06551912546730047
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.06375313154021434
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.06283666428506318
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.060785320212811286
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.05821046066891068
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.0567698383126716
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.05422678664276089
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.04988652807881213
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.047137068586327574
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.04337561540366029
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.03843006900823602
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.03782008004745023
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.037301945056715025
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.03315037334717632
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.03301365519623423
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.031197574383629256
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.028659274041700048
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.024767169226522622
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.023791053802750907
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.01814108297089293
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.01729627483655968
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies II",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB032",
+        "similarities": [
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.2330274229992659
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.13057708694859316
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.08333155535961449
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.07370623902568918
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.07034016946525816
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.06279772962700006
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.05130304599567883
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.04157019152816512
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.03379830512078666
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03249626398033584
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.031996163293560365
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.03184108564926205
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.0295361485073524
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.023287807367426645
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.019613331137827344
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.018851601484857247
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.01828194569199123
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.018176855059246034
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.017930641657660958
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.01561043733317319
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.0116933303164056
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.010697289712820088
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.009818214874330256
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.00955583239656874
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.008535930400453992
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.008325117140405403
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.008032368994554407
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.006377229896998455
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.005526599917129019
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.005121493395276938
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.0025689847523159563
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.0017675868281118341
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.0010624339552168004
+            ]
+        ]
+    },
+    {
+        "name": "Automata Theory",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB016",
+        "similarities": [
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.25564802618878046
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.0856159149964454
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.08408389334166742
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.047454831483024
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.046807277385661476
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.04516242720310572
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.04143489745911774
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.03539140043587326
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.035244032417316884
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.032174411918687376
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03171083785947682
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.029509477871594955
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.027369433308501893
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.023979686921384084
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.023533998265561032
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.0233610341998588
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.021855297887784026
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.021844074206489785
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.020381129292622327
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.01988435562574586
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.018746532636804203
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.017343216343111922
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.01646828495326449
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.01624482667741807
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.016009899662212276
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.01386460087339709
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.012752030496533878
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.011962304677355899
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.011744389623559302
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.008226561911529874
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.006277446866762285
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.003716908398447208
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.00371004887336793
+            ]
+        ]
+    },
+    {
+        "name": "Software Engineering",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB038",
+        "similarities": [
+            [
+                " ",
+                "Software Engineering - core",
+                0.346489800933596
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.27319771359597245
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.1229227983151846
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.121663044354598
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.0959437561052469
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.09100799686945138
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.08669079634673929
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.07755455722323135
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.07366626518748923
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.07330846045557309
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.07329685841315352
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.06444178685755306
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.061036139188145634
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.0590050994438197
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.050058472379157
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.041721485742003565
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.035828842838671215
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.031057176641804934
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.02969617321174631
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.02891152432059533
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.027880066391928485
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.02423559609712508
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.024182719952441086
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.02243790008608995
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.02034505638687113
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.020205353417431387
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.01986980562566238
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.017819141363222137
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.01650820336124814
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.008112012494161687
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.008060403812157295
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.006131074874394785
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.0017913739680550577
+            ]
+        ]
+    },
+    {
+        "name": "Formal Grammars",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB033",
+        "similarities": [
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.23078165063214354
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.11272056692115946
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.07654313816617915
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.035682265588201686
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.03509879967596226
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.034294395020828615
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.03325998768062578
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.032601679053144324
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.031584906607600875
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.024999663676737668
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.023878806777587747
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.02214553009233267
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.02105745804059631
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.02064944920252827
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.02059054322877635
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.020566515821757614
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.019832174106896163
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.018360959734250917
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.01771131552473154
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.017041504812714783
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.016686979142273586
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.014863532863953787
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.014771850016800064
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.014044794690225511
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.013425265157059347
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.012439447802906744
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.011900351812179433
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.011840746981441852
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.009228445006219993
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.008335808338263489
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.00636080959430011
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0037662678958160192
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.003759317278174374
+            ]
+        ]
+    },
+    {
+        "name": "Mathematical Logic",
+        "kp": 3,
+        "type": "NTP",
+        "code": "MateB098",
+        "similarities": [
+            [
+                " ",
+                "Discrete Structures - core",
+                0.21549249762191885
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.10416179832897624
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.08708008619717256
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.07670015706276735
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.07599478813465721
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.061567466220653004
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.05417469140731576
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.052978209945198404
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.05171280782609184
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.05071266412928129
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.03831457812068007
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.03684679595238317
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.03360014341221284
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.03072666123661852
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.03033261672725316
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.029774162303485542
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.02895097764634213
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.028493426389087882
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.027295982806162352
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.0264141884269898
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.026077800284918334
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.020347348383860975
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.019235383524459623
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.017338934026741724
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.017259734676829282
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.013639195869802556
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.013266149225527374
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.012430175044966348
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.01106601309393483
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.007423510190773923
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.006307342076346381
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.002380979831660969
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0021656854127242694
+            ]
+        ]
+    },
+    {
+        "name": "Theory of Algorithms",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "DatZB042",
+        "similarities": [
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.1579440500313652
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.10103437694047253
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.07487083668041843
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.05525872507468552
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.04126073571498386
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.03853095207280979
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.037284580874556786
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.03129318738794877
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.030920913261011738
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.029739507280282063
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.027421133963342757
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.02510132569423533
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.024681943472521357
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.024019820127968126
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.023377622992676133
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.022836399942651665
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.020374885306119347
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.018365023769998927
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.016218590589576403
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.01621236992232321
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.015090397444219273
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.013203638805401673
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.012077991061267385
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.011868799903069077
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.0067084522451952705
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.0058922360224138775
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.005274309004586406
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.004123458708108864
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.004086173393045654
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.0034764148899703727
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0029839754347157255
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0017849868517488875
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.0014590191127941616
+            ]
+        ]
+    },
+    {
+        "name": "Data structures and algorithms",
+        "kp": 6,
+        "type": "DZ-o",
+        "code": "DatZB044",
+        "similarities": [
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.1974349597474663
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.17689133731361795
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.1172788317100807
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.09701091925637464
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.09254336786423296
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.08306756550929054
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.07900598232327977
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.07612070560944854
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.07292295917613482
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.07202108751820975
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.06503815998359852
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.06427646096466136
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.061337930516135106
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.058647487026351884
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.05729852393050885
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.05356463298098942
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.05351108270728362
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.047214820173895375
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.04549066201080095
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.04453096750835408
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.04337122573552642
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.042523912083109294
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.04014733645944809
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.03892400447702611
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.035170495330510226
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.03240725951867046
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.03160881067490708
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.026168276271423097
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.02363554835927315
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.019178213641584327
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.012031122327876167
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.011614003740011782
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0064267545316021215
+            ]
+        ]
+    },
+    {
+        "name": "Combinatorics",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "MateB101",
+        "similarities": [
+            [
+                " ",
+                "Discrete Structures - core",
+                0.13341518065482255
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.06781175201213852
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.05546817198323784
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.04880521711971276
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.0425663603486287
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.03531259248414979
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.035299901530125924
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.03448850530423782
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.03185445771949419
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.02906689837370314
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.025027975801341036
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.02488474055222832
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.024246413972438003
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.02372050101061799
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.023098700936781125
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.02026636511774481
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.01864645457660126
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.017273836105245844
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.015111851153347271
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.015069108316504279
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.013754246337401483
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.012865110216280312
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.011163483602879594
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.01072287282342362
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.010672428014136332
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.010274181977697599
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.009981140094562078
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.005397582073820473
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.0035673336449838183
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.0035226919790345788
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.002745776005922263
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Quantum Computation",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "DatZB062",
+        "similarities": [
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.08789655475999919
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.0874798097581621
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.05272984032645209
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.05111043601366752
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.04781976305353147
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.04260817307464684
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.038584030853930334
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.03661632403514063
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.0319360751855694
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.0309531052479552
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.030216781425356627
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.030181210833036
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.02985658794029085
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.0294326946713049
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.02844627650339752
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.026790705620266548
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.02557343518899699
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.023026081750046893
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.021018126368719275
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.019069976568111553
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.018445555033019104
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.01816709428346843
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.017947681926345337
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.017601919677312245
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.01650623007493795
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.013913716388894746
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.013020292365467949
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.012689765899489051
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.007892619077593421
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.007587272183611997
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.006836236878335684
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.0024040409160453195
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Applied cryptograpfy",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "DatZB051",
+        "similarities": [
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.28927117736598484
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.25891606045394205
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.09736136501148421
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.07937349476311628
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.07849754213029253
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.07257286096924152
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.07164679988073537
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.06142811365183428
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.05911846986201636
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.05900441399503064
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.05691641664388009
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.05089862568609679
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.04658468087756579
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.04467540117537089
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.04366891997444378
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.04324753411598325
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.04278275890567719
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.04139811421364282
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.040171830930566595
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.037881424163784636
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0322643530339234
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.030621995352877653
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.02842657526788965
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.028232009147294335
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.02770750455793489
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.024026397121174218
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.019039226672891114
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.018120791940723534
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.016729848059222407
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.016182431934294025
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.003930292526411534
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.0038469899673935375
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.0037822835807705246
+            ]
+        ]
+    },
+    {
+        "name": "Linear Algebra I",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "MateB073",
+        "similarities": [
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.13012459509714291
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.08536558814921925
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.06769219805444208
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.06272717901323664
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.06083701966292194
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.05552590820699989
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.042892860780020525
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.04092862750434921
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.039365048324367595
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.0382716900586795
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.03160891735338284
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.027844098351576484
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.026538619329767126
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.02450322397095908
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.02393053534938846
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.02338987678977322
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.020964786285392282
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.017658961705293835
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.017309344448363472
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.016085826267285476
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.015251238014848277
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.014648928750897572
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.01453317586323667
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.013267381325897777
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.01107041376935146
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.008777951758465855
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.008670264171075517
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.007545409283033347
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.0066853579093416405
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.0064111964231654975
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.004299854774621072
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.003024370206339189
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Main Notions of Mathematics",
+        "kp": 6,
+        "type": "DZ-o",
+        "code": "MateB102",
+        "similarities": [
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.11358016059779251
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.04334106995315935
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.04190661237143708
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.03993437984502479
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.036421951311548593
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.031070190058734244
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.024896966535604338
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.024438683215373434
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.024308916152569957
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.019643696737129263
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.01877327556322902
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.018661316121410153
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.01840435749167521
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.01839630101203995
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.018112062375543775
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.017608133334127807
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.016702893064348585
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.01650947275882565
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.01501206614830082
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.01490452052877328
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.013774829581545136
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.012554152954989718
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.01043683684172953
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.010057454843873463
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.00863363840803292
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.008457082592144213
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.00841650763407011
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.00558448215202668
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.005320238282098791
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.00529085615067302
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.003302305926773496
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0020637103525073066
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0014189354314689691
+            ]
+        ]
+    },
+    {
+        "name": "Calculus II",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "MateB095",
+        "similarities": [
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.08776425491543446
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.07111882401321613
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.042190413213614913
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.0418873344852223
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.038931088961608594
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03793225718201208
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.03650992217888661
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03506339145576838
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.03034563366932546
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.02829406118089599
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.02760031128317817
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.026870222974304723
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.02488975690282832
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.02399301116971385
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.023926099237628534
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.020709010585435155
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.02004660564711987
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.01988773010064413
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.019684646570018043
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.018790714151953103
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.018333198993900082
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.017856474853214413
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.015816990089692375
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.015696727871442794
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.01426293116316171
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.013528001409616219
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.01351636822179226
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.01310230656276668
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.012100213802680334
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.011138152617392061
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.008244069044132482
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.0034507020294478937
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.00170652828184935
+            ]
+        ]
+    },
+    {
+        "name": "Modeling basics",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "DatZB049",
+        "similarities": [
+            [
+                " ",
+                "Computational Science - core",
+                0.14717481491875878
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.13668886229195337
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.07318153331505159
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.06764422380489878
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.06562042038160158
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.05995935599315307
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.05138809332369698
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.049667704519227134
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.048424832238615774
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.04082322874092137
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.04035885219641027
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.037599431154692685
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.030082253169923835
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.026555284218784145
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.025005391515662966
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.02231398979711245
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.021992760973703226
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.02101658408573025
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.0207460069974564
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.01722184819656036
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.015410593718456883
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.014322807804595794
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.013796155834556663
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.01377447983111405
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.0112717587231537
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.010926515433535011
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.009931709063219217
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.00921356676693708
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.00743207196976263
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.007167746115176208
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.003912469004748092
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.0022408049073513315
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Operating System Concepts",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "DatZB057",
+        "similarities": [
+            [
+                " ",
+                "Operating Systems - core",
+                0.448860552146483
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.20581198278013718
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.13156836671425287
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.12501654294383824
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.10732051457916918
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.0857161621221904
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.08503679195110826
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.07735667188570713
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.06911631847461361
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.06365857994508904
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.060299569210039435
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.05432631370384671
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.052771370089564014
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.04933837953001661
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.04842724099353407
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.047744635398014615
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.0466463055835876
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.04600970441933553
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.03906481441840194
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.03511710292725238
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.025669668561947554
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.024743865377466923
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.022896857189079845
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.02192069589560015
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.019444785437189648
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.018956352693153423
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.01585668115379208
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.015568417068217611
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.015127711241245347
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.007119269074641949
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.006708868295071603
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0064496258160005515
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.005809210875350969
+            ]
+        ]
+    },
+    {
+        "name": "Programming Languages",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "DatZB059",
+        "similarities": [
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.17583067537633212
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.16371730082686636
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.14037250666528545
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.11480002412292012
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.10868105551129595
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.10532314297320851
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.09813888737115266
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.09530336808654885
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.09182640045803818
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.053073120071287845
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.05096122735852421
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.0475243364285933
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.03847139781326401
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.03742969297549919
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.03617555258335042
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.034261704465616966
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.030408647014290958
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.028448778983796125
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.027990982530204666
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.02592006548476385
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.025893038201045975
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.025790114464232437
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.023630260284066833
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.0231679580678968
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.020792390101706974
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.020762082670856066
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.020061982351843245
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.01190101862240989
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.010797052880937236
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.009451411388111819
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.004879833616302835
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.0035203173506881315
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Syntax and Semantics of Programming Languages",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "DatZB069",
+        "similarities": [
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.29233258764702313
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.19822955947336823
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.14577800401369792
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.07567428709975865
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.05760730503235334
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.05040717329244559
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.049207243726161684
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.048012009619330706
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03734180243460461
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.036944053406707554
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.036727797880401335
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.03648993726935793
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.035544966884447346
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.035345107973340346
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.029072638640820544
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.028298891366866547
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.026820056075769688
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.023004495506620252
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.02235300058931861
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.022014925202165952
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.021803961860154188
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.01735960460453034
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.017297922866730705
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.01698277282947462
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.016266050169767347
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.014151111240697296
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.011162101182764889
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.00852096050761156
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.007324438258096056
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.0060057951570448055
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.00430190487456708
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0019482826790269167
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0019327759732032485
+            ]
+        ]
+    },
+    {
+        "name": "Computational complexity",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "DatZB085",
+        "similarities": [
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.13666972855752985
+            ],
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.1280040142569035
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.09371520744972998
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.08724468763837588
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.08175945491380468
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.06570018398400507
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.05888756182069648
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.04902930289144238
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.04556751575496932
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.04437933749623386
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.037834975831144396
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.03538755927196205
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.034520694160232596
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03122276950814709
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.030412690396996598
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.028521065410620914
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.026698700790950797
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.026433686179721076
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.02547842888700722
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.02442843176868963
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.022592762334419293
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.017708825334360353
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.01725796619520675
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.016534131186300663
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.014172130456187867
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.013793780248435706
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.010361861350694317
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.005288327707734653
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.004303303391700251
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.003925622737985503
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.00357789791428727
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.0030682340522752306
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Theory of Probability and Mathematical Statistics selected topics",
+        "kp": 3,
+        "type": "DZ-o",
+        "code": "MateB099",
+        "similarities": [
+            [
+                " ",
+                "Computational Science - supplemental",
+                0.11301548793070286
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - supplemental",
+                0.06661986134907663
+            ],
+            [
+                " ",
+                "Software Development Fundamentals - core",
+                0.058628941712453524
+            ],
+            [
+                " ",
+                "Programming Languages - supplemental",
+                0.04882734540222904
+            ],
+            [
+                " ",
+                "Programming Languages - core",
+                0.04737237168817891
+            ],
+            [
+                " ",
+                "Information Management - core",
+                0.04729606396890273
+            ],
+            [
+                " ",
+                "Intelligent Systems - supplemental",
+                0.04496516667324699
+            ],
+            [
+                " ",
+                "Information Management - supplemental",
+                0.04089328935706253
+            ],
+            [
+                " ",
+                "Systems Fundamentals - core",
+                0.04084129435492045
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - supplemental",
+                0.038952174245359975
+            ],
+            [
+                " ",
+                "Software Engineering - supplemental",
+                0.03820712932326432
+            ],
+            [
+                " ",
+                "Human-Computer Interaction - core",
+                0.034252325241760494
+            ],
+            [
+                " ",
+                "Systems Fundamentals - supplemental",
+                0.034184471272698504
+            ],
+            [
+                " ",
+                "Architecture and Organization - core",
+                0.03412751417091305
+            ],
+            [
+                " ",
+                "Software Engineering - core",
+                0.03093921034877952
+            ],
+            [
+                " ",
+                "Parallel and Distributed Computing - core",
+                0.028417937456295537
+            ],
+            [
+                " ",
+                "Information Assurance and Security - core",
+                0.02715011310841643
+            ],
+            [
+                " ",
+                "Information Assurance and Security - supplemental",
+                0.02706541106845472
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - supplemental",
+                0.02489335921788438
+            ],
+            [
+                " ",
+                "Social Issues and Professional Practice - core",
+                0.020973515646323066
+            ],
+            [
+                " ",
+                "Intelligent Systems - core",
+                0.01594834915803507
+            ],
+            [
+                " ",
+                "Networking and Communications - supplemental",
+                0.01564061937090878
+            ],
+            [
+                " ",
+                "Networking and Communications - core",
+                0.01447427648052614
+            ],
+            [
+                " ",
+                "Graphics and Visualization - supplemental",
+                0.014465037162712921
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - supplemental",
+                0.012938497851698724
+            ],
+            [
+                " ",
+                "Graphics and Visualization - core",
+                0.009601269020815387
+            ],
+            [
+                " ",
+                "Algorithms and Complexity - core",
+                0.009283001108065021
+            ],
+            [
+                " ",
+                "Architecture and Organization - supplemental",
+                0.006827730114177366
+            ],
+            [
+                " ",
+                "Operating Systems - core",
+                0.006315495467867987
+            ],
+            [
+                " ",
+                "Discrete Structures - core",
+                0.006249894543162244
+            ],
+            [
+                " ",
+                "Operating Systems - supplemental",
+                0.004780649479854527
+            ],
+            [
+                " ",
+                "Computational Science - core",
+                0.0043646531102105755
+            ],
+            [
+                " ",
+                "Platform-based Development - supplemental",
+                0.0039719463862632615
+            ]
+        ]
+    }
+]
