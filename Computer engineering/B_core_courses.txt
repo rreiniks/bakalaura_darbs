@@ -1,0 +1,66 @@
+Theory of Algorithms
+The goal of the courese is to introduce the main notions of the theory of computation and their applications to the analysis of specific computational problems. Tasks: 1. Provide knowledge about theoretical models of computation, algorithmically solvable and unsolvable problems, and basic notions of computational complexity. 2. Create skills for determining the computational complexity of various problems and classifying them by their complexity. The course is taught in Latvian and English.
+3
+DI-o
+DatZB042
+
+Wireless Sensor Networks
+Course goal: Get acquainted with the principles and applications of wireless sensor network systems operation and design. Course objectives: To master the basic technologies and applications of sensors and embedded systems on the Internet of Things. Develop architecture and communication protocols for wireless sensor systems. Program embedded systems for BST applications. Analyze sensor readings and draw conclusions. The course covers wireless sensor networks that combine a few to a few thousands of miniature sensor nodes that measure or perform a parameter or action, compute, and communicate wirelessly. Their resources are very limited. These systems are often located in hard-to-reach places, such as on the slopes of a volcano. The potential is huge with applications for both health care and environmental ecology research on uninhabited islands. Language of course implementation: Latvian
+6
+DI-o
+DatZB043
+
+Computer Architecture and computer engineering fundamentals II
+Studies course aims to develop computing specialties students' in-depth understanding of the computer and its peripherals structure, operating principles, computer and computer architecture, computer engineering. The task of this course is to cover in detail the components of a computer systems, input and an output operations, processors architecture, command sets, chipsets, bus and its permeability, input and output organization, drive and video subsystems, file systems, modern computer peripheral devices and their operating principles. This course is a continuation of the DatZ1164 course. The language of instruction is Latvian.
+3
+DI-o
+DatZB088
+
+Digital Signal Processing
+Course goal: To get acquainted with the applications and principles of Digital Signal Processing. Course objectives: Mastering the basic principles and theory of digital signal processing. Practical operations with signal processing. Getting to know and programming Matlab and Octave systems. Mobile phones, digital photo and video cameras, MP3 audio devices, and computer drives and other devices constantly convert and process analog and digital signals using built-in computers. The purposes are different: data is compressed, refined or rendered noise-resistant, or transformed for easier user interpretation. Digital signal processing has become an integral and revolutionary part of life, incorporating the algorithms, mathematics, specialized technologies and equipment covered in this course. Language of course implementation: Latvian.
+3
+DI-o
+DatZB052
+
+Introduction to Digital Design
+Course goal: Get acquainted with digital design workflow, methods, and FPGA architecture. Course tasks: Understand the structure, performance parameters and applications of basic digital elements. Design small and medium-sized digital systems and test them on FPGA. To master and apply the principles of computer architecture and construction. Computers, mobile phones, digital audio and video players and other embedded systems have become a daily necessity. Many of them are based on a processor or controller that performs the functions of a device and is connected to various accessories, both digital and analog. Designing such systems requires skills and tools to design not only their software but also digital hardware at the levels of both logic and system modules. This course will provide an insight into the basics of digital equipment design and tools, as well as practical skills in creating and testing such equipment with the Xilinx ISE software environment and implementation on a configurable element (FPGA) Xilinx Spartan 3E or ANVYL platform. Language of course implementation: Latvian.
+6
+DI-o
+DatZB046
+
+Coding Theory
+The aim of the course – to gain knowledge about error correcting and data compression codes, about relations between data encoding and information theory, about mathematical foundations on which design and functionality of error correcting codes are based. The tasks of the study – to get acquainted with mathematical foundations (vector spaces, finite fields) required for understanding functionality of error correcting codes. To understand relations between code parameters (data compression factor, number of correctable errors) and constraints on these parameters derived from notion of entropy as measure of information. To get acquainted with basic simpler and most widely known classes of error correcting codes (Hemming codes, BCH codes, Reed-Solomon codes) and data compression methods (Huffman codes, Lempel-Ziv codes, Burrows-Wheeler transform). The language of instruction is Latvian; teaching materials, homework and examination problems are available in English.
+3
+DI-o
+DatZB061
+
+Linux System programming
+The goal of the course: to get acquainted with the structure and operating principles of the Linux operating system from the point of view of a systems programmer. Course objectives: to practically use the environment available to the systems programmer, development tools and support libraries available in modern, UNIX-based or similar systems. The course places special emphasis on the use of system calls in applications, creating programs that are efficient and tightly interact with the operating system. An essential part of the course is independent programming in the GNU / Linux environment. Language of course implementation: Latvian
+6
+DI-o
+DatZB053
+
+Calculus II
+The course "Calculus II" is a continuation of a "Calculus I". The purpose of the course is to help students learn to use the tools of mathematical analysis to solve various problems of a mathematical and physical nature. Tasks of the course: integral calculus, infinite series and differential and integral calculus for functions of several variables (limits, continuity, differentiation, free and constrained extrema, multiple integrals), as well as their applications. Languages of instruction are Latvian and English.
+3
+DI-o
+MateB095
+
+Principles of Assembly Languages
+Course goal: To gain insight and practical skills for working with low-level programming languages that are close to hardware. Course objectives: To learn the ARM Assembly programming language; to develop and test Assembly programs; get to know RISC and CISC architectures. Introductory course for mastering computer architecture from the programmer's point of view. Skills for programming in assembly, communication with higher level languages and operating system are acquired. Low-level optimization as well as the general structure of the computer and processor are considered. The course uses the ARM architecture and the Assembly language, but also introduces the key features of other popular architectures. Language of course implementation: Latvian and English.
+6
+DI-o
+DatZB027
+
+Modeling basics
+The aim of the course is to basic knowldege of the practical use of system modeling languages and tools. The tasks of the course include getting acquainted with two main types of system modeling (object-oriented modeling and business modeling), mastering UML class diagrams, mastering business modeling, which is necessary for the needs of object-oriented modeling. In addition, they include a review of the system modeling methodology, learning how to use class diagrams in metamodels in construction, solving specific modeling tasks. Case studies are included, and system modelling methodology is discussed. Language of instruction: Latvian and English
+3
+DI-o
+DatZB049
+
+Operating System Concepts
+Course goal: To learn about the basic principles of modern operating systems that affect software performance and fair distribution of computing resources. Course objectives: To master the fundamental components of operating systems architecture, and practice evaluating operating system performance depending on various configuration parameters. The operating system is an essential component of any computer system. This course does not cover specific operating systems or hardware, but fundamental concepts that are applicable to any operating system. The following questions are answered: what are operating systems, what do they do, how are they designed, and how has the concept of the operating system evolved historically? The course covers the basic concepts of process and CPU planning, memory management, secondary and tertiary memory structure, protection and security, as well as computer system performance evaluation. Language of the course implementation: Latvian.
+3
+DI-o
+DatZB057
+

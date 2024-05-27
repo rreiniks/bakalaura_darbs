@@ -1,0 +1,3957 @@
+[
+    {
+        "name": "Discrete mathematics for computing",
+        "kp": 6,
+        "type": "VSK",
+        "code": "DatZB010",
+        "similarities": [
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.07021542989456893
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.06430916280685371
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.05805538436537726
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.05488888831214361
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.040818114645258335
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.0391273762311456
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.03809417517616227
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.035885819807785234
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.0317820914836372
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.03063283905804141
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.030584604152556955
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.025940442647943363
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.020676219127278798
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.018898871105109696
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.013724870877336391
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.013601179883631341
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.011703158876952448
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.006668799415714545
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0035497490100284664
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Algebra",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB092",
+        "similarities": [
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.0521334697101979
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.038825402343561605
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.036580627193611215
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.03564584915210874
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.03063972171018466
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.0260926364129358
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.02458822899026427
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.021687534213700746
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.020286765959905348
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.015729256815816425
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.010776755923805987
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.009975062790772352
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.00894430652644484
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.006940787956394237
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.005826312481925954
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0030373842750751868
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.002133429622685828
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0010530632761385885
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0007918866139601954
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.0005503204403980226
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Internet, Netiquette And The Legal Regulation",
+        "kp": 3,
+        "type": "VSK",
+        "code": "SDSKB110",
+        "similarities": [
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.044464681268059456
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.03556426704356582
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.034042048920636815
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.02810908500840686
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.024211093566380074
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.02258679851062852
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.017004412598600107
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.011507454032444926
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.010511387471643817
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.010053095833416598
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.009134047030440701
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.007467467689383206
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.006287607392910277
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.005016473904064069
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.004588598960999587
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0039469201771039535
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.003761074077904611
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.00287879475268161
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0010824036316918343
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.0005764041397340013
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Calculus I",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB091",
+        "similarities": [
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.07055571020929713
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.06615034164602451
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.05775773940579059
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.05729570289112891
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.051054142919707286
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.040233861197959846
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.03939018826469669
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.03499298752860367
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.030312771415912276
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.029425287432425284
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.02729225968157573
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.026219146299281647
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.020438047370522787
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.01820337104842537
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.01709034777256138
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.012599918066908956
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.0073789298766938115
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.006693147476802684
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0024883924803361613
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0010212378282374824
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Analytical geometry",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB096",
+        "similarities": [
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.06300075760448617
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.05748793885922355
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.051105708350169594
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.0466198997849516
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.04402914566066454
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.04316897067772025
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.031195299409770803
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.027444348982293316
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.026531741430923256
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.02509531277205083
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.024268293628299405
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.02213436266843472
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.01589753744010769
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.015769395076014835
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.01371528601020938
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.012892027059576988
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.008323800423200307
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.004527583406286169
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.002232796312436321
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.0017895146585040066
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0005348919863870542
+            ]
+        ]
+    },
+    {
+        "name": "Principles of Economics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "EkonB012",
+        "similarities": [
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.07269266351125163
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.05703110495016186
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.054522883258115135
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.05148751271688718
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.0324526465993686
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.030528170761736514
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.025061103943751554
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.022654924895598682
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.021553477851948943
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.019667007066866582
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.01890285943093803
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.017885166493365322
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.013953397364851558
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.013638098563323648
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.008644320686240218
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.004445665037473375
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0032389070420579323
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.00274205368552397
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.0004433435094301883
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Introduction to management",
+        "kp": 6,
+        "type": "VSK",
+        "code": "VadZB019",
+        "similarities": [
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.1462869937497924
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.07796207599241953
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.07709089630548552
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.05491283907951709
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.04548357426771604
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.038803788594362225
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.03407974469160203
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.030215280113868516
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.029143969437452656
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.025008576759113672
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.021057150012197375
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.018897783993840105
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.011480633863719914
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.010871365897569745
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.009064535632167144
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.00859620188880892
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.007108089793605345
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.00709599868177013
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.006331977744308413
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.0037447813157227717
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.003183329254514659
+            ]
+        ]
+    },
+    {
+        "name": "Probability Theory and Statistics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB094",
+        "similarities": [
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.08556292877023729
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.060092596996464624
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.053482097956296014
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.04533474399931414
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.04369647759003027
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.04140750050650674
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.03980310936586686
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.0394334226597684
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.02769100515332797
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.024653825519101842
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.024589278802559573
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.024331367933114436
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.023481390538819737
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.02070622528050201
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.017847005945844232
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.014105791391185557
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.012993727399185275
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.012302822159303919
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.011505760509589165
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.011279613666682307
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.010995653421376926
+            ]
+        ]
+    },
+    {
+        "name": "Civil protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "KimiB001",
+        "similarities": [
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.09156767200420474
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.08834249768593323
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.06931528587299586
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.05883980890153236
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.05600487740374959
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.05020853715637588
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.048183034426490565
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.029086480220733766
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.027442908415278352
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.024570701945038742
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.023179853655068795
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.021233963872995507
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.016581735487238132
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.01653805094514445
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.016215456981551843
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.01346629194598832
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.00880681936631705
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.007984079929353776
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.006751217555578022
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.006464653700943602
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0005036185330691236
+            ]
+        ]
+    },
+    {
+        "name": "Environment protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "VidZB001",
+        "similarities": [
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.10699114412203635
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.0745087626025542
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.0728057825761445
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.06633997244790925
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.06116114935014742
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.043196774951965
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.04169018412055915
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.04007110677745202
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.03986508639571242
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.039652746784909765
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.03696927414590335
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.030559069400524462
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.02963703708225624
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.026434963713641214
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.025149929053365383
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.02127227186992673
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.00751970696568113
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.004594699620276608
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.00412366227689858
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0015177345145423635
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Information Technology Project Management",
+        "kp": 3,
+        "type": "VSK",
+        "code": "DatZB017",
+        "similarities": [
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.25633295832357933
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.10972439236127883
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.10860120362918592
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.047851858511393584
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.04596946836870407
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.026195497023602046
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.022562111898414183
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.02056504715811134
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.018750805152064922
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.01600405737016502
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.0141055950146527
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.010451524585725562
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0097286925988416
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.009496501972932132
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.009403485442723835
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.008848943064800862
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.008657032797029835
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.004933109838684586
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.004741365362014266
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.0034172667007600905
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.0018121876743058029
+            ]
+        ]
+    },
+    {
+        "name": "Communication and Cognitive Sciences",
+        "kp": 3,
+        "type": "VSK",
+        "code": "KomZB103",
+        "similarities": [
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.0955770258918092
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.04699896043556535
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.04005988420432751
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.0398306628311678
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.03326117827903445
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.02874560669067629
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.027344780663515127
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.026298944485562435
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.02512569784785793
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.022234681530987323
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.02108461643049166
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.020981769816554644
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.020717252709270485
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.018715519462179118
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.015739977559777556
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.01514931518918627
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.014356778866498172
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.0049720265517794165
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0026993997889430805
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.001371095653838613
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Algorithms and Programming",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB009",
+        "similarities": [
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.253839201616358
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.09027967541290978
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.08296721498051693
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.06329781061789654
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.045882377001300344
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.04222545492290052
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.04167085453342751
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.041415209791548634
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.039543385359552284
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.03170375239496981
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.02797131161782346
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.025807184777677253
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.01834064738827215
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.011588518393811425
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.009414552724454722
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.007980397264900645
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.007171730634348645
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.006252345185995175
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.003952016679112764
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Computer Architecture and computer engineering fundamentals I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB066",
+        "similarities": [
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.11592504435640326
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.114084747480669
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.1054326600617169
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.09906665695324762
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.07096700842147029
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.06580513059941896
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.06569083015764453
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.043762034767413735
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.043633468211875547
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.04165010347258689
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.04150433769731547
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.040558221835481884
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.040140066281507326
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.03873546683022585
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.037642013493011967
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.022477704138253635
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.021850347243569573
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.019540824217775872
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.01765997549634221
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.017046766019093766
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Computer networks I and insight into industry",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB067",
+        "similarities": [
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.3691044341280394
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.14215424666772158
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.047368691493418116
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.0456680130736322
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.044017664108406615
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.04205185722951503
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.028181575491760348
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.026155160751208918
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.025358848962002016
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.02472175327303831
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.024239829694028606
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.023495998737557467
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.015463558863305707
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.014190961357571587
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.012773171719427896
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.007319005777421994
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.007264926679830768
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.006701154210900332
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.005874065200431113
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.0012759014345519685
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.0006393386187268393
+            ]
+        ]
+    },
+    {
+        "name": "Operating System",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB018",
+        "similarities": [
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.09053751941684912
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.08938177630630531
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.059964108459192984
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.04452134721803648
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.040387079767338296
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.035601867392777396
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.0320422524784192
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.031246396258504915
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.024527169072409254
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.02155718188429285
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.018842852284445998
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.01594909290862844
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.015249028963574834
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.011922437527165416
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.010974091248958873
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.009187618364782785
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.009170287982115501
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.006168207067197302
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0013140971185052848
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.000913229864266845
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB001",
+        "similarities": [
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.17595748519946386
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.06167242130699179
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.06131739073232557
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.053006127080194095
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.0438388600967631
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.020251039079858747
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.017305687597914714
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.012100205147171333
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.007627947977554047
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.007356362983815685
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.006811143246808836
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.005409554084074545
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.004171992599890252
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.004124139651866144
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.003367603445430407
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.0032163634081076625
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.002965722060775227
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.00231320330490207
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Databases and Information Systems Fundamentals",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB068",
+        "similarities": [
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.12847797356653207
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.07250243047665132
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.06995965146842205
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.059317990063449275
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.056835666438121775
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.05671304755599674
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.047773622257274904
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.042933778313321985
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.041066324136269976
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.04090522357052101
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.040668267378549575
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.028973588785009968
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.026878332724850403
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.022977051632699762
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.02198691495637215
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.011865931393003544
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.010179675115393385
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.010054900898506604
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.009308751838381623
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.0077908707929021355
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.005626079257509138
+            ]
+        ]
+    },
+    {
+        "name": "Software development fundamentals",
+        "kp": 7,
+        "type": "NTP",
+        "code": "DatZB007",
+        "similarities": [
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.2242236745317464
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.09670879646037342
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.09378404549006944
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.08792958390031023
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.08668811475651635
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.08169625630794417
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.07484251198544316
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.0643456017423283
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.06403631751112171
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.06177966779882379
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.051470386719135126
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.04684856115512276
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.04622864247275666
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.04079612149392161
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.03329375576126743
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.030561009072943665
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.029328895243505834
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.025463768712554638
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.01609556907320633
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.01588659532508039
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.010497830526569621
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies II",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB032",
+        "similarities": [
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.2396210005331698
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.069447602912683
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.06932081433267688
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.05314994823076901
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.04638072950659004
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.03254753728752153
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.028114223261468542
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.0174084824178093
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.014353686065937487
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.008825548691606473
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.00877159202949666
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.007719582122922945
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.007033286335055119
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.005984832020607045
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.005129895813739876
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.0040067009405497485
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.003271190611242962
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.0020004078210973052
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.001524669248952841
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0009377689612545413
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Automata Theory",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB016",
+        "similarities": [
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.27588421168021204
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.07991828819653832
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.055467654558193025
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.0508768433470727
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.04163323200271153
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.03937178722438706
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.0389718316705352
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.033697325860917005
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.032477411842775555
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.02600687789855798
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.02465647081584213
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.02430420506460226
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.01916099263067139
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.018282644775905646
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.018111999295916455
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.015439208537057828
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.01404883012017173
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.011144210986710696
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.010454721188507415
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0016327699725996229
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Software Engineering",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB038",
+        "similarities": [
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.2702315793534373
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.14366710789106943
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.11715016282074159
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.0844048802723478
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.07126044278178716
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.05080141747427179
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.04851988786668462
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.04649100510633495
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.04487559335781689
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.04273943330071841
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.04221636463879537
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.04103898769609876
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.03888525219301548
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.037271803618127576
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.026800154227477793
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.02644257825550395
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.02614420912681347
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.023142464277316317
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.013842711837547131
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.011132774990769355
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.00946936947566708
+            ]
+        ]
+    },
+    {
+        "name": "Formal Grammars",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB033",
+        "similarities": [
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.08846933707248292
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.059332234601521275
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.051529058207178985
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.03931534794799628
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.034214220859071616
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.032223645427444624
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.02934123946468937
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.02627507160493148
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.025305094561994264
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.023374012257409163
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.019454909759031982
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.018563088621114852
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.018190158943283918
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.01740231933632264
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.01567603592511853
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.01426433001025242
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.011315155913948721
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.010615089791990825
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.008615563753876546
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0016578155989338077
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mathematical Logic",
+        "kp": 3,
+        "type": "NTP",
+        "code": "MateB098",
+        "similarities": [
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.06966097469786282
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.059689007972214936
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.05840658485056099
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.0519762757494368
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.04975964071779143
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.037247644983242824
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.029872299337229125
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.028118869233895574
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.027759123740598204
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.027581710637071474
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.027370363939244285
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.02684759404454315
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.023111462826940054
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.018278383783426038
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.016962468998910095
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.013961402706231607
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.007127160239281761
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.005539406326572061
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.0043514710136521445
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.004078615912831167
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.00025598287568285146
+            ]
+        ]
+    },
+    {
+        "name": "Theory of Algorithms",
+        "kp": 3,
+        "type": "DI-o",
+        "code": "DatZB042",
+        "similarities": [
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.09961870521002376
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.045295968611491516
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.03329330469803385
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.031204860618447836
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.03090146458718092
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.030493245943670963
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.024829048306503395
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.022877648112932615
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.01725326552563179
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.014227151294352144
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.013073434177725277
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.01256643743213266
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.009337750294594197
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.008688423734584809
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.008463329163693098
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.00400960298626173
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.003975070161227055
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0034100298341768593
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0018128950765024935
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wireless Sensor Networks",
+        "kp": 6,
+        "type": "DI-o",
+        "code": "DatZB043",
+        "similarities": [
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.22437322067407542
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.14625007273355536
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.13185949936794292
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.1096173588436411
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.0618098955149975
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.04228484120774241
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.041486706711381945
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.03312122110837309
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.029891332474437645
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.024439959423464247
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.0235348705593125
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.021955482812769822
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.021798335990655632
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.021580972416440414
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.02140299682546854
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.017948264771285288
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.014464514147280354
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.008045184013444114
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.004534765445262087
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0037610857642109215
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Computer Architecture and computer engineering fundamentals II",
+        "kp": 3,
+        "type": "DI-o",
+        "code": "DatZB088",
+        "similarities": [
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.28952317610527833
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.10746206567136866
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.09598408504001357
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.08227817094819383
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.08170983649707464
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.06306819197655052
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.057460667338847075
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.05398175726818482
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.05127222874660201
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.04250143068495488
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.042062492372905186
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.03841017155337003
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.0366616920970997
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.023812074927819876
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.022106349896576918
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.02203808239245099
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.021161442238811685
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.007129680132699687
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.0019071114992654124
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0012055235509739477
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.00034063982468034875
+            ]
+        ]
+    },
+    {
+        "name": "Digital Signal Processing",
+        "kp": 3,
+        "type": "DI-o",
+        "code": "DatZB052",
+        "similarities": [
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.21256706039872772
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.14455082963154786
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.12157792045866743
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.10982998952203804
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.09578728544011084
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.0769376210979619
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.07581826686003855
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.06571115244275612
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.05324857058933882
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.05143327056123433
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.04715609443053883
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.046914982113854094
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.04349536135208209
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.043367783604155
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.032847540290813486
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.02649551868242898
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.025414810323826285
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.021965177551144927
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.01681263233278225
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.002931718466262751
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0024861842530957295
+            ]
+        ]
+    },
+    {
+        "name": "Introduction to Digital Design",
+        "kp": 6,
+        "type": "DI-o",
+        "code": "DatZB046",
+        "similarities": [
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.24264053015977352
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.21202818768237292
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.13961759986043012
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.12268416810500464
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.11763240108051846
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.10848700637740308
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.1026185015935731
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.09245044984715595
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.0886350920731221
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.08545419398670914
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.07956827057037631
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.06113089666969689
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.05182408066587484
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.04141034558522736
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.0335994705937727
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.029655357671050396
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.029382136005634548
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.020861867173048703
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.018806107544702945
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.016114461564806584
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0015316593513272935
+            ]
+        ]
+    },
+    {
+        "name": "Coding Theory",
+        "kp": 3,
+        "type": "DI-o",
+        "code": "DatZB061",
+        "similarities": [
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.11269744142597576
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.09952758864691458
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.08677243788103324
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.07453321477275769
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.06020480427504798
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.05083456422754331
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.04280640204424651
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.03684141491239735
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.03649767010046402
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.03313426506490413
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.029715227764606538
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.02196322809199674
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.021780410834210874
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.019583477660432183
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.017394952302081386
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.01446603618288147
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.012326670579200593
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.009014534194551524
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.007850116106953919
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.0031178124578099455
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Linux System programming",
+        "kp": 6,
+        "type": "DI-o",
+        "code": "DatZB053",
+        "similarities": [
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.145501882861681
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.09736394901119962
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.07243685425266863
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.0643131404523351
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.06083449687024303
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.057090250639324706
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.05641886663951583
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.05011951942882776
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.041158362661169366
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.03367838737065957
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.024532075204907286
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.01763552559010716
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.015781303046354906
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.013308064930234521
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.011753730253419624
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.009586586574908464
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.009323379955412964
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.008839234891535848
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.0076965018281337175
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.007343148219053696
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Calculus II",
+        "kp": 3,
+        "type": "DI-o",
+        "code": "MateB095",
+        "similarities": [
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.06372974025212666
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.05137905521971441
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.03880149985442192
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.03443558339191798
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.034159956496762116
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.03213287037688009
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.030911751109430737
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.0294005947514193
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.028132814412613318
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.02529978586878548
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.021917085596712457
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.02185697526527906
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.020759744634517078
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.01776109647428515
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.015408143707262309
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.014636602121461218
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.00491529848966125
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.002122109018037468
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.000870914866520973
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.0007402253445336917
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Principles of Assembly Languages",
+        "kp": 6,
+        "type": "DI-o",
+        "code": "DatZB027",
+        "similarities": [
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.18651360150340737
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.16731857288673568
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.1080262418761793
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.05332728802649576
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.051408012224320204
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.046264281299407545
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.04620947770674554
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.04012030413995455
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.04011776949647538
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.039836330323952215
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.03396334949644927
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.03317961976032205
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.028489854217404194
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.02697442935161364
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.018825304693401317
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.013559170524359725
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.013317737621565597
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.009839562943136333
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.007264481128989342
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.003842958949882855
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.00383636503130022
+            ]
+        ]
+    },
+    {
+        "name": "Modeling basics",
+        "kp": 3,
+        "type": "DI-o",
+        "code": "DatZB049",
+        "similarities": [
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.0976808585530827
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.05798097487662893
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.055723764464866404
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.04901966840360341
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.04682997814632497
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.04164367807173127
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.02230355190892503
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.021236417965666474
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.019067694584951594
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.01671278002463686
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.01489229329356409
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.014462743203855358
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.013625286911905897
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.012896980619827022
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.011690047693148735
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.00942154363208536
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.006795068947830936
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.005463732551924016
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.0035902430643151777
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.0025733293950073563
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.0018365998108130382
+            ]
+        ]
+    },
+    {
+        "name": "Operating System Concepts",
+        "kp": 3,
+        "type": "DI-o",
+        "code": "DatZB057",
+        "similarities": [
+            [
+                "CE-SRM",
+                "System Resource Management - core",
+                0.2721782467807988
+            ],
+            [
+                "CE-SRM",
+                "System Resource Management - supplemental",
+                0.16969645584209134
+            ],
+            [
+                "CE-CAO",
+                "Computer Architecture and Organization - core",
+                0.14299295085986502
+            ],
+            [
+                "CE-SPE",
+                "Systems and Project Engineering - core",
+                0.08198858521762933
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - core",
+                0.06936127328197889
+            ],
+            [
+                "CE-NWK",
+                "Computer Networks - supplemental",
+                0.06163592698017591
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - core",
+                0.06090965757947846
+            ],
+            [
+                "CE-SWD",
+                "Software Design - core",
+                0.056833649165585
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - core",
+                0.055305936352840535
+            ],
+            [
+                "CE-SEC",
+                "Information Security - core",
+                0.050688198923677784
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - core",
+                0.05008301357437988
+            ],
+            [
+                "CE-PPP",
+                "Preparation for Professional Practice - supplemental",
+                0.034593570335608066
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - core",
+                0.034258738247653436
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - supplemental",
+                0.03272848944917355
+            ],
+            [
+                "CE-CAL",
+                "Computing Algorithms - supplemental",
+                0.025741025207727097
+            ],
+            [
+                "CE-ESY",
+                "Embedded Systems - supplemental",
+                0.020370707747816096
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - supplemental",
+                0.019709365495995557
+            ],
+            [
+                "CE-CAE",
+                "Circuits and Electronics - core",
+                0.019499161513575194
+            ],
+            [
+                "CE-SWD",
+                "Software Design - supplemental",
+                0.013687807778611477
+            ],
+            [
+                "CE-SGP",
+                "Signal Processing - core",
+                0.012397143398880156
+            ],
+            [
+                "CE-DIG",
+                "Digital Design - supplemental",
+                0.004360123591010327
+            ]
+        ]
+    }
+]
