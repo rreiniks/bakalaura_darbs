@@ -1,0 +1,3607 @@
+[
+    {
+        "name": "Discrete mathematics for computing",
+        "kp": 6,
+        "type": "VSK",
+        "code": "DatZB010",
+        "similarities": [
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.11968847939543177
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.0504822625082498
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.04855982697181059
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.04016068354696522
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.03485925003261673
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.032832073095328124
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.03170066168662673
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.030888029576692344
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.02997180040815624
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.02776305406363756
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.025698697640512965
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.02062249514185698
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.02019618984934995
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.01934902735508445
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.014959776264495562
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.014910129549953481
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.014331988762406997
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.010298294891932111
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.0010627230502691573
+            ]
+        ]
+    },
+    {
+        "name": "Algebra",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB092",
+        "similarities": [
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.07761821574775815
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.04459818325997033
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.03358703748795382
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.02746250008662393
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.025756132012689382
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.02396563758704624
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.02018071583006968
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.019386566482031627
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.01830263545095379
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.017499830203206543
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.01670191060203462
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.016309940821030613
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.01610907291931583
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.013741272997452595
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.006444496775688789
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.0023683884871863194
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.0022162560965477657
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.0012422294298746644
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.00022084468135531843
+            ]
+        ]
+    },
+    {
+        "name": "Internet, Netiquette And The Legal Regulation",
+        "kp": 3,
+        "type": "VSK",
+        "code": "SDSKB110",
+        "similarities": [
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.03747215723665137
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.036570967751900364
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.030674430693582947
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.02682770597246999
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.017978294395338604
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.017141554934924946
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.01655312269435508
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.01645518904190408
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.015839826896050093
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.01583682063780471
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.014238361399563196
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.012719656457476768
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.011795814825761555
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.010295036264285786
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.008181677575567403
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.007571186593426958
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.006355069987452455
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.0063368061132595644
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.005315350504456487
+            ]
+        ]
+    },
+    {
+        "name": "Calculus I",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB091",
+        "similarities": [
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.06635185996234469
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.06352406999183556
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.053821748823259734
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.052827402857442994
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.046117511213314186
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.044681089653191446
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.04225403592747971
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.03635022123732894
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.028200736612313534
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.023083986242060685
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.0221990858441537
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.02184030048070251
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.016433109592410605
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.011490326832352415
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.010901044466266952
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.009632131917529338
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.009047427124513193
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.007640511178459795
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.0023781988020578778
+            ]
+        ]
+    },
+    {
+        "name": "Analytical geometry",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB096",
+        "similarities": [
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.06562782151677353
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.05828760860234076
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.037598306143226505
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.036275027977626634
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.036051117360964516
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.03062051387888736
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.029778235992266217
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.027455192119571304
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.026645655891920497
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.024885952614321975
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.022737889265973903
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.021020332880796917
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.019776556311462547
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.01268122262577373
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.010377526239766247
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.008572226349577291
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.005438163113936844
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.003240718791993186
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.0020281742884785993
+            ]
+        ]
+    },
+    {
+        "name": "Principles of Economics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "EkonB012",
+        "similarities": [
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.05706577364380479
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.042481778816490935
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.03675410649801996
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.034483607285643605
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.031747611214476924
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.027867461401919272
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.024504365755502498
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.02209705927249645
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.020110757093239902
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.019645597136860385
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.017723411859626132
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.012183578833963843
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.01170263701809662
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.010881008740168254
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.009491935560813347
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.007689425904797986
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.0066216375641893485
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.004346129546815016
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.003094858613205086
+            ]
+        ]
+    },
+    {
+        "name": "Introduction to management",
+        "kp": 6,
+        "type": "VSK",
+        "code": "VadZB019",
+        "similarities": [
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.10707607765088727
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.06427725174706132
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.04813734565044319
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.04595050210886319
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.042063044953323886
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.03180289744271724
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.02783717359233446
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.026692950068628516
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.02366155386073088
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.023023107426339024
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.021236922443809887
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.020790391027693686
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.019429429452463426
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.018234403829630045
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.015045303445543473
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.012816102890179263
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.011610116217664843
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.008817250396525748
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.007912706651119938
+            ]
+        ]
+    },
+    {
+        "name": "Probability Theory and Statistics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB094",
+        "similarities": [
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.12980021437884628
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.05628494395310944
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.05410197526982507
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.05048225482182095
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.04156422785901685
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.03801619654617966
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.03255755239371633
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.028412734965448612
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.02608353584876275
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.025696543345685944
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.02491803099273738
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.017447454592221703
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.011359085930994347
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.009856112382838449
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.009361421755437561
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.005783824481857686
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.005142759710341662
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.00365196802555391
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.0032131944998418384
+            ]
+        ]
+    },
+    {
+        "name": "Civil protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "KimiB001",
+        "similarities": [
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.10469887590420161
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.07592354488686587
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.07372075016381265
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.07177525327021424
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.05381053779226931
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.05119787365382319
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.050413282223912594
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.050381548213468415
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.041295234056637195
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.03571165026989232
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.029111500713170427
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.02744288304389906
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.026883117458953554
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.024662590660594598
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.02395409674670711
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.021534872482542728
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.018711322507617433
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.016085956053671274
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.015202403841346142
+            ]
+        ]
+    },
+    {
+        "name": "Environment protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "VidZB001",
+        "similarities": [
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.12005834377568857
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.08540659070998725
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.07493737261166494
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.06749483802703193
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.05416038096612674
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.051806734257401295
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.04411907518390078
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.04355641755162667
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.04139330842959682
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.0380862550549699
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.03377584530270043
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.028682711356317295
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.025199795262654742
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.02435195908616489
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.019062110591973127
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.01609118189212657
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.015217861601143984
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.01130299283399699
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.010008280333965532
+            ]
+        ]
+    },
+    {
+        "name": "Information Technology Project Management",
+        "kp": 3,
+        "type": "VSK",
+        "code": "DatZB017",
+        "similarities": [
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.2242628802187168
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.17402356708972866
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.09724238793870152
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.048829158843048164
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.03882488360572762
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.03343213507529949
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.03259608268866107
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.032204484928856685
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.03186566996352068
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.028109396680513328
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.02542074015308504
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.020476630230851105
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.018105309410782915
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.016250494938051918
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.014974094452037547
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.013364363908136815
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.01335489955305992
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.012970961385916184
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.005719827530830934
+            ]
+        ]
+    },
+    {
+        "name": "Communication and Cognitive Sciences",
+        "kp": 3,
+        "type": "VSK",
+        "code": "KomZB103",
+        "similarities": [
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.11643616303267253
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.06678068650401058
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.0578934203996636
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.05088560541017003
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.03830069417428027
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.027865370521634028
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.024802681126388084
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.022947424084826057
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.022870473702663287
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.017677273928503535
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.01745229200814876
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.0168674715751327
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.01668692832338994
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.01614642491823189
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.015556143459014666
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.014606661318882079
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.008486582428711911
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.006801822124314571
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Algorithms and Programming",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB009",
+        "similarities": [
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.11340247467522999
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.09682551243713784
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.06345870687658348
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.056763242643427844
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.05324558499170871
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.04778988134506655
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.04246369882404092
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.03417696555819522
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.03169053570009245
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.029321565002516183
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.02264725213040934
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.022097414514506027
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.019399681662467635
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.019119810789168152
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.018260261744327544
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.008146791834989233
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.004467525858141604
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.0029684176726266598
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.0012723767456193542
+            ]
+        ]
+    },
+    {
+        "name": "Computer Architecture and computer engineering fundamentals I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB066",
+        "similarities": [
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.10163933281282465
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.06552113938296304
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.05657259656507396
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.056057766820001007
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.05365798521044111
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.0444391429001381
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.04345658996135913
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.0430270750315214
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.042784624588649484
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.041862791648668796
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.04134320638734825
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.03816009745387226
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.0369609655134001
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.036853265744700645
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.03607256197402078
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.03238887705042553
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.02849460709356088
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.015357518864449618
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.009340706736567683
+            ]
+        ]
+    },
+    {
+        "name": "Computer networks I and insight into industry",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB067",
+        "similarities": [
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.3447887618194902
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.3292398550537643
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.11860883086930157
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.11032066743074896
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.057411281062935936
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.04349586424032812
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.03995537112447041
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.032817948071714
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.030656257157479123
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.03029694775001791
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.029985085651053657
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.029769587215320432
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.02570656183715828
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.022193694355977307
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.020528640444475093
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.019313256048153808
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.014152481230893582
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.013099751057820259
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.007277405516065011
+            ]
+        ]
+    },
+    {
+        "name": "Operating System",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB018",
+        "similarities": [
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.1354917894527868
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.09706482299967005
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.06589789458824631
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.06318466122333131
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.06114857274845659
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.05771277489727892
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.04835465358463821
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.04642277908620995
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.02578805087301099
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.023085963748309585
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.019481847165287572
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.016611821483116525
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.0140546058643926
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.01292379537133032
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.01137017455608789
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.010108414862103135
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.009307567682354878
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.007022692825931098
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.006360125764535894
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB001",
+        "similarities": [
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.3228610514765307
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.09926384992511961
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.0836659365461067
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.07721307014990453
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.0461940056481958
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.04548180042308482
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.04206465513659898
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.02881158869309386
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.02563517916582416
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.023621395386980833
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.01626346119158442
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.014244495315539042
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.014071326682784472
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.013550474844261522
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.01354745417459253
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.012496705309865797
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.010429394231864
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.007222669786503693
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.0009954873085393225
+            ]
+        ]
+    },
+    {
+        "name": "Databases and Information Systems Fundamentals",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB068",
+        "similarities": [
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.5991490752143273
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.09819207880525543
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.07959223496668738
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.06836438767769933
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.06650572949126034
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.0631206642862832
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.05957553415463031
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.05696574379850628
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.05248479945111824
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.052227701579823566
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.050704989411803875
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.042202548411508424
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.030809574255227203
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.02268276121728382
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.022049060065912486
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.021851649574725726
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.020766471593406357
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.019364609324998602
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.018653879548660778
+            ]
+        ]
+    },
+    {
+        "name": "Software development fundamentals",
+        "kp": 7,
+        "type": "NTP",
+        "code": "DatZB007",
+        "similarities": [
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.1909359495687247
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.14205028100700237
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.1138688746262065
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.08711418435609655
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.08602236024344352
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.08425771600586728
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.07184057159679944
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.06747500242074161
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.06687945730070327
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.06047887040529171
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.05887889425403593
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.054111307161949555
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.049196039698115666
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.04547943746536238
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.04304101362088685
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.04184182329236129
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.03329862320097955
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.030135635855905573
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.020903461175514268
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies II",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB032",
+        "similarities": [
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.365801571423432
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.1408816615883953
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.1095033732482433
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.09421413549828137
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.06578583131593221
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.057831272270748836
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.051031307289844695
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.048256843555742814
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.04586693486694847
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.045597367192587515
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.03945991658416804
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.03284173820318808
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.029988817350301074
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.02241106710354875
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.021520670512190577
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.021187524713244872
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.018977133072134073
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.017021992898052157
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.013706167375045732
+            ]
+        ]
+    },
+    {
+        "name": "Automata Theory",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB016",
+        "similarities": [
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.08071311232057261
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.05899090472344151
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.05135088614556745
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.037255608377053856
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.03617279680572766
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.02872119403011725
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.025645604635354598
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.024591695851449394
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.022888473143654643
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.022808938566153007
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.02105849622926865
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.020224635841521135
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.0183153762623056
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.01814234779334549
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.01598258291445061
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.013431607976863396
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.008134208426649093
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.006124977398088194
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.0032681619996904063
+            ]
+        ]
+    },
+    {
+        "name": "Software Engineering",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB038",
+        "similarities": [
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.252885247926147
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.12795757937772262
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.0866421786758485
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.08159801688569521
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.07975967284384997
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.07888242349539197
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.05935232485907919
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.05894629443016952
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.05680028774145099
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.048918317705665716
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.0441379558035561
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.041499624493549575
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.040324799362686785
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.03743897007456316
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.03643467856236193
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.030284356276880902
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.021054203112682014
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.019463862865957464
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.014977646110954878
+            ]
+        ]
+    },
+    {
+        "name": "Formal Grammars",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB033",
+        "similarities": [
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.061364976476827954
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.04964176485431845
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.0349314930968558
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.03132916844927575
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.02565860678151555
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.02479997790905458
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.023133392847122434
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.0223591074663523
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.021601917639544683
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.021358050688260608
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.017388522244128162
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.015171641385822934
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.013850231719925075
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.013622670910184782
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.013541791718524434
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.010850303081670176
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.008249916517960292
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.006212104430847172
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.003314651192890948
+            ]
+        ]
+    },
+    {
+        "name": "Mathematical Logic",
+        "kp": 3,
+        "type": "NTP",
+        "code": "MateB098",
+        "similarities": [
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.07058632786550517
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.04304142939530575
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.04111306490451953
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.03942296785311228
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.03776359045179779
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.03766972357821929
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.037168946326205425
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.03328043161387811
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.03254434340221874
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.032429061447142034
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.029182513796345764
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.022087774989217733
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.019306338922830606
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.01894334353689656
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.015095284037711487
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.011388237802504567
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.00868861442601023
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.004866576245630743
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.004086429962744073
+            ]
+        ]
+    },
+    {
+        "name": "Theory of Algorithms",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB042",
+        "similarities": [
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.13821590329662162
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.057229738145214336
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.043285591460084746
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.017246838622032787
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.014794358728598286
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.014330091183732385
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.013643312385728428
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.013547541638754773
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.013219150403343155
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.01203610542688422
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.01098380628697965
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.010654265660506094
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.0103820645659165
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.0056435617046123425
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.005610608434497306
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.0047304334413084195
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.003769855442598356
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.0025104398552096324
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.001192945419902366
+            ]
+        ]
+    },
+    {
+        "name": "Computer Architecture and computer engineering fundamentals II",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB088",
+        "similarities": [
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.18029397371556755
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.06637616094172351
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.05891336093883113
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.05517346374105915
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.05021684286175794
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.04397117820189441
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.042245791226229526
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.03890890433390574
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.035983023348261124
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.03522757702581912
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.03342369836553058
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.03160688601525112
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.030253343192960813
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.028865922297337913
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.02799473550049614
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.026577595407049424
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.02323811978951014
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.01571020654125797
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.00833540788166973
+            ]
+        ]
+    },
+    {
+        "name": "Computer Networks II",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB019",
+        "similarities": [
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.24469067109422893
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.17367338767929977
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.09448636233994351
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.0806909803734503
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.06775723333502054
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.060662702699995366
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.04262767218778971
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.039543062923827324
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.038026263014250154
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.03545339365970431
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.028146880042823192
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.024706678020642647
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.022789485716593377
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.021174455332838585
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.015986841384690628
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.014623776404502875
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.013725597544166487
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.0022288781270924044
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.0017746520045017096
+            ]
+        ]
+    },
+    {
+        "name": "Computer Networks III",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB047",
+        "similarities": [
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.24403976990573878
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.2257985827944439
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.11051802949355018
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.09798031282044826
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.09688730335109028
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.05836191328158113
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.036150250466450984
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.03614013988980849
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.031536736728794854
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.026928989234529393
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.019314212733694117
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.019202578819077006
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.018008955097212703
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.01672857114835413
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.015670832275504965
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.014575427184559049
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.01285076081601485
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.00947791155218077
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.002690551054540392
+            ]
+        ]
+    },
+    {
+        "name": "Computer Networks IV",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB048",
+        "similarities": [
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.23067681240360202
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.22591387054648576
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.10414117991950604
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.08997516592472708
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.05330685442386202
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.03898770237998013
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.035378112163111285
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.023370125719194678
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.02178231003203743
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.01828106235998567
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.017462837827221793
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.01595543178775942
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.009481462609347582
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.008769021605681684
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.008129742847711672
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.006934072061912264
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.00425720502276834
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.004248178585365379
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Computer Networks Administration",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB034",
+        "similarities": [
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.21608122456434709
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.16797565599267078
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.108093276857412
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.08387467413445875
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.0703142923470456
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.06203048157702482
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.054551746825991135
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.04759714686769331
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.047468314610538305
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.045977138178413965
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.04108608770272057
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.037622768255106985
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.03502225019672199
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.03384801395927157
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.03313567349200058
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.031675602854590645
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.02220777790225987
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.014239781703560207
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.010786838454160244
+            ]
+        ]
+    },
+    {
+        "name": "Coding Theory",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB061",
+        "similarities": [
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.1299855949421003
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.08163501671754549
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.05201055984638219
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.0505103580071776
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.04811920849805005
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.04141319432680397
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.0375424693649563
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.036482753826150995
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.03583673472775671
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.031366372779504874
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.029247709445102597
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.02110654721930621
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.01784919078159181
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.015125291170700455
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.013483360967828862
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.007897042108126752
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.0077954375678816554
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.003454264855917579
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.00012350365757176417
+            ]
+        ]
+    },
+    {
+        "name": "Modeling basics",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB049",
+        "similarities": [
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.07732091252060194
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.06678291505778024
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.057088693484271084
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.052073251025423116
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.04377904261947454
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.028998531162148823
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.027958730783432903
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.014865441190646174
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.013005680381763583
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.011448076919660839
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.008544883495249954
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.007226014328045528
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.005994065272415556
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.004770561806421294
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.0038585156696336028
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.0032525902461122
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.0031192679288814993
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.0028194716117091244
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.0022998504756364226
+            ]
+        ]
+    },
+    {
+        "name": "Operating System Concepts",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB057",
+        "similarities": [
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.23881247836513028
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.060995122781812315
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.06063276030286689
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.05985167374849963
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.058310766572030805
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.058281316243202305
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.058117325129949014
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.05549862403342184
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.05495040840529419
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.05269443120866317
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.047031654357943084
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.04122445718827244
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.03450823189947224
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.031151658424372605
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.02488477632495437
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.023588212131480005
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.019353205334426044
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.014918110840628902
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.013174813955383908
+            ]
+        ]
+    },
+    {
+        "name": "RouterOS fundamental technologies",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB031",
+        "similarities": [
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.269859572970893
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.2110202120211148
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.09837588629639075
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.057435619306499104
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.0461264822059157
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.04134493912291901
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.03247729799989238
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.02956945998822554
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.028161718970667285
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.026411142294603833
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.024778753081024674
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.02263457629687533
+            ],
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.018377749070422524
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.017993097431237434
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.015686045453565126
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.014518807737414699
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.011702302045258482
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.008176059242200488
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.006450289796480601
+            ]
+        ]
+    },
+    {
+        "name": "Web application security",
+        "kp": 3,
+        "type": "IT-o",
+        "code": "DatZB054",
+        "similarities": [
+            [
+                "ITE-WMS",
+                "Web and Mobile Systems - core",
+                0.20802997904558548
+            ],
+            [
+                "ITE-CSP",
+                "Cybersecurity Principles - core",
+                0.16472551555940942
+            ],
+            [
+                "ITS-CEC",
+                "Cybersecurity Emerging Challenges - supplemental",
+                0.09188168538367607
+            ],
+            [
+                "ITE-NET",
+                "Networking - core",
+                0.05743742181192642
+            ],
+            [
+                "ITE-SPA",
+                "System Paradigms - core",
+                0.05150553283101733
+            ],
+            [
+                "ITS-MAP",
+                "Mobile Application - supplemental",
+                0.05045520744347388
+            ],
+            [
+                "ITE-IST",
+                "Integrated Systems Technology - core",
+                0.044394432182479605
+            ],
+            [
+                "ITE-SWF",
+                "Software Fundamentals - core",
+                0.03277309536928425
+            ],
+            [
+                "ITE-GPP",
+                "Global Professional Practice - core",
+                0.028578936400453923
+            ],
+            [
+                "ITS-SDM",
+                "Software Development and Management - supplemental",
+                0.028487627345782456
+            ],
+            [
+                "ITS-CCO",
+                "Cloud Computing - supplemental",
+                0.027204832534515076
+            ],
+            [
+                "ITS-SRE",
+                "Social Responsibility - supplemental",
+                0.025951016243888892
+            ],
+            [
+                "ITS-ANE",
+                "Applied Networks - supplemental",
+                0.022991616895052823
+            ],
+            [
+                "ITS-DSA",
+                "Data Scalability and Analytics - supplemental",
+                0.01925213404009695
+            ],
+            [
+                "ITE-UXD",
+                "User Experience Design - core",
+                0.01685357109262123
+            ],
+            [
+                "ITS-IOT",
+                "Internet of Things - supplemental",
+                0.012133841887982527
+            ],
+            [
+                "ITS-VSS",
+                "Virtual Systems and Services - supplemental",
+                0.007059052029545403
+            ],
+            [
+                "ITE-IMA",
+                "Information Management - core",
+                0.005673056050404708
+            ],
+            [
+                "ITE-PFT",
+                "Platform Technologies - core",
+                0.003818274270966615
+            ]
+        ]
+    }
+]

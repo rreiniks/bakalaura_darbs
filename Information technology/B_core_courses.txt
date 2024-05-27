@@ -1,0 +1,69 @@
+Theory of Algorithms
+The goal of the courese is to introduce the main notions of the theory of computation and their applications to the analysis of specific computational problems. Tasks: 1. Provide knowledge about theoretical models of computation, algorithmically solvable and unsolvable problems, and basic notions of computational complexity. 2. Create skills for determining the computational complexity of various problems and classifying them by their complexity. The course is taught in Latvian and English.
+3
+IT-o
+DatZB042
+
+Computer Architecture and computer engineering fundamentals II
+Studies course aims to develop computing specialties students' in-depth understanding of the computer and its peripherals structure, operating principles, computer and computer architecture, computer engineering. The task of this course is to cover in detail the components of a computer systems, input and an output operations, processors architecture, command sets, chipsets, bus and its permeability, input and output organization, drive and video subsystems, file systems, modern computer peripheral devices and their operating principles. This course is a continuation of the DatZ1164 course. The language of instruction is Latvian.
+3
+IT-o
+DatZB088
+
+Computer Networks II
+Computer networks II course is based on Cisco “CCNA Routing and Switching: Routing and Switching Essentials” course. It is the second of four courses leading to the Cisco Certified Network Associate (CCNA) certification. The goal of the course is to teach routing and switching fundamentals. The tasks of the course are to teach initial router configuration, Cisco IOS software management, routing protocol configuration, TCP/IP, and access control lists (ACLs). Students will develop skills on how to configure a router, manage Cisco IOS software, configure routing protocols, and create access lists controlling access to the router. The course includes a theoretical and practical exam. The course is provided in Latvian language.
+3
+IT-o
+DatZB019
+
+Computer Networks III
+Computer networks III course is based on Cisco “CCNA Routing and Switching: Scaling Networks” course. It is the third of four courses leading to the Cisco Certified Network Associate (CCNA) certification. The goal is to develop an understanding of how switches are interconnected and configured to provide scaled and redundant network access to LAN users. The tasks of the course are to teach students understand and use those technologies and also teaches how to integrate wireless devices into a LAN. The course includes a theoretical and practical exam. Also in this course students prepare a network design documentation and present it. The course is provided in Latvian language.
+3
+IT-o
+DatZB047
+
+Computer Networks IV
+Computer networks IV course is based on Cisco “CCNA Routing and Switching: Connecting networks” course. It is the last of four courses leading to the Cisco Certified Network Associate (CCNA) certification. The primary focus of this course is on accessing wide area networks (WAN) and interconnecting offices. The goal is to develop an understanding of various WAN technologies to connect small- to medium-sized business networks. The tasks of the course are to teach students understand and use those technologies. The course includes a theoretical and practical exam. The course is provided in Latvian language.
+3
+IT-o
+DatZB048
+
+Computer Networks Administration
+The aim of this course is to teach basic understanding and skills in the field of computer networks administration. The course curriculum covers topics given in the networks administration profession standard, including not only computer networks administration, but also those of workstations, servers, popular services and networks security. The task of this course is to learn it. The course uses freely available open source software, but examples of proprietary software are also given. The course is provided in Latvian language.
+3
+IT-o
+DatZB034
+
+Coding Theory
+The aim of the course – to gain knowledge about error correcting and data compression codes, about relations between data encoding and information theory, about mathematical foundations on which design and functionality of error correcting codes are based. The tasks of the study – to get acquainted with mathematical foundations (vector spaces, finite fields) required for understanding functionality of error correcting codes. To understand relations between code parameters (data compression factor, number of correctable errors) and constraints on these parameters derived from notion of entropy as measure of information. To get acquainted with basic simpler and most widely known classes of error correcting codes (Hemming codes, BCH codes, Reed-Solomon codes) and data compression methods (Huffman codes, Lempel-Ziv codes, Burrows-Wheeler transform). The language of instruction is Latvian; teaching materials, homework and examination problems are available in English.
+3
+IT-o
+DatZB061
+
+Modeling basics
+The aim of the course is to basic knowldege of the practical use of system modeling languages and tools. The tasks of the course include getting acquainted with two main types of system modeling (object-oriented modeling and business modeling), mastering UML class diagrams, mastering business modeling, which is necessary for the needs of object-oriented modeling. In addition, they include a review of the system modeling methodology, learning how to use class diagrams in metamodels in construction, solving specific modeling tasks. Case studies are included, and system modelling methodology is discussed. Language of instruction: Latvian and English
+3
+IT-o
+DatZB049
+
+Operating System Concepts
+Course goal: To learn about the basic principles of modern operating systems that affect software performance and fair distribution of computing resources. Course objectives: To master the fundamental components of operating systems architecture, and practice evaluating operating system performance depending on various configuration parameters. The operating system is an essential component of any computer system. This course does not cover specific operating systems or hardware, but fundamental concepts that are applicable to any operating system. The following questions are answered: what are operating systems, what do they do, how are they designed, and how has the concept of the operating system evolved historically? The course covers the basic concepts of process and CPU planning, memory management, secondary and tertiary memory structure, protection and security, as well as computer system performance evaluation. Language of the course implementation: Latvian.
+3
+IT-o
+DatZB057
+
+RouterOS fundamental technologies
+"RouterOS fundamental technologies" course is based on Mikrotik “Certified Network Associate (MTCNA)” course. It is leading to the Mikrotik Certified Network Associate (MTCNA) certification. The goal of the course is to introduce students to the RouterOS and RouterBOARD technologies and applications. The tasks are to understand and use RouterOS terminology, management principles and implementation of basic networking services: DHCP, bridging, routing, Wireless Local Area Networks (WLANs), firewalls, QoS, PPP. The course includes an exam. The course is provided in Latvian language.
+3
+IT-o
+DatZB031
+
+Web application security
+The course is intended to provide an overview of web application security from different viewpoints - web developer, malicious attacker and penetration tester. This course covers the most common vulnerabilities according to the OWASP Top 10 list. All vulnerability categories are provided with explanations of root causes, how to identify vulnerabilities and exploit them, and additionally how to properly address these vulnerabilities while developing web applications. Every vulnerability category is provided with practical assignments which enable students to acquire penetration testing skills. Students independently study OWASP Web Security Testing Guide to complete a course project, where security testing is conducted for a selected web application. Languages of instruction are Latvian and English.
+3
+IT-o
+DatZB054
+
+
+
+
