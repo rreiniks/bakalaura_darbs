@@ -1,0 +1,1257 @@
+[
+    {
+        "code": "CMP",
+        "name": "Computing essentials - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "CMP.cf",
+                "name": "Computer science foundations",
+                "term_frequencies": {
+                    "programming": 0.1458369402757744,
+                    "fundamental": 0.1458369402757744,
+                    "control": 0.06348904901909269,
+                    "data": 0.12697809803818538,
+                    "typing": 0.0890381720113743,
+                    "recursion": 0.0890381720113743,
+                    "algorithms": 0.0890381720113743,
+                    "structure": 0.12697809803818538,
+                    "complexity": 0.0729184701378872,
+                    "problem": 0.0567987682644001,
+                    "solving": 0.0890381720113743,
+                    "technique": 0.03124964527211848,
+                    "abstraction": 0.0729184701378872,
+                    "support": 0.0890381720113743,
+                    "encapsulation": 0.0890381720113743,
+                    "hierarchy": 0.0890381720113743,
+                    "computer": 0.0890381720113743,
+                    "organization": 0.04736934714560558,
+                    "basic": 0.2271950730576004,
+                    "user": 0.05160938335011615,
+                    "human": 0.1780763440227486,
+                    "factor": 0.1458369402757744,
+                    "error": 0.06348904901909269,
+                    "message": 0.0729184701378872,
+                    "robustness": 0.0729184701378872,
+                    "developer": 0.0890381720113743,
+                    "comment": 0.0890381720113743,
+                    "readability": 0.0890381720113743,
+                    "language": 0.0729184701378872,
+                    "operating": 0.0890381720113743,
+                    "system": 0.03793992602681106,
+                    "database": 0.0729184701378872,
+                    "network": 0.06348904901909269,
+                    "protocol": 0.06348904901909269
+                }
+            },
+            {
+                "code": "CMP.ct",
+                "name": "Construction technologies",
+                "term_frequencies": {
+                    "api": 0.07223851691488858,
+                    "design": 0.047686492038775785,
+                    "code": 0.05150998316643369,
+                    "reuse": 0.05916026822507829,
+                    "library": 0.07223851691488858,
+                    "objectoriented": 0.05916026822507829,
+                    "runtime": 0.14447703382977717,
+                    "issue": 0.03552323108365626,
+                    "polymorphism": 0.07223851691488858,
+                    "dynamic": 0.05916026822507829,
+                    "binding": 0.07223851691488858,
+                    "parameterization": 0.07223851691488858,
+                    "generic": 0.07223851691488858,
+                    "assertions": 0.07223851691488858,
+                    "contract": 0.046082019535268005,
+                    "defensive": 0.07223851691488858,
+                    "programming": 0.05916026822507829,
+                    "error": 0.05150998316643369,
+                    "handling": 0.11832053645015658,
+                    "exception": 0.05150998316643369,
+                    "fault": 0.04187176385009424,
+                    "tolerance": 0.05916026822507829,
+                    "statebased": 0.07223851691488858,
+                    "tabledriven": 0.07223851691488858,
+                    "construction": 0.11832053645015658,
+                    "technique": 0.025353485786813106,
+                    "configuration": 0.05916026822507829,
+                    "internationalization": 0.05916026822507829,
+                    "grammarbased": 0.07223851691488858,
+                    "input": 0.07223851691488858,
+                    "processing": 0.07223851691488858,
+                    "parsing": 0.07223851691488858,
+                    "concurrency": 0.07223851691488858,
+                    "primitive": 0.07223851691488858,
+                    "semaphore": 0.07223851691488858,
+                    "monitor": 0.07223851691488858,
+                    "method": 0.046082019535268005,
+                    "distributed": 0.07223851691488858,
+                    "software": 0.05070697157362621,
+                    "cloud": 0.07223851691488858,
+                    "mobile": 0.05150998316643369,
+                    "computing": 0.07223851691488858,
+                    "constructing": 0.07223851691488858,
+                    "hardware": 0.05916026822507829,
+                    "system": 0.030781449417978782,
+                    "performance": 0.03552323108365626,
+                    "analysis": 0.017703200728168493,
+                    "tuning": 0.07223851691488858
+                }
+            },
+            {
+                "code": "CMP.tl",
+                "name": "Construction tools",
+                "term_frequencies": {
+                    "development": 0.22632021414011555,
+                    "environment": 0.303336567535665,
+                    "user": 0.2465781648949994,
+                    "interface": 0.2713718928188005,
+                    "framework": 0.34838824621434994,
+                    "tool": 0.41838472165195145,
+                    "unit": 0.34838824621434994,
+                    "testing": 0.2713718928188005
+                }
+            }
+        ]
+    },
+    {
+        "code": "CMP",
+        "name": "Computing essentials - supplemental",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "CMP.tl",
+                "name": "Construction tools",
+                "term_frequencies": {
+                    "profiling": 0.9571603491222738,
+                    "performance": 0.4706828118584454,
+                    "analysis": 0.23456740964823256,
+                    "tool": 0.4706828118584454
+                }
+            }
+        ]
+    },
+    {
+        "code": "FND",
+        "name": "Mathematical and engineering fundamentals - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "FND.mf",
+                "name": "Mathematical foundations",
+                "term_frequencies": {
+                    "functions": 0.1367371927317534,
+                    "relation": 0.1367371927317534,
+                    "set": 0.1367371927317534,
+                    "basic": 0.08722667983461443,
+                    "logic": 0.1367371927317534,
+                    "propositional": 0.1367371927317534,
+                    "predicate": 0.1367371927317534,
+                    "proof": 0.1367371927317534,
+                    "technique": 0.04799052666789624,
+                    "direct": 0.11198193628318391,
+                    "contradiction": 0.1367371927317534,
+                    "inductive": 0.1367371927317534,
+                    "basics": 0.1367371927317534,
+                    "counting": 0.1367371927317534,
+                    "graphs": 0.1367371927317534,
+                    "tree": 0.0975010395650352,
+                    "discrete": 0.1367371927317534,
+                    "probability": 0.1367371927317534,
+                    "finite": 0.1367371927317534,
+                    "state": 0.0975010395650352,
+                    "machine": 0.1367371927317534,
+                    "regular": 0.1367371927317534,
+                    "expression": 0.1367371927317534,
+                    "grammars": 0.1367371927317534,
+                    "numerical": 0.1367371927317534,
+                    "precision": 0.1367371927317534,
+                    "accuracy": 0.1367371927317534,
+                    "error": 0.0975010395650352
+                }
+            },
+            {
+                "code": "FND.ef",
+                "name": "Engineering foundations for software",
+                "term_frequencies": {
+                    "empirical": 0.0981702922176691,
+                    "method": 0.06262428295818473,
+                    "experimental": 0.0981702922176691,
+                    "technique": 0.034454737094899865,
+                    "cpu": 0.0981702922176691,
+                    "memory": 0.0981702922176691,
+                    "usage": 0.0981702922176691,
+                    "measurement": 0.2276106137492302,
+                    "statistical": 0.0981702922176691,
+                    "analysis": 0.024058195861357184,
+                    "simple": 0.0981702922176691,
+                    "hypothesis": 0.0981702922176691,
+                    "testing": 0.06262428295818473,
+                    "estimating": 0.0981702922176691,
+                    "regression": 0.08039728758792691,
+                    "correlation": 0.0981702922176691,
+                    "metric": 0.05690265343730755,
+                    "systems": 0.08039728758792691,
+                    "development": 0.052227741724642056,
+                    "security": 0.04827516019060978,
+                    "safety": 0.07000074635438425,
+                    "performance": 0.04827516019060978,
+                    "effect": 0.07000074635438425,
+                    "scaling": 0.0981702922176691,
+                    "feature": 0.08039728758792691,
+                    "interaction": 0.06262428295818473,
+                    "engineering": 0.04183120049109937,
+                    "design": 0.032402359975065596,
+                    "formulation": 0.0981702922176691,
+                    "problem": 0.06262428295818473,
+                    "alternative": 0.0981702922176691,
+                    "solution": 0.08039728758792691,
+                    "feasibility": 0.0981702922176691,
+                    "theory": 0.08039728758792691,
+                    "criterion": 0.0981702922176691,
+                    "valid": 0.0981702922176691
+                }
+            },
+            {
+                "code": "FND.ec",
+                "name": "Engineering economics for software",
+                "term_frequencies": {
+                    "value": 0.18444083623112645,
+                    "consideration": 0.22521419979347618,
+                    "throughout": 0.22521419979347618,
+                    "software": 0.07904322039418205,
+                    "life": 0.14366747266877672,
+                    "cycle": 0.14366747266877672,
+                    "evaluating": 0.22521419979347618,
+                    "costeffective": 0.22521419979347618,
+                    "solution": 0.18444083623112645,
+                    "benefit": 0.22521419979347618,
+                    "realization": 0.22521419979347618,
+                    "tradeoff": 0.14366747266877672,
+                    "analysis": 0.11038466336387415,
+                    "cost": 0.18444083623112645,
+                    "return": 0.22521419979347618,
+                    "investment": 0.22521419979347618
+                }
+            }
+        ]
+    },
+    {
+        "code": "FND",
+        "name": "Mathematical and engineering fundamentals - supplemental",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "FND.mf",
+                "name": "Mathematical foundations",
+                "term_frequencies": {
+                    "number": 1.9143206982445475,
+                    "theory": 1.5677471079645748
+                }
+            }
+        ]
+    },
+    {
+        "code": "PRF",
+        "name": "Professional practice - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "PRF.psy",
+                "name": "Group dynamics and psychology",
+                "term_frequencies": {
+                    "dynamics": 0.2127022998049497,
+                    "working": 0.17419412310717497,
+                    "team": 0.1232890824474997,
+                    "group": 0.17419412310717497,
+                    "individual": 0.1516682837678325,
+                    "cognition": 0.2127022998049497,
+                    "limit": 0.2127022998049497,
+                    "cognitive": 0.2127022998049497,
+                    "problem": 0.13568594640940024,
+                    "complexity": 0.17419412310717497,
+                    "interacting": 0.2127022998049497,
+                    "stakeholder": 0.17419412310717497,
+                    "dealing": 0.4254045996098994,
+                    "uncertainty": 0.2127022998049497,
+                    "ambiguity": 0.2127022998049497,
+                    "multicultural": 0.2127022998049497,
+                    "environment": 0.1516682837678325
+                }
+            },
+            {
+                "code": "PRF.com",
+                "name": "Communications skills (specific to SE)",
+                "term_frequencies": {
+                    "reading": 0.38286413964890953,
+                    "understanding": 0.19143206982445476,
+                    "summarizing": 0.19143206982445476,
+                    "source": 0.1567747107964575,
+                    "code": 0.13650145539104927,
+                    "documentation": 0.1567747107964575,
+                    "writing": 0.19143206982445476,
+                    "assignment": 0.19143206982445476,
+                    "report": 0.1567747107964575,
+                    "evaluation": 0.19143206982445476,
+                    "justification": 0.19143206982445476,
+                    "team": 0.11096017420274973,
+                    "group": 0.1567747107964575,
+                    "communication": 0.19143206982445476,
+                    "oral": 0.19143206982445476,
+                    "written": 0.19143206982445476,
+                    "email": 0.19143206982445476,
+                    "presentation": 0.19143206982445476,
+                    "skill": 0.19143206982445476
+                }
+            },
+            {
+                "code": "PRF.pr",
+                "name": "Professionalism",
+                "term_frequencies": {
+                    "accreditation": 0.1418015332032998,
+                    "certification": 0.1418015332032998,
+                    "licensing": 0.1418015332032998,
+                    "codes": 0.1418015332032998,
+                    "ethic": 0.1418015332032998,
+                    "professional": 0.4254045996098994,
+                    "conduct": 0.1418015332032998,
+                    "social": 0.11612941540478332,
+                    "legal": 0.11612941540478332,
+                    "historical": 0.11612941540478332,
+                    "issue": 0.0697307869419919,
+                    "concern": 0.10111218917855501,
+                    "nature": 0.18091459521253364,
+                    "role": 0.2836030664065996,
+                    "society": 0.1418015332032998,
+                    "software": 0.09953590716304404,
+                    "engineering": 0.060422845153810203,
+                    "standard": 0.10111218917855501,
+                    "economic": 0.1418015332032998,
+                    "impact": 0.10111218917855501,
+                    "employment": 0.1418015332032998,
+                    "contract": 0.09045729760626682
+                }
+            }
+        ]
+    },
+    {
+        "code": "MAA",
+        "name": "Software modeling and analysis - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "MAA.md",
+                "name": "Modeling foundations",
+                "term_frequencies": {
+                    "modeling": 0.1285445808089055,
+                    "principle": 0.1285445808089055,
+                    "decomposition": 0.20150744192047867,
+                    "abstraction": 0.16502601136469208,
+                    "generalization": 0.20150744192047867,
+                    "projection": 0.20150744192047867,
+                    "view": 0.20150744192047867,
+                    "formal": 0.21440862392221474,
+                    "approach": 0.16502601136469208,
+                    "preconditions": 0.20150744192047867,
+                    "postconditions": 0.20150744192047867,
+                    "invariant": 0.20150744192047867,
+                    "design": 0.06651010731723991,
+                    "contract": 0.1285445808089055,
+                    "introduction": 0.20150744192047867,
+                    "mathematical": 0.20150744192047867,
+                    "model": 0.0990911182859885,
+                    "notation": 0.16502601136469208
+                }
+            },
+            {
+                "code": "MAA.tm",
+                "name": "Types of models",
+                "term_frequencies": {
+                    "information": 0.07632334485528763,
+                    "modeling": 0.38161672427643817,
+                    "entityrelationship": 0.11964504364028422,
+                    "class": 0.09798419424778593,
+                    "diagram": 0.3919367769911437,
+                    "behavioral": 0.09798419424778593,
+                    "state": 0.0853134096194058,
+                    "case": 0.0853134096194058,
+                    "analysis": 0.08796277861808721,
+                    "interaction": 0.07632334485528763,
+                    "failure": 0.0853134096194058,
+                    "mode": 0.0853134096194058,
+                    "effect": 0.0853134096194058,
+                    "fault": 0.06935010887671858,
+                    "tree": 0.0853134096194058,
+                    "architectural": 0.19596838849557185,
+                    "pattern": 0.07632334485528763,
+                    "component": 0.11964504364028422,
+                    "domain": 0.19596838849557185,
+                    "engineering": 0.05098177559852736,
+                    "approach": 0.09798419424778593
+                }
+            },
+            {
+                "code": "MAA.af",
+                "name": "Analysis fundamentals",
+                "term_frequencies": {
+                    "analyzing": 0.3560907531940416,
+                    "form": 0.13632583547518043,
+                    "completeness": 0.16646266941256935,
+                    "consistency": 0.13632583547518043,
+                    "robustness": 0.13632583547518043,
+                    "correctness": 0.16646266941256935,
+                    "static": 0.13632583547518043,
+                    "analysis": 0.12238299633820829,
+                    "simulation": 0.16646266941256935,
+                    "model": 0.0818578803232079,
+                    "checking": 0.13632583547518043,
+                    "dependability": 0.13632583547518043,
+                    "failure": 0.11869691773134719,
+                    "mode": 0.11869691773134719,
+                    "fault": 0.09648710800239106,
+                    "tree": 0.11869691773134719,
+                    "formal": 0.08856008379395826,
+                    "theorem": 0.16646266941256935,
+                    "proving": 0.16646266941256935
+                }
+            }
+        ]
+    },
+    {
+        "code": "MAA",
+        "name": "Software modeling and analysis - supplemental",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "MAA.tm",
+                "name": "Types of models",
+                "term_frequencies": {
+                    "enterprise": 0.2552427597659397,
+                    "modeling": 0.3256462713825606,
+                    "business": 0.2552427597659397,
+                    "process": 0.1166133236539506,
+                    "organization": 0.13579212848406935,
+                    "goal": 0.20903294772860997,
+                    "workflow": 0.2552427597659397,
+                    "embedded": 0.20903294772860997,
+                    "system": 0.10876112127685837,
+                    "realtime": 0.2552427597659397,
+                    "schedule": 0.2552427597659397,
+                    "analysis": 0.06255130923952867,
+                    "interface": 0.1628231356912803,
+                    "protocol": 0.18200194052139904
+                }
+            }
+        ]
+    },
+    {
+        "code": "REQ",
+        "name": "Requirements analysis and specification - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "REQ.rfd",
+                "name": "Requirements fundamentals",
+                "term_frequencies": {
+                    "definition": 0.043333795362237866,
+                    "requirement": 0.2390769838011151,
+                    "product": 0.03233145916287365,
+                    "project": 0.043333795362237866,
+                    "constraint": 0.04976974945919285,
+                    "system": 0.07768651519775598,
+                    "boundary": 0.04976974945919285,
+                    "external": 0.04976974945919285,
+                    "internal": 0.06077208565855706,
+                    "requirements": 0.14090180851142822,
+                    "process": 0.027765077060464428,
+                    "layers": 0.06077208565855706,
+                    "level": 0.06077208565855706,
+                    "need": 0.06077208565855706,
+                    "goal": 0.04976974945919285,
+                    "user": 0.035225452127857056,
+                    "software": 0.042658245927018876,
+                    "characteristic": 0.04976974945919285,
+                    "testable": 0.06077208565855706,
+                    "unambiguous": 0.06077208565855706,
+                    "consistent": 0.06077208565855706,
+                    "correct": 0.06077208565855706,
+                    "traceable": 0.06077208565855706,
+                    "priority": 0.04976974945919285,
+                    "analyzing": 0.043333795362237866,
+                    "quality": 0.02589550506591866,
+                    "nonfunctional": 0.06077208565855706,
+                    "safety": 0.043333795362237866,
+                    "security": 0.02988462297513939,
+                    "usability": 0.03233145916287365,
+                    "performance": 0.02988462297513939,
+                    "context": 0.043333795362237866,
+                    "engineering": 0.02589550506591866,
+                    "evolution": 0.04976974945919285,
+                    "traceability": 0.04976974945919285,
+                    "prioritization": 0.06077208565855706,
+                    "tradeoff": 0.03876741325982864,
+                    "analysis": 0.04467950659966334,
+                    "risk": 0.04976974945919285,
+                    "impact": 0.043333795362237866,
+                    "management": 0.07753482651965728,
+                    "consistency": 0.04976974945919285,
+                    "release": 0.04976974945919285,
+                    "planning": 0.043333795362237866,
+                    "reuse": 0.04976974945919285,
+                    "interaction": 0.03876741325982864,
+                    "architecture": 0.04976974945919285
+                }
+            },
+            {
+                "code": "REQ.er",
+                "name": "Eliciting requirements",
+                "term_frequencies": {
+                    "elicitation": 0.4254045996098994,
+                    "source": 0.17419412310717497,
+                    "stakeholder": 0.17419412310717497,
+                    "domain": 0.17419412310717497,
+                    "expert": 0.2127022998049497,
+                    "operational": 0.17419412310717497,
+                    "organization": 0.11316010707005777,
+                    "environment": 0.1516682837678325,
+                    "technique": 0.14930386074456606,
+                    "interview": 0.2127022998049497,
+                    "questionnaire": 0.2127022998049497,
+                    "survey": 0.2127022998049497,
+                    "prototype": 0.2127022998049497,
+                    "case": 0.1516682837678325,
+                    "observation": 0.2127022998049497,
+                    "participatory": 0.2127022998049497
+                }
+            },
+            {
+                "code": "REQ.rsd",
+                "name": "Requirements specification and documentation",
+                "term_frequencies": {
+                    "requirements": 0.09648710800239106,
+                    "documentation": 0.27265167095036086,
+                    "basic": 0.10618900153779148,
+                    "type": 0.16646266941256935,
+                    "audience": 0.16646266941256935,
+                    "structure": 0.11869691773134719,
+                    "quality": 0.07093116605012502,
+                    "attribute": 0.07605216760040256,
+                    "standard": 0.11869691773134719,
+                    "software": 0.05842324985656933,
+                    "requirement": 0.1637157606464158,
+                    "specification": 0.19297421600478212,
+                    "technique": 0.05842324985656933,
+                    "plan": 0.16646266941256935,
+                    "driven": 0.16646266941256935,
+                    "decision": 0.16646266941256935,
+                    "table": 0.16646266941256935,
+                    "user": 0.09648710800239106,
+                    "story": 0.13632583547518043,
+                    "behavioral": 0.13632583547518043
+                }
+            },
+            {
+                "code": "REQ.rv",
+                "name": "Requirements validation",
+                "term_frequencies": {
+                    "reviews": 0.22521419979347618,
+                    "inspection": 0.18444083623112645,
+                    "prototyping": 0.22521419979347618,
+                    "validate": 0.22521419979347618,
+                    "requirement": 0.1107488969078695,
+                    "acceptance": 0.18444083623112645,
+                    "test": 0.1605899475188815,
+                    "design": 0.07433482582515048,
+                    "validating": 0.22521419979347618,
+                    "product": 0.11981658395653177,
+                    "quality": 0.09596569524428679,
+                    "attribute": 0.102894109106427,
+                    "requirements": 0.13054138141499969,
+                    "interaction": 0.28733494533755344,
+                    "analysis": 0.055192331681937074,
+                    "feature": 0.18444083623112645
+                }
+            }
+        ]
+    },
+    {
+        "code": "REQ",
+        "name": "Requirements analysis and specification - supplemental",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "REQ.rv",
+                "name": "Requirements validation",
+                "term_frequencies": {
+                    "formal": 0.6789606424203467,
+                    "requirement": 0.6275770824779272,
+                    "analysis": 0.31275654619764337
+                }
+            }
+        ]
+    },
+    {
+        "code": "DES",
+        "name": "Software design - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "DES.con",
+                "name": "Design concepts",
+                "term_frequencies": {
+                    "definition": 0.07000074635438425,
+                    "design": 0.2268165198254592,
+                    "fundamental": 0.08039728758792691,
+                    "issue": 0.04827516019060978,
+                    "persistent": 0.0981702922176691,
+                    "data": 0.07000074635438425,
+                    "storage": 0.0981702922176691,
+                    "management": 0.06262428295818473,
+                    "exception": 0.07000074635438425,
+                    "context": 0.07000074635438425,
+                    "multiple": 0.0981702922176691,
+                    "software": 0.034454737094899865,
+                    "development": 0.052227741724642056,
+                    "life": 0.06262428295818473,
+                    "cycle": 0.06262428295818473,
+                    "principle": 0.06262428295818473,
+                    "information": 0.06262428295818473,
+                    "hiding": 0.08039728758792691,
+                    "cohesion": 0.08039728758792691,
+                    "coupling": 0.08039728758792691,
+                    "interactions": 0.0981702922176691,
+                    "requirement": 0.04827516019060978,
+                    "quality": 0.04183120049109937,
+                    "attribute": 0.04485127832844254,
+                    "reliability": 0.07000074635438425,
+                    "usability": 0.052227741724642056,
+                    "maintainability": 0.0981702922176691,
+                    "performance": 0.04827516019060978,
+                    "testability": 0.0981702922176691,
+                    "security": 0.04827516019060978,
+                    "fault": 0.05690265343730755,
+                    "tolerance": 0.08039728758792691,
+                    "tradeoff": 0.06262428295818473
+                }
+            },
+            {
+                "code": "DES.str",
+                "name": "Design strategies",
+                "term_frequencies": {
+                    "functionoriented": 0.9571603491222738,
+                    "design": 0.6318460195137792,
+                    "objectoriented": 0.7838735539822874
+                }
+            },
+            {
+                "code": "DES.ar",
+                "name": "Architectural design",
+                "term_frequencies": {
+                    "architectural": 0.20903294772860997,
+                    "style": 0.12762137988296984,
+                    "pattern": 0.08141156784564015,
+                    "framework": 0.10451647386430499,
+                    "tradeoff": 0.08141156784564015,
+                    "attribute": 0.0583066618269753,
+                    "hardware": 0.10451647386430499,
+                    "system": 0.10876112127685837,
+                    "engineering": 0.054380560638429186,
+                    "issue": 0.06275770824779273,
+                    "software": 0.04479115822336982,
+                    "architecture": 0.41806589545721995,
+                    "requirements": 0.07397344946849982,
+                    "traceability": 0.10451647386430499,
+                    "serviceoriented": 0.12762137988296984,
+                    "architectures": 0.12762137988296984,
+                    "network": 0.09100097026069952,
+                    "mobile": 0.09100097026069952,
+                    "embedded": 0.10451647386430499,
+                    "relationship": 0.12762137988296984,
+                    "product": 0.06789606424203468,
+                    "structure": 0.09100097026069952,
+                    "development": 0.06789606424203468,
+                    "organization": 0.06789606424203468,
+                    "market": 0.12762137988296984
+                }
+            },
+            {
+                "code": "DES.hci",
+                "name": "Human-computer interaction design",
+                "term_frequencies": {
+                    "general": 0.12762137988296984,
+                    "hci": 0.20903294772860997,
+                    "design": 0.1684922718703411,
+                    "principle": 0.08141156784564015,
+                    "mode": 0.09100097026069952,
+                    "navigation": 0.12762137988296984,
+                    "coding": 0.12762137988296984,
+                    "technique": 0.04479115822336982,
+                    "visual": 0.12762137988296984,
+                    "color": 0.12762137988296984,
+                    "icon": 0.12762137988296984,
+                    "font": 0.12762137988296984,
+                    "response": 0.10451647386430499,
+                    "time": 0.12762137988296984,
+                    "feedback": 0.12762137988296984,
+                    "modality": 0.10451647386430499,
+                    "direct": 0.10451647386430499,
+                    "manipulation": 0.12762137988296984,
+                    "menu": 0.12762137988296984,
+                    "selection": 0.12762137988296984,
+                    "form": 0.10451647386430499,
+                    "questionanswer": 0.12762137988296984,
+                    "command": 0.12762137988296984,
+                    "localization": 0.12762137988296984,
+                    "internationalization": 0.10451647386430499,
+                    "method": 0.08141156784564015
+                }
+            },
+            {
+                "code": "DES.dd",
+                "name": "Detailed design",
+                "term_frequencies": {
+                    "design": 0.2808204531172352,
+                    "pattern": 0.13568594640940024,
+                    "database": 0.17419412310717497,
+                    "networked": 0.2127022998049497,
+                    "mobile": 0.1516682837678325,
+                    "system": 0.0906342677307153,
+                    "notation": 0.17419412310717497,
+                    "class": 0.17419412310717497,
+                    "object": 0.2127022998049497,
+                    "diagram": 0.34838824621434994,
+                    "uml": 0.2127022998049497,
+                    "state": 0.1516682837678325,
+                    "formal": 0.11316010707005777,
+                    "specification": 0.1232890824474997
+                }
+            },
+            {
+                "code": "DES.ev",
+                "name": "Design evaluation",
+                "term_frequencies": {
+                    "design": 0.25273840780551166,
+                    "attribute": 0.1749199854809259,
+                    "coupling": 0.313549421592915,
+                    "cohesion": 0.313549421592915,
+                    "information": 0.24423470353692045,
+                    "hiding": 0.313549421592915,
+                    "separation": 0.38286413964890953,
+                    "concern": 0.27300291078209854,
+                    "metric": 0.22192034840549946
+                }
+            }
+        ]
+    },
+    {
+        "code": "DES",
+        "name": "Software design - supplemental",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "DES.str",
+                "name": "Design strategies",
+                "term_frequencies": {
+                    "datastructure": 0.7657282792978191,
+                    "centered": 0.7657282792978191,
+                    "design": 0.5054768156110233,
+                    "aspectoriented": 0.7657282792978191
+                }
+            },
+            {
+                "code": "DES.hci",
+                "name": "Human-computer interaction design",
+                "term_frequencies": {
+                    "interface": 0.1878728488745542,
+                    "modality": 0.24119186276378077,
+                    "speech": 0.29451087665300735,
+                    "natural": 0.24119186276378077,
+                    "language": 0.24119186276378077,
+                    "audio": 0.29451087665300735,
+                    "video": 0.29451087665300735,
+                    "tactile": 0.29451087665300735,
+                    "metaphors": 0.29451087665300735,
+                    "conceptual": 0.29451087665300735,
+                    "model": 0.14482548057182937,
+                    "psychology": 0.29451087665300735,
+                    "hci": 0.24119186276378077
+                }
+            },
+            {
+                "code": "DES.ev",
+                "name": "Design evaluation",
+                "term_frequencies": {
+                    "formal": 0.6789606424203467,
+                    "design": 0.42123067967585276,
+                    "analysis": 0.31275654619764337
+                }
+            }
+        ]
+    },
+    {
+        "code": "VAV",
+        "name": "Software verification and validation - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "VAV.fnd",
+                "name": "V&V terminology and foundations",
+                "term_frequencies": {
+                    "vv": 0.5453033419007217,
+                    "objective": 0.16646266941256935,
+                    "constraint": 0.13632583547518043,
+                    "planning": 0.11869691773134719,
+                    "effort": 0.13632583547518043,
+                    "documenting": 0.16646266941256935,
+                    "strategy": 0.16646266941256935,
+                    "including": 0.13632583547518043,
+                    "test": 0.11869691773134719,
+                    "artifact": 0.16646266941256935,
+                    "metrics": 0.16646266941256935,
+                    "measurement": 0.09648710800239106,
+                    "reliability": 0.11869691773134719,
+                    "usability": 0.08856008379395826,
+                    "performance": 0.0818578803232079,
+                    "involvement": 0.16646266941256935,
+                    "different": 0.16646266941256935,
+                    "point": 0.16646266941256935,
+                    "life": 0.10618900153779148,
+                    "cycle": 0.10618900153779148
+                }
+            },
+            {
+                "code": "VAV.rev",
+                "name": "Reviews and static analysis",
+                "term_frequencies": {
+                    "personal": 0.23929008728056844,
+                    "review": 0.3919367769911437,
+                    "design": 0.0789807524392224,
+                    "code": 0.1706268192388116,
+                    "peer": 0.23929008728056844,
+                    "inspection": 0.19596838849557185,
+                    "walkthroughs": 0.23929008728056844,
+                    "static": 0.19596838849557185,
+                    "analysis": 0.05864185241205814,
+                    "common": 0.19596838849557185,
+                    "defect": 0.13870021775343716,
+                    "detection": 0.19596838849557185,
+                    "checking": 0.19596838849557185,
+                    "formal": 0.127305120453815,
+                    "specification": 0.13870021775343716
+                }
+            },
+            {
+                "code": "VAV.tst",
+                "name": "Testing",
+                "term_frequencies": {
+                    "unit": 0.05500867045489736,
+                    "testing": 0.5570265168385904,
+                    "testdriven": 0.06716914730682623,
+                    "development": 0.03573477065370246,
+                    "exception": 0.04789524750563132,
+                    "handling": 0.05500867045489736,
+                    "edge": 0.06716914730682623,
+                    "case": 0.14368574251689398,
+                    "boundary": 0.05500867045489736,
+                    "condition": 0.06716914730682623,
+                    "coverage": 0.06716914730682623,
+                    "analysis": 0.016460870852507546,
+                    "structurebased": 0.06716914730682623,
+                    "blackbox": 0.06716914730682623,
+                    "functional": 0.06716914730682623,
+                    "technique": 0.02357429380177359,
+                    "integration": 0.05500867045489736,
+                    "developing": 0.06716914730682623,
+                    "test": 0.04789524750563132,
+                    "based": 0.11001734090979472,
+                    "user": 0.07786678891421032,
+                    "story": 0.05500867045489736,
+                    "operational": 0.05500867045489736,
+                    "profile": 0.06716914730682623,
+                    "mostused": 0.06716914730682623,
+                    "operation": 0.06716914730682623,
+                    "first": 0.06716914730682623,
+                    "system": 0.02862134770443641,
+                    "acceptance": 0.05500867045489736,
+                    "quality": 0.02862134770443641,
+                    "attribute": 0.03068771675103963,
+                    "usability": 0.07146954130740492,
+                    "security": 0.03303037276199617,
+                    "compatibility": 0.06716914730682623,
+                    "accessibility": 0.06716914730682623,
+                    "regression": 0.05500867045489736,
+                    "tool": 0.03303037276199617,
+                    "automation": 0.06716914730682623,
+                    "interface": 0.042848193602968494,
+                    "performance": 0.03303037276199617
+                }
+            },
+            {
+                "code": "VAV.par",
+                "name": "Problem analysis and reporting",
+                "term_frequencies": {
+                    "analyzing": 0.13000138608671358,
+                    "failure": 0.13000138608671358,
+                    "report": 0.14930924837757856,
+                    "debugging": 0.1823162569756712,
+                    "fault": 0.10567635638357116,
+                    "isolation": 0.1823162569756712,
+                    "technique": 0.06398736889052832,
+                    "defect": 0.21135271276714232,
+                    "analysis": 0.04467950659966334,
+                    "identifying": 0.1823162569756712,
+                    "product": 0.09699437748862096,
+                    "process": 0.08329523118139329,
+                    "root": 0.13000138608671358,
+                    "cause": 0.13000138608671358,
+                    "critical": 0.14930924837757856,
+                    "injection": 0.1823162569756712,
+                    "late": 0.1823162569756712,
+                    "detection": 0.14930924837757856,
+                    "problem": 0.11630223977948591,
+                    "tracking": 0.14930924837757856
+                }
+            }
+        ]
+    },
+    {
+        "code": "PRO",
+        "name": "Software process - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "PRO.con",
+                "name": "Process concepts",
+                "term_frequencies": {
+                    "themes": 0.09338149747534379,
+                    "terminology": 0.09338149747534379,
+                    "software": 0.1310960728488873,
+                    "engineering": 0.07958130825135978,
+                    "process": 0.25598046655745255,
+                    "infrastructure": 0.09338149747534379,
+                    "personnel": 0.09338149747534379,
+                    "tool": 0.045920274327653214,
+                    "training": 0.09338149747534379,
+                    "modeling": 0.059569439887053766,
+                    "specification": 0.054126914245243775,
+                    "measurement": 0.054126914245243775,
+                    "analysis": 0.06865387599460465,
+                    "improvement": 0.07647546868119877,
+                    "individual": 0.06658607580051185,
+                    "team": 0.054126914245243775,
+                    "organization": 0.049680047006366836,
+                    "quality": 0.07958130825135978,
+                    "control": 0.06658607580051185,
+                    "defect": 0.10825382849048755,
+                    "prevention": 0.07647546868119877,
+                    "review": 0.07647546868119877,
+                    "metric": 0.054126914245243775,
+                    "root": 0.06658607580051185,
+                    "cause": 0.06658607580051185,
+                    "critical": 0.07647546868119877,
+                    "improve": 0.09338149747534379,
+                    "practice": 0.07647546868119877
+                }
+            },
+            {
+                "code": "PRO.imp",
+                "name": "Process implementation",
+                "term_frequencies": {
+                    "levels": 0.07813553870385907,
+                    "process": 0.21418773732358273,
+                    "definition": 0.16714463925434606,
+                    "organization": 0.08313803784738939,
+                    "project": 0.05571487975144868,
+                    "team": 0.090579734043061,
+                    "individual": 0.11142975950289737,
+                    "lifecycle": 0.06398967787610509,
+                    "model": 0.11526926004696622,
+                    "characteristic": 0.06398967787610509,
+                    "planbased": 0.07813553870385907,
+                    "incremental": 0.07813553870385907,
+                    "iterative": 0.07813553870385907,
+                    "agile": 0.07813553870385907,
+                    "software": 0.08226947428782212,
+                    "measurement": 0.090579734043061,
+                    "analysis": 0.03829671994256858,
+                    "improvement": 0.12797935575221017,
+                    "implementation": 0.07813553870385907,
+                    "context": 0.05571487975144868,
+                    "system": 0.03329422079903827,
+                    "engineering": 0.03329422079903827,
+                    "tailoring": 0.07813553870385907,
+                    "effect": 0.05571487975144868,
+                    "external": 0.06398967787610509,
+                    "factor": 0.06398967787610509,
+                    "contract": 0.049843817048351106,
+                    "legal": 0.06398967787610509,
+                    "requirement": 0.03842308668232207,
+                    "standard": 0.05571487975144868,
+                    "acquisition": 0.07813553870385907,
+                    "practice": 0.06398967787610509
+                }
+            },
+            {
+                "code": "PRO.pp",
+                "name": "Project planning and tracking",
+                "term_frequencies": {
+                    "requirements": 0.04267699007798067,
+                    "management": 0.14090463665591563,
+                    "product": 0.03917080629348154,
+                    "backlog": 0.07362771916325184,
+                    "priority": 0.06029796569094519,
+                    "dependency": 0.07362771916325184,
+                    "change": 0.07362771916325184,
+                    "effort": 0.06029796569094519,
+                    "estimation": 0.14725543832650367,
+                    "historical": 0.06029796569094519,
+                    "data": 0.052500559765788185,
+                    "consensus": 0.07362771916325184,
+                    "based": 0.06029796569094519,
+                    "technique": 0.0516821056423498,
+                    "work": 0.07362771916325184,
+                    "breakdown": 0.07362771916325184,
+                    "task": 0.07362771916325184,
+                    "scheduling": 0.07362771916325184,
+                    "resource": 0.07362771916325184,
+                    "allocation": 0.14725543832650367,
+                    "risk": 0.06029796569094519,
+                    "identification": 0.07362771916325184,
+                    "mitigation": 0.07362771916325184,
+                    "remediation": 0.07362771916325184,
+                    "status": 0.07362771916325184,
+                    "tracking": 0.24119186276378077,
+                    "project": 0.052500559765788185,
+                    "metric": 0.04267699007798067,
+                    "earned": 0.07362771916325184,
+                    "value": 0.06029796569094519,
+                    "velocity": 0.07362771916325184,
+                    "burndown": 0.07362771916325184,
+                    "chart": 0.07362771916325184,
+                    "defect": 0.04267699007798067,
+                    "technical": 0.07362771916325184,
+                    "debt": 0.07362771916325184,
+                    "team": 0.04267699007798067,
+                    "selfmanagement": 0.07362771916325184,
+                    "progress": 0.07362771916325184,
+                    "dynamic": 0.06029796569094519,
+                    "workload": 0.07362771916325184,
+                    "response": 0.06029796569094519,
+                    "emergent": 0.07362771916325184,
+                    "issue": 0.03620637014295734
+                }
+            },
+            {
+                "code": "PRO.cm",
+                "name": "Software configuration management",
+                "term_frequencies": {
+                    "revision": 0.1823162569756712,
+                    "control": 0.13000138608671358,
+                    "release": 0.14930924837757856,
+                    "management": 0.34890671933845774,
+                    "configuration": 0.2986184967551571,
+                    "tool": 0.17930773785083634,
+                    "build": 0.1823162569756712,
+                    "process": 0.16659046236278657,
+                    "including": 0.14930924837757856,
+                    "automated": 0.1823162569756712,
+                    "testing": 0.11630223977948591,
+                    "continuous": 0.1823162569756712,
+                    "integration": 0.14930924837757856,
+                    "software": 0.06398736889052832,
+                    "maintenance": 0.14930924837757856,
+                    "issue": 0.08965386892541817
+                }
+            },
+            {
+                "code": "PRO.evo",
+                "name": "Evolution processes and activities",
+                "term_frequencies": {
+                    "basic": 0.30529337942115053,
+                    "concept": 0.3919367769911437,
+                    "evolution": 0.3919367769911437,
+                    "maintenance": 0.3919367769911437,
+                    "working": 0.3919367769911437,
+                    "legacy": 0.4785801745611369,
+                    "system": 0.20392710239410944,
+                    "refactoring": 0.4785801745611369
+                }
+            }
+        ]
+    },
+    {
+        "code": "PRO",
+        "name": "Software process - supplemental",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "PRO.con",
+                "name": "Process concepts",
+                "term_frequencies": {
+                    "systems": 0.7838735539822874,
+                    "engineering": 0.4078542047882189,
+                    "lifecycle": 0.7838735539822874,
+                    "model": 0.4706828118584454
+                }
+            },
+            {
+                "code": "PRO.cm",
+                "name": "Software configuration management",
+                "term_frequencies": {
+                    "distribution": 1.9143206982445475,
+                    "backup": 1.9143206982445475
+                }
+            }
+        ]
+    },
+    {
+        "code": "QUA",
+        "name": "Software quality - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "QUA.cc",
+                "name": "Software quality concepts and culture",
+                "term_frequencies": {
+                    "definitions": 0.15952672485371228,
+                    "quality": 0.33987850399018243,
+                    "societys": 0.15952672485371228,
+                    "concern": 0.11375121282587439,
+                    "cost": 0.26129118466076245,
+                    "impact": 0.11375121282587439,
+                    "bad": 0.15952672485371228,
+                    "model": 0.0784471353097409,
+                    "attribute": 0.07288332728371913,
+                    "software": 0.055988947779212275,
+                    "dependability": 0.13064559233038123,
+                    "usability": 0.08487008030254334,
+                    "safety": 0.11375121282587439,
+                    "roles": 0.15952672485371228,
+                    "people": 0.15952672485371228,
+                    "process": 0.07288332728371913,
+                    "method": 0.10176445980705018,
+                    "tool": 0.0784471353097409,
+                    "technology": 0.15952672485371228
+                }
+            },
+            {
+                "code": "QUA.pca",
+                "name": "Process assurance",
+                "term_frequencies": {
+                    "nature": 0.30529337942115053,
+                    "process": 0.4372999637023148,
+                    "assurance": 0.6825072769552464,
+                    "quality": 0.20392710239410944,
+                    "planning": 0.3412536384776232,
+                    "technique": 0.16796684333763684
+                }
+            },
+            {
+                "code": "QUA.pda",
+                "name": "Product assurance",
+                "term_frequencies": {
+                    "nature": 0.09769388141476817,
+                    "product": 0.32590110836176645,
+                    "assurance": 0.21840232862567885,
+                    "distinctions": 0.1531456558595638,
+                    "vv": 0.125419768637166,
+                    "quality": 0.19577001829834506,
+                    "model": 0.07530924989735127,
+                    "root": 0.10920116431283942,
+                    "cause": 0.10920116431283942,
+                    "analysis": 0.03753078554371721,
+                    "defect": 0.08876813936219978,
+                    "prevention": 0.125419768637166,
+                    "metric": 0.08876813936219978,
+                    "measurement": 0.08876813936219978,
+                    "assessment": 0.1531456558595638,
+                    "attribute": 0.06996799419237036,
+                    "usability": 0.08147527709044161,
+                    "reliability": 0.10920116431283942,
+                    "availability": 0.125419768637166
+                }
+            }
+        ]
+    },
+    {
+        "code": "SEC",
+        "name": "Security - core",
+        "discipline": "Software engineering",
+        "knowledge": [
+            {
+                "code": "SEC.sfd",
+                "name": "Security fundamentals",
+                "term_frequencies": {
+                    "information": 0.08421886328859325,
+                    "assurance": 0.09413893475244778,
+                    "concept": 0.10812049020445344,
+                    "confidentiality": 0.13202211712031361,
+                    "integrity": 0.13202211712031361,
+                    "availability": 0.10812049020445344,
+                    "nature": 0.08421886328859325,
+                    "threat": 0.10812049020445344,
+                    "natural": 0.10812049020445344,
+                    "intentional": 0.13202211712031361,
+                    "accidental": 0.13202211712031361,
+                    "encryption": 0.13202211712031361,
+                    "digital": 0.13202211712031361,
+                    "signature": 0.13202211712031361,
+                    "message": 0.10812049020445344,
+                    "authentication": 0.13202211712031361,
+                    "hash": 0.13202211712031361,
+                    "function": 0.13202211712031361,
+                    "common": 0.10812049020445344,
+                    "cryptographic": 0.13202211712031361,
+                    "protocol": 0.09413893475244778,
+                    "application": 0.13202211712031361,
+                    "strength": 0.13202211712031361,
+                    "weakness": 0.13202211712031361,
+                    "nontechnical": 0.13202211712031361,
+                    "security": 0.06492176715288903,
+                    "issue": 0.06492176715288903,
+                    "social": 0.10812049020445344,
+                    "engineering": 0.056255752384581914
+                }
+            },
+            {
+                "code": "SEC.net",
+                "name": "Computer and network security",
+                "term_frequencies": {
+                    "network": 0.49636892869472465,
+                    "security": 0.34231477226068757,
+                    "threat": 0.2850449287208318,
+                    "attack": 0.34805830877173594,
+                    "cryptography": 0.34805830877173594,
+                    "protection": 0.34805830877173594,
+                    "defense": 0.34805830877173594,
+                    "mechanism": 0.34805830877173594,
+                    "tool": 0.17115738613034379
+                }
+            },
+            {
+                "code": "SEC.dev",
+                "name": "Developing secure software",
+                "term_frequencies": {
+                    "building": 0.1823162569756712,
+                    "security": 0.17930773785083634,
+                    "software": 0.12797473778105664,
+                    "development": 0.09699437748862096,
+                    "life": 0.11630223977948591,
+                    "cycle": 0.11630223977948591,
+                    "requirement": 0.08965386892541817,
+                    "analysis": 0.04467950659966334,
+                    "specification": 0.10567635638357116,
+                    "secure": 0.3646325139513424,
+                    "design": 0.06017581138226468,
+                    "principle": 0.11630223977948591,
+                    "pattern": 0.11630223977948591,
+                    "construction": 0.14930924837757856,
+                    "technique": 0.06398736889052832,
+                    "securityrelated": 0.1823162569756712,
+                    "verification": 0.1823162569756712,
+                    "validation": 0.1823162569756712
+                }
+            }
+        ]
+    }
+]

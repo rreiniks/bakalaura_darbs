@@ -1,0 +1,2994 @@
+[
+    {
+        "name": "Discrete mathematics for computing",
+        "kp": 6,
+        "type": "VSK",
+        "code": "DatZB010",
+        "similarities": [
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.15876359831603354
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.12402184683554406
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.05744731398408091
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.0342591264105146
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.03423831915827088
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.0324569741603908
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.031790668062713884
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.0305558687464983
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0236030964874398
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.02334249862567598
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.02095608507540791
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Algebra",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB092",
+        "similarities": [
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.1282222359576371
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.052640028718157955
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.028912958394304848
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.010796363629585245
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.010572797455078364
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.008534904919833193
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.00825314670769662
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.006944052317320219
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.004391089410101526
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.0022143807511963835
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.0
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Internet, Netiquette And The Legal Regulation",
+        "kp": 3,
+        "type": "VSK",
+        "code": "SDSKB110",
+        "similarities": [
+            [
+                "PRF",
+                "Professional practice - core",
+                0.01984507266219987
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.01593668963649534
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.01504068065189627
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.014011320157720056
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.013548471938239107
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.011795798201246205
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.007521655040708851
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.006215759016149562
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Calculus I",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB091",
+        "similarities": [
+            [
+                "SEC",
+                "Security - core",
+                0.10100814983408007
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.0798430495867808
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.06160992273624868
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.05050279370519376
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.045417145051475365
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.040158517468562215
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.03703775426150474
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.03559822443020895
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.020874189196921057
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.02071489524852543
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.019521836419165044
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.01710238077106402
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.015272294354134177
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.01214333355625793
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0034312789150017023
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Analytical geometry",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB096",
+        "similarities": [
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.07256163215742628
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.06546172559425127
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.02251174617547593
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.018949271529961606
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.01570915477872552
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.013793989361169708
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.011927610510333529
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.011266709819709281
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.010913026663542023
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.009436595452345794
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.008846618993853203
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.008095530926269807
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.006507947507493305
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.004678706855056088
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0032433496793581457
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Principles of Economics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "EkonB012",
+        "similarities": [
+            [
+                "PRO",
+                "Software process - core",
+                0.048586998384134744
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.03974519224540502
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.03406855766894409
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.02862155823826467
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.02577447551153045
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.022714245054801224
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0206301360098151
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.017432454737986283
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.016897085067272243
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.012009050806837167
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.010238250433229621
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.009442738350881545
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.005491184375628705
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.0029681702801295233
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.0009096050656412067
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Introduction to management",
+        "kp": 6,
+        "type": "VSK",
+        "code": "VadZB019",
+        "similarities": [
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.15741093500647613
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.09054670164397413
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.06498034676089257
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.05667011060092375
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.05365126765657418
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.036369872113327886
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.035176849261284636
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.027818907049896993
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.02038346642440757
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.008680744022427708
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.005812772807213061
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Probability Theory and Statistics",
+        "kp": 3,
+        "type": "VSK",
+        "code": "MateB094",
+        "similarities": [
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.21237672075205552
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.11607354028089739
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.08073646389875885
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0688494341298519
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.06578864038979726
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.039406485398346895
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.028929714165189725
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.026272011130006344
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.026030145105405425
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.023988188205227065
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.0227063500955289
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.01286582752895525
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.008141238325708754
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.006916585741613053
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.004902380408709919
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.003943155042871265
+            ]
+        ]
+    },
+    {
+        "name": "Civil protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "KimiB001",
+        "similarities": [
+            [
+                "PRF",
+                "Professional practice - core",
+                0.1339733582026285
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.0956375046571089
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.07247853340143726
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.05919352121331231
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.05672088446795801
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.04844273752681929
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.03065867361842973
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.024345743225380734
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.02173442165026361
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.014988526602129225
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.012246761287266286
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.007964213236733965
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.002492228969448085
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0007638253510512497
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Environment protection",
+        "kp": 2,
+        "type": "VSK",
+        "code": "VidZB001",
+        "similarities": [
+            [
+                "QUA",
+                "Software quality - core",
+                0.09059424869872841
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.07384510766599801
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.06424558751729077
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.04956167375894078
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.049170997327883034
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.0479820818652999
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.042438143194494043
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.030778539129799942
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.024843011896870836
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.0191852787857275
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.013103732478403735
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Information Technology Project Management",
+        "kp": 3,
+        "type": "VSK",
+        "code": "DatZB017",
+        "similarities": [
+            [
+                "PRO",
+                "Software process - core",
+                0.25671297961608547
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.11633718603918868
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.06559446265151156
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.031290979994793786
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.024177312955079917
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.01838451657346781
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.015034990827196932
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.013655401531880775
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.009981311922032787
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.008469189665189367
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.004014123956726239
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Communication and Cognitive Sciences",
+        "kp": 3,
+        "type": "VSK",
+        "code": "KomZB103",
+        "similarities": [
+            [
+                "PRF",
+                "Professional practice - core",
+                0.1054730844075516
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.029604105297608443
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.02930450682092794
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.025234937094423978
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.021163994190405145
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.019074225139024476
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.018104280416848525
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.014260987846368254
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.007322314248468324
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.005354731168569944
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.002871957110280217
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.002083756682482152
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.001094327297673342
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.00047573466070624705
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Algorithms and Programming",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB009",
+        "similarities": [
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.2781711236405637
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.0848397654522357
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.049948928394001633
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.04584246764009818
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.029191145268207735
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.02652398339724932
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.016939985116154917
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.016093107990131084
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.014790394351279618
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.011109581142879526
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.010915116501966577
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.009074632896295872
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Computer Architecture and computer engineering fundamentals I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB066",
+        "similarities": [
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.08759014844221555
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.07685723651384777
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.050580397383487956
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.03105296736605577
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.02551790355208129
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.02249589069710427
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.020419609015571244
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.019317258183252962
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.018887409628503833
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.016075299869301663
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.012363295487363046
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Computer networks I and insight into industry",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB067",
+        "similarities": [
+            [
+                "SEC",
+                "Security - core",
+                0.1639479101080783
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.07325505527434503
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.06571781561573224
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.04645382988793313
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.04017614546269709
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.029200144965467023
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.023760008217748634
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.022464562574856416
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.018221280360134075
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.01609626564820272
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.013231025919730802
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.009932977942717297
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0066225864485759435
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.005335690336807599
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Operating System",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB018",
+        "similarities": [
+            [
+                "PRO",
+                "Software process - core",
+                0.06793719940200617
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.06523473209129446
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.04026903327578272
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.027676867237566898
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.02677101694697988
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.021610697034131814
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.018514008235651233
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.013583810254997133
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.003506941220617502
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies I",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB001",
+        "similarities": [
+            [
+                "DES",
+                "Software design - core",
+                0.031046102559259055
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.027714988385940907
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.026191554171772883
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.017461595739730686
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.011917935195154118
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.008547298924478391
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.0029509967943328495
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Databases and Information Systems Fundamentals",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB068",
+        "similarities": [
+            [
+                "DES",
+                "Software design - core",
+                0.1383348659488823
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.089272950832995
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.05390259740401153
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.04884756849718842
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.04675499762128783
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.04326752515302713
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.027714321997469038
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.023337479319593575
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.02324727555574888
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.021149759036867447
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.011636066091611564
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.006084211169695551
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0024189774272202376
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Software development fundamentals",
+        "kp": 7,
+        "type": "NTP",
+        "code": "DatZB007",
+        "similarities": [
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.27427940113387345
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.09399370776787534
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.08718634806068477
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.08342890338717684
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.07512366846815752
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.06492662586394617
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.056785933330434975
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.051190767159517384
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.01832245992542951
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.012390538699018135
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.0035419445143410394
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Web Technologies II",
+        "kp": 4,
+        "type": "NTP",
+        "code": "DatZB032",
+        "similarities": [
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.044531758077477314
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.034116868613635366
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.033888358785278294
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.01976613072327001
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.017350056218002265
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.016176305123997526
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.012832915813706023
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.01160814643140234
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.011328977361898801
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.006610836758995708
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.0016337477184250942
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.0015852125396928394
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Automata Theory",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB016",
+        "similarities": [
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.12136128795739243
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.06470852964947123
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.06238220007518209
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.02711042783093579
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.018396432241447505
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.017542945844388567
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.014301034911300034
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.013859672277991337
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.012988866439955537
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.009367617399834284
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.007285570753174698
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.006446068382329989
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.00479928544384285
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0036149916190390953
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.003457285032841194
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.002739648649925064
+            ]
+        ]
+    },
+    {
+        "name": "Software Engineering",
+        "kp": 9,
+        "type": "NTP",
+        "code": "DatZB038",
+        "similarities": [
+            [
+                "PRO",
+                "Software process - core",
+                0.2118052574929158
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.14755883468764783
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.14739096229464038
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.11603618087680423
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.10576620866560185
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.08951849066808701
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.08110733444702821
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.07432544525616798
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.0682985478360744
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.052799499056874095
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.04308335447614996
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.034510673344157854
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.03147839465259202
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.02939689499582396
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.027112145625409097
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.024583405800561647
+            ]
+        ]
+    },
+    {
+        "name": "Formal Grammars",
+        "kp": 3,
+        "type": "NTP",
+        "code": "DatZB033",
+        "similarities": [
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.04482940187227899
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.031678518882495746
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.018683910648515132
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.017817086941989878
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.01760660428817442
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.01452451513190805
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.014076255388056536
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.013191841592135309
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.011731765203479915
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.009514003812850608
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.007399421321981315
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.006546800168041469
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.0048742831888594264
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0036714825743811206
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0035113115299888684
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.0027824607462853023
+            ]
+        ]
+    },
+    {
+        "name": "Mathematical Logic",
+        "kp": 3,
+        "type": "NTP",
+        "code": "MateB098",
+        "similarities": [
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.21574212171034718
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.08843825935654939
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.0796635097667852
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.05056098632847883
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.05033489087472514
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.027554229046612342
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.017595123063064527
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.013663229984560335
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.008037720226413015
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.006833334092601597
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.006039527587198269
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.005499900961572914
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.002965977652657824
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Databases II",
+        "kp": 2,
+        "type": "PI-o",
+        "code": "DatZB045",
+        "similarities": [
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.0700473741226599
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.05994693362437263
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.0234465693679833
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.018998350289862978
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.016767040111471065
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.012796091863442915
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.005281455793831947
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.0043140485559852
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Data structures and algorithms",
+        "kp": 4,
+        "type": "PI-o",
+        "code": "DatZB044",
+        "similarities": [
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.13848671918375285
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.07719777812846167
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.06843048867695282
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.05015459782453043
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.041624735155520835
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.031070225465168654
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.024808414763795417
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.021529710110751964
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.01666163630690274
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.015685338474151624
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Software Testing",
+        "kp": 2,
+        "type": "PI-o",
+        "code": "DatZB055",
+        "similarities": [
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.50913257485164
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.17847586454082232
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.10114707664284268
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.08545343222980985
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.07903978048184476
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.07409607751003121
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.04350088464272812
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.038651611510147225
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.035672000581931596
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.03271330351095855
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.030736935378533996
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.02195526010385135
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.010517136412441322
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.003176104514981868
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.000522084970644343
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Theory of Algorithms",
+        "kp": 2,
+        "type": "PI-o",
+        "code": "DatZB042",
+        "similarities": [
+            [
+                "PRF",
+                "Professional practice - core",
+                0.06413478976196575
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.05780057173899723
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.04276706967475752
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.021675865197671403
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.017809431387935115
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.012929970611691802
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.011719362683397965
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.01036708465115496
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.010174432141615163
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.010171225368721412
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.009686596157885585
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.008985384124179362
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.00883840118825926
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.006712303931974795
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.004740389075948572
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Object-oriented programming",
+        "kp": 4,
+        "type": "PI-o",
+        "code": "DatZB028",
+        "similarities": [
+            [
+                "DES",
+                "Software design - core",
+                0.22903695761776874
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.21682709134655376
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.10573987550670372
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.10524875465098
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.07272121179429775
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.06993986284618517
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.04497183294713468
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.03768979169567226
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.03016668821650018
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.025726982123900934
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.013628650770034648
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.0028947342119092375
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Principles of Assembly Languages",
+        "kp": 4,
+        "type": "PI-o",
+        "code": "DatZB027",
+        "similarities": [
+            [
+                "DES",
+                "Software design - core",
+                0.12004990855749206
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.11361805672194172
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.06623030028610666
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.04395832366471099
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.03700072699843844
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.028689672560955812
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.01716284461498236
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.014170747840187148
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.009219107374613324
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.008542908904946732
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.0
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.0
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Modeling basics",
+        "kp": 2,
+        "type": "PI-o",
+        "code": "DatZB049",
+        "similarities": [
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.44688439810164826
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.40638408806994497
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.06119930125746794
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.054841755267738844
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.047975583398692644
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.024874868297362972
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.01937608673525592
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.014471155504534991
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.011507612360716016
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.007907718200380628
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.0023396226634824933
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.0009666169106094801
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Operating System Concepts",
+        "kp": 2,
+        "type": "PI-o",
+        "code": "DatZB057",
+        "similarities": [
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.17116245684267606
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.10708571793829921
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.0945779799742044
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.0910738201053754
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.07962441530544148
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.056516289088356986
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.0540409655810955
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.05350431483488588
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.049639445341166995
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.04682673069156971
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.024012408344142762
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.01673640874704789
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.013378607827912526
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Programming Languages",
+        "kp": 2,
+        "type": "PI-o",
+        "code": "DatZB059",
+        "similarities": [
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.2814806351011719
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.07531531780735455
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.04461021874702378
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.03156314035534991
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.02911798466799874
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.027103887299778303
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.02510061818075114
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.022576642786606826
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.01722841609054873
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.010295905472065575
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.0
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.0
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Software Requirement Analysis",
+        "kp": 4,
+        "type": "PI-o",
+        "code": "DatZB037",
+        "similarities": [
+            [
+                "REQ",
+                "Requirements analysis and specification - supplemental",
+                0.25518183148273454
+            ],
+            [
+                "REQ",
+                "Requirements analysis and specification - core",
+                0.2189447191007052
+            ],
+            [
+                "DES",
+                "Software design - core",
+                0.08371471282804609
+            ],
+            [
+                "PRO",
+                "Software process - core",
+                0.07066393208246034
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - core",
+                0.07019525268454246
+            ],
+            [
+                "QUA",
+                "Software quality - core",
+                0.05365014526998683
+            ],
+            [
+                "SEC",
+                "Security - core",
+                0.047274057653965564
+            ],
+            [
+                "CMP",
+                "Computing essentials - core",
+                0.0400941821413378
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - supplemental",
+                0.035824960714485724
+            ],
+            [
+                "MAA",
+                "Software modeling and analysis - core",
+                0.030170586573457888
+            ],
+            [
+                "VAV",
+                "Software verification and validation - core",
+                0.02144410269678299
+            ],
+            [
+                "PRF",
+                "Professional practice - core",
+                0.010517675080122784
+            ],
+            [
+                "CMP",
+                "Computing essentials - supplemental",
+                0.009041297433898619
+            ],
+            [
+                "DES",
+                "Software design - supplemental",
+                0.0027710022919506198
+            ],
+            [
+                "FND",
+                "Mathematical and engineering fundamentals - supplemental",
+                0.0
+            ],
+            [
+                "PRO",
+                "Software process - supplemental",
+                0.0
+            ]
+        ]
+    }
+]

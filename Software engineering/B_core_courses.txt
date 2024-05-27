@@ -1,0 +1,89 @@
+Databases II
+The goal of the course is to learn in-depth the principles of relational database systems.
+The task is to familiarize students with data structures and algorithms that are used in relational database implementations. At the end of the course, students are expected to be able to justify and apply different capabilities of relational databases.
+2
+PI-o
+DatZB045
+
+Data structures and algorithms
+The course covers 1) the simplest and most popular data structures: list, stack, queue, binary tree, ordered tree, graph, priority queue, heap, set, dictionary, balanced tree, hash table, etc .; 2) basic algorithms for working with these data structures or for solving specific problems, for example, sorting, searching, finding the optimum; 3) algorithm properties, design paradigms, factors influencing the speed and memory usage.
+The course aims to learn the most important data structures and algorithms, create programs for small algorithmic tasks, and analyze and evaluate solutions.
+The tasks of the course are 1) to master the most important data structures, their properties and implementation possibilities; 2) to master the most important algorithms, their properties, creation paradigms and implementation; 3) to learn to analyze the problem, find different solutions for it, evaluate the created solution; 4) to be able to create simple working programs.
+Students must learn both the topics offered in the lectures and independently find and acquire additional knowledge about data structures and algorithms in order to be able to create solutions to the given tasks. Students have to analyze a bigger problem, create a solution design, and program several small algorithmic tasks to obtain working programs. Solutions must be based on primary needs: safe and easy to implement, fast-working, and minimal memory usage.
+4
+PI-o
+DatZB044
+
+Software Testing
+This software testing course provides students with basic concepts of testing theory and practice.
+The goal of the course is to explain the necessity of software testing, to demonstrate various methods, its selection and combination according to program, to obtain practical testing skills, and to understand testing process and related problems. The main attention is paid to static, structural and functional testing, and software testing process organization.
+The course provides the basics of software testing theory and practice. The aim of the course is to explain the importance of testing in the development of high quality software, to demonstrate the diversity of testing methods, their choice and their interaction, depending on the specific nature of the program, to acquire practical skills in testing, and to understand problems that hinder the testing process. Particular attention is paid to static, structural and functional testing and to the organization of the testing process.
+Study course tasks: presenting the concepts of software testing, testing processes and management, static and dynamic testing methods; providing insight into the practical application of testing methods using software specification and structure; analysing software using defectoriented and experience-based testing methods; giving an insight into the testing of software quality characteristics; comparative analysis of different software testing tools.
+2
+PI-o
+DatZB055
+
+Theory of Algorithms
+The goal of the courese is to introduce the main notions of the theory of computation and their applications to the analysis of specific computational problems.
+Tasks:
+Provide knowledge about theoretical models of computation, algorithmically solvable and unsolvable problems, and basic notions of computational complexity.
+Create skills for determining the computational complexity of various problems and classifying them by their complexity.
+2
+PI-o
+DatZB042
+
+Object-oriented programming
+Goal of the course "Object-oriented programming" is to gain knowledge on object-oriented approach to problem solution design and implementation.
+Tasks of the course:
+Acquire object-oriented programming principles and methods.
+Acquire Java features – different type values, graphical user interface design and implementation, exception handling, lambda expressions, mobile application implementation.
+Implement the design in Eclipse Java environment and Android Studio.
+Acquire basic features of object-oriented languages Kotlin, Groovy, Scala and Clojure.
+4
+PI-o
+DatZB028
+
+Principles of Assembly Languages
+Course goal: To gain insight and practical skills for working with low-level programming languages that are close to hardware.
+Course objectives: To learn the ARM Assembly programming language; to develop and test Assembly programs; get to know RISC and CISC architectures.
+Introductory course for mastering computer architecture from the programmer's point of view. Skills for programming in assembly, communication with higher level languages and operating system are acquired. Low-level optimization as well as the general structure of the computer and processor are considered. The course uses the ARM architecture and the Assembly language, but also introduces the key features of other popular architectures.
+4
+PI-o
+DatZB027
+
+Modeling basics
+The aim of the course is to basic knowldege of the practical use of system modeling languages and tools.
+The tasks of the course include getting acquainted with two main types of system modeling
+(object-oriented modeling and business modeling), mastering UML class diagrams, mastering business modeling,
+which is necessary for the needs of object-oriented modeling.
+In addition, they include a review of the system modeling methodology, learning how to use class diagrams
+in metamodels in construction, solving specific modeling tasks.
+Case studies are included, and system modelling methodology is discussed.
+2
+PI-o
+DatZB049
+
+Operating System Concepts
+Course goal: To learn about the basic principles of modern operating systems that affect software performance and fair distribution of computing resources.
+Course objectives: To master the fundamental components of operating systems architecture, and practice evaluating operating system performance depending on various configuration parameters.
+The operating system is an essential component of any computer system. This course does not cover specific operating systems or hardware, but fundamental concepts that are applicable to any operating system. The following questions are answered: what are operating systems, what do they do, how are they designed, and how has the concept of the operating system evolved historically? The course covers the basic concepts of process and CPU planning, memory management, secondary and tertiary memory structure, protection and security, as well as computer system performance evaluation.
+2
+PI-o
+DatZB057
+
+Programming Languages
+The aim of the course is to acquaint students with the basic concepts of programming languages, the history of programming languages ​​and programming language definition methods, as well as different types of programming (programming paradigms): imperative, functional, logical, object-oriented, parallel, and their typical programming methods and tools.
+The tasks of the course are:
+to give an idea about the basic concepts of programming languages, their development, and methods of defining programming languages: programming language syntax and semantics
+to acquaint students with the fundamental types of programming (paradigms) - imperative, functional, logical, object-oriented, parallel, with the corresponding programming languages, their essential constructions, and program development methods, and
+to allow to test different programming paradigms and languages ​​in action by creating simple programs.
+2
+PI-o
+DatZB059
+
+Software Requirement Analysis
+The aim of the course is to provide students with knowledge about the process of information system (IS) requirements clarification, analysis and documentation. The course envisages the application of the information acquired in lectures in practical classes, simulating the relationship between the customer and the developer.
+Within the course, students perform the following main tasks: perform system analysis using interviewing methods and learn requirements accumulation methods, present their results in two rounds and prepare a system implementation vision document, including main requirements, technological solution, approximate development plan, additional costs and customer benefits from system implementation, etc.
+4
+PI-o
+DatZB037
