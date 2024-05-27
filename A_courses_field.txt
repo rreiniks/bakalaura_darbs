@@ -1,0 +1,92 @@
+Algorithms and Programming
+The goal of the course „Algorithms and Programming” is to provide with the basic knowledge and skills about algorithms, programming and the process of design of computer programs.
+Course tasks: mastering basic knowledge and skills of programming in languages C++ and Python; mastering programming skills using structured and object-oriented programming paradigms; mastering the main principles of problem solving with computer programming.
+9
+NTP
+DatZB009
+
+Computer Architecture and computer engineering fundamentals I
+This is an introductory course for computer science students. The aim of the course is to expand students' understanding of the structure and principles of operation of computers and their peripherals. The tasks of the course are: 1) to form a general idea about the history of computer machines, the genesis and heritability of ideas, the possibilities of using modern information technologies; 2) to develop competencies to understand and apply the basics of computer architecture, computer physics, binary code processing, logic elements, computer and microcontroller engineering.
+4
+NTP
+DatZB066
+
+Computer networks I and insight into industry
+"Computer networks I and insight into industry" course is based on Cisco “CCNA Routing and Switching: Introduction to Networks” course. It is the first of the four courses leading to the Cisco Certified Network Associate (CCNA) certification.
+The goal of the course is to introduce students to the networking field.
+The tasks of the course are to teach network terminology, classification and protocols, local-area networks (LANs), Open System Interconnection (OSI) models, cabling, cabling tools, routers and routing, Ethernet, Internet Protocol (IP) addressing, and network standards. In addition to the CCNA topics the course covers basic terminology and principles of operation of wireless networks, IT security and Internet of Things. The course includes a theoretical and practical exam.
+4
+NTP
+DatZB067
+
+Operating System
+The aim of the course is to acquaint students in depth with the principles of operation of Windows, Linux and MacOS operating systems (OS), installation, configuration, implementation, possibilities. The task of the course is to prepare students for full-fledged work of an IT specialist with various operating systems, including Microsoft Windows workstations, Windows servers, Linux workstations, as well as an idea of the latest versions of Linux servers and MacOS. The study course covers theoretical material on the computer OS, security features, four practical works about installation and configuration of various OS.
+3
+NTP
+DatZB018
+
+Web Technologies I
+“Web technologies I” is an introductory course to general methods of web development. It provides an insight into the history of web and introduces the main contemporary technologies used for client side web development – HTML, CSS, JavaScript. In the practical part of the course, students individually develop a simple web page. The development simplifies digesting of the theoretical part of the course by getting to know the practical principles of web development.
+4
+NTP
+DatZB001
+
+Databases and Information Systems Fundamentals
+Goal of this course is to introduce students to main concepts of relational databases and information systems, as well as to teach students how to create databases and make manipulations with data.
+The objectives of the course are to acquaint with the advantages and functionality of databases. The task of the course is to give an idea of the concepts of relational databases, as well as to teach students to perform operations in the database - creating a database and tables, inserting, changing, deleting data in a database, making data selection. The aim of the course is to teach students the mathematical foundations of the relational model - functional dependencies and normal forms. Students also need to learn how to build an ER model and create an appropriate database structure.
+Students learn the components, types and architectures of information systems. Several specific types of information systems are introduced - ERP, CRM, BPM, BI. Students learn about various information systems created by Internet technologies, as well as related problems - security and globalization.
+4
+NTP
+DatZB068
+
+Software development fundamentals
+The goal of the course „Software development fundamentals” is to provide with the basic knowledge and practical skills in building software and applying data structures.
+Tasks of the course:
+to obtain various programming techniques are studied – object-oriented and generic programming, file and stream processing, dynamic memory.
+to obtain general knowledge about data structures and their application using C++ standard libraries, as well as implementation of selected data structures.
+to obtain knowledge about evaluation of algorithms and program testing, as well as basic principles of software development and computing platforms.
+7
+NTP
+DatZB007
+
+Web Technologies II
+The goal of the course is to learn server-side web technologies. The course provides an overview to the history of web programming and examines the fundamental web site development technologies – server side scripts, data bases, web server configurations. The popular technologies are included in the course – PHP scripting language, MySQL database engine and Apache web server. In the practical part of the course, students develop a simple web site by creating both the client side interface, and the server side scripts. The work is carried out individually or in small teams. The development simplifies digesting of the theoretical part of the course by getting to know the practical principles of web development.
+Tasks of the study course:
+To acquire knowledge about server-side web technologies.
+To learn to develop a web application in practice, using both server and client side web technologies.
+4
+NTP
+DatZB032
+
+Automata Theory
+The goal of the course is to acquaint with mathematical models used to investigate principal possibilities of computers and programs, to define syntax of programming languages and to build parsing algorithms. Finite automata (transformers and acceptors), nondeterministic acceptors, regular expressions and regular languages, as well as their interconnection are considered. Many examples are given to illustrate these concepts. Special attention is paid to development of synthesis skills of automata and explanation of connection of automata theory to the practical programming.
+The goal of the course is to acquaint with the basic concepts of automata theory and their interrelation, as well as to acquaint with the methods of analysis and synthesis of finite automata, acceptors, and regular expressions.
+3
+NTP
+DatZB016
+
+Software Engineering
+The course provides the necessary software development theory and practice. Theoretical part of the course discusses information system life cycle models, their comparative evaluation. Information system development methods and tools are discussed: requirements collection and analysis, system design and analysis, coding, testing, deployment and maintenance. Software engineering standarts are discussed. In practical part of the course a small information system is designed (except code writing). Project development and implementation is done in small groups, allowing students to learn the collective skills of software project. The aim of the course is to give students the knowledge of software development processes, the basic skills needed to create software development documentation and to be able to present the results of the work, as well as the competence to rightly choose the most appropriate methods, tools for delivering software development processes, as well as to be able to analyze software by exiting documentation.
+9
+NTP
+DatZB038
+
+Formal Grammars
+The goal of the course is to acquaint with mathematical models used to investigate principal possibilities of computers and programs, to define the syntax of programming languages, and to build parsing algorithms. Context-free grammars and pushdown automata, as well as their interconnection, are considered. Many examples are given to illustrate these concepts. Special attention is paid to the development of synthesis skills of grammars and automata.
+The goal of the course is to acquaint with the basic concepts of context-free grammars and the theory of pushdown automata, their interrelation, as well as to acquaint with methods of analysis and synthesis of pushdown automata and context-free grammars.
+3
+NTP
+DatZB033
+
+Mathematical Logic
+Course aim: Introducing of skills, concepts, and capabilities necessary to express one's knowledge in a formal language, to recognize and build entirely formal proofs using only the given axioms. Correcting of typical errors in logical reasoning of students.
+Course tasks: Fundamentals of propositional and predicate calculus. Logical algorithms used in artificial intelligence systems by means of which computers can draw conclusions and prove theorems: reduction of formulas to normal forms, tableaux method.
+3
+NTP
+MateB098
+
+
+
+
+
+

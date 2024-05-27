@@ -1,0 +1,119 @@
+Discrete mathematics for computing
+The aim of this course is to acquaint the students with the basic mathematical notions which are not dependant on the notions of limit and continuity, and are at the mathematical foundations of computing and to help acquire the basic skills in their usage.
+The course tasks are: to learn the basics of mathematical logics (propositions, predicates, quantifiers, normal forms, mathematical induction), set theory (sets, correspondences, mappings, binary relations), modular arithmetics, combinatorics (graphs, rules of sum and product, sieve and pigeonhole principles, the most common types of selections and their numbers), probability theory (event algebra, classical and statistical definitions of probability function, probability axioms, rules of sum and product, sieve principle, conditional probability and independence of events), to develop skills in solving the simplest problems in these areas, to learn to recognize which notions are applicable in a solution of the particular problem.
+6
+VSK
+DatZB010
+
+Algebra
+Course aim: offer the basic algebraic knowledge and mathematical skills necessary for computer science students.
+Course tasks: in order to achieve course aim. 6 topics are covered (systems of linear equations, determinants, complex numbers, matrix algebra, polynomial algebra, basic properties of fields, rings and groups).
+3
+VSK
+MateB092
+
+Internet, Netiquette And The Legal Regulation
+Course objective – to obtain knowledge, skills and competences needed for sensible and responsible use of the Internet. The course begins with the history of the Internet, structure and functioning overview. Then there are discussed etiquette (netiquette) and normative documents of cyberspace, accents - safety and responsibility. Finally, there are debates on e-services, including e-signature.
+Course tasks:
+To get presentation of the history, structure and functioning of the Internet
+To explain etiquette (netiquette) and normative documents of cyberspace
+To educate in the use of e-services
+3
+VSK
+SDSKB110
+
+Calculus I
+The purpose of the course is to help students learn to use the tools of mathematical analysis to solve various problems of a mathematical and physical nature. At first the objects of mathematical analysis are functions. In nature, technology, economy, etc. We encounter movements, processes that can be considered as functions - hence the objective need to study functions.
+Tasks of the course "Calculus I": limit theory, differential calculus, integral calculus and their applications.
+3
+VSK
+MateB091
+
+Analytical geometry
+In this course the basic results of Euclidean geometry are considered that are based on coordinate method and vector calculus which are useful for establishing a mutual relation between numbers and pints and between equations and geometric shapes (lines, surfaces). Vector calculus, transformations of plane and space, properties of lines and planes as well as second order surfaces are discussed in this course.
+The goal of this course is to develop mathematical way of thinking, formal description of geometrical properties also for the purpose of implementing the desired calculations in software.
+Course tasks:
+Learn the main results and applications of analytic geometry.
+Develop the algebraic way of approaching geometrical problems.
+Obtain a wider notion about the geometrical analysis of the plane and the space.
+3
+VSK
+MateB096
+
+Principles of Economics
+The aim of the course is to master microeconomic and macroeconomic models and the main causal relations of economics, using mathematical, problem-solving and statistical analysis methods.
+The goals of the course are:
+learn the main laws of economics;
+to deepen the idea of ​​the behavior of economic subjects in a market economy;
+to get acquainted with and evaluate the economic processes taking place in the country, based on theoretical aspects and international experience.
+3
+VSK
+EkonB012
+
+Introduction to management
+The study course aims at enabling students to learn the modern methods of organisation and planning of business and the professional skills and skills of their use, as well as practices for the organisation and planning methods of economic processes.
+Description of course tasks: identifying the factors affecting the company and learning the skills of establishing companies; learning the methods of management of companies and their conditions of use; learning modern planning methods and the system of indicators used in planning and learning their skills; learning the skills of building the information system required for the management of the company. Explore the international environment of business activities, meet international agreements, types of international transactions. To meet export and market opportunities.
+Course Tasks:
+to explore the nature, forms and environment of business;
+clarify the general rules and principles of the functioning of an economic undertaking;
+clarify the methods of choice of business place and learn how to use them;
+learn the skills and skills of organising and planning economic processes;
+to choose and evaluate a more economically advantageous business option.
+learn skills for creating and validating new business ideas
+6
+VSK
+VadZB019
+
+Probability Theory and Statistics
+The aim of the course is to give an understanding of the basic concepts of probability theory and statistics that are widely used in data statistical analysis.
+Tasks of the study course:
+to understand the methods of collecting and presentation of statistical information, as well as the most important descriptive statistics indicators of empirical distributions;
+to acquaint students with the fundamentals of probability theory and with applications of probability theory in practice,
+to acquaint the basic concepts of mathematical statistics, ideas and methods, on which the testing of statistical hypotheses, correlation and regression analysis is based;
+statistical data processing and analysis with Microsoft Excel and SPSS (or R).
+3
+VSK
+MateB094
+
+Civil protection
+The purpose of the course is to provide and promote students’ understanding, refine a knowledge, facilitate skills and attitude on civil protection issues. Course examines the role of civil protection system in Latvia (also its framework in the EU and NATO), the organization and management structure, and main tasks of the system’s subjects. The course explores the disaster management principles and planning aspects, analyses the legal and practical measures of cooperation among state, local government and other stakeholders during disaster situations, opportunities of involvement of resources. Course gives an insight on possible daily dangerous situations and threats, considers and provides safe behavior principles and actions during such situations. The course describes the role, aim and task of early warning and notification system. The course ensures that students are familiar and aware about the role of media (social networks) and its impact on information dissemination during the emergency situations and disasters. Course ensures that students obtain general knowledge on disaster medical system and the role of first aid.
+The course is developed in accordance to the Latvian national legislation prescribed for minimum requirements for the content of civil protection studies.
+2
+VSK
+KimiB001
+
+Environment protection
+The aim of the course is to provide basic knowledge of environmental science, its interdisciplinary nature and applications. In course are described potential impacts of human activities and their influence to environment, as well as importance not only about direct impacts, but also indirect effects and possible cumulative effects to nature. Environmental science and their functions are described using systemic approach about element and energy fluxes, as well as explaining different protection strategies of nature and ecosystems. Environmental degradation and effects of climate change caused by the society with unsustainable usage of resources and management methods will be analyzed, also will be shown sustainable development goals and existing experience, applications. The course provides general knowledge of environmental processes, the impact of human activities on them and potential solutions to existing environmental problems and preventive actions.
+The tasks of the course is:
+to provide environmental education in the study programs of higher education institutions, taking into account the provisions of the Environmental Protection Law (29.11.2006) article 42;
+to provide theoretical knowledge of environmental science and sustainable development necessary to participate in smart decision-making processes and predict actions to ensure economic development, sustainable principles of resource management and mining without negative impact on the environment and its quality.
+2
+VSK
+VidZB001
+
+Information Technology Project Management
+Course tasks:
+To develop students' understanding of the most important concepts, methods, tools of IT project management.
+To develop practical skills of creating IT project management documentation.
+To promote the application of the acquired academic knowledge and practical skills in team work.
+The theoretical part of the course deals with project management approaches, tools and methods, with special emphasis on the specifics of IT projects. The training is based on the project management standard developed by the Project Management Institute (http://www.pmi.org) and compiled in the "Project Management Book of Knowledge" (PMBOK).
+In the practical part of the course, using the knowledge gained in the theoretical part of the course, team work skills are developed and basic skills in project management are acquired.
+3
+VSK
+DatZB017
+
+Communication and Cognitive Sciences
+The aim of this course is to provide an introduction into the interaction between the most significant interdisciplinary area of contemporary science - Cognitive Sciences – and Communication sciences.
+Cognitive sciences is an interdisciplinary area, dealing with the analysis of intelligence, mind, perception and knowledge, and uses a wide range of methodologies based on diverse sciences – psychology, neurosciences, linguistics, philosophy, logic, computer sciences, and anthropology etc.
+Course tasks:
+Explain the relevance of the cognitive sciences within the framework of research on communication and overall context of contemporary science.
+Provide the understanding (corresponding to bachelor-level studies) about the specifics of interdisciplinary science.
+Provide an overview regarding the theoretic frameworks and methods within the context of cognitive sciences.
+3
+VSK
+KomZB103
+
+
+
+
+
